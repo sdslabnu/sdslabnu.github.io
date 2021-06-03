@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "SDS Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "SDS Lab at Northeastern University."
 sitemap: false
 permalink: /
 ---
