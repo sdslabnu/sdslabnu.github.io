@@ -40,10 +40,10 @@ We are a dynamic research group at the [Northeastern University](https://www.nor
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/22-22.png" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SSS.png" alt="Slide 6" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SDS LOGO-01.png" alt="Slide 7" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
