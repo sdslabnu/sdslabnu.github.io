@@ -12,7 +12,7 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 ## Leiden
 
 #### Climate Action Panel Discussion for CIVE 5363 (Climate Science, Engineering Adaptation, and Policy):
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=toyHAy-VRIo&t=290s" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=toyHAy-VRIo" frameborder="0" allowfullscreen></iframe>
 
 #### Gallery
 (Right-click *'view image'* to see a larger image.)
