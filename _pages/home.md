@@ -37,7 +37,7 @@ We are a dynamic research group at the [Northeastern University](https://www.nor
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Precip.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/22-22.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SDS.jpeg" alt="Slide 5" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SSS.png" alt="Slide 6" />
