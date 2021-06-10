@@ -83,8 +83,8 @@
 
 - name: "This could be you !"
   photo: tcby2.gif
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
+  info: See <a href="https://sdslabnu.github.io/vacancies">openings</a> for more info
+  email: a.ganguly@northeastern.edu
   number_educ: 0
   education1:
   education2:
