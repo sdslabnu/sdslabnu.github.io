@@ -12,12 +12,11 @@
 - name: Nishant Yadav
   photo: Yadav.jpeg
   info: PhD Student, started Jan 2019
-  email: Nishant.um@gmail.com
+  email: yadav.ni@northeastern.edu
   number_educ: 3
-  education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
-  education2: MSc. from <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, University of Michigan
-  education3: BSc. Indian Institute of Technology.
-
+  education1: MSc. in Intelligent Systems from <a href="https://umich.edu/">University of Michigan</a>
+  education2: BTech. from Indian Institute of Technology, Guwahati.
+  
 - name: Kate Duffy
   photo: Duffy.jpeg
   info: PhD Student, started Sep 2017
