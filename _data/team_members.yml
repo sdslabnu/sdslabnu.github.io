@@ -55,7 +55,7 @@
 
 - name: Ashis Kumar pal
   photo: Ashis.jpg
-  info:  Interdisciplinary PhD Student, started November 2018
+  info:  Interdisciplinary PhD Student, started September 2020
   email: Pal.as@northeastern.edu
   number_educ: 1
   education1: Bsc. From <a href="https://www.buet.ac.bd/web/">BUET</a> in Industrial and Production Engineering
@@ -63,17 +63,17 @@
   education3:
   education4:
 
-- name: Hanieh Hassanzadeh
-  photo: shop_04.png
-  info: FFine mechanical engineer (also associated with the FMD)
-  email: Oosten@fmd.physics.leidenuniv.nl
+- name: Stone Chen
+  photo: Stone.jpeg
+  info: Interdisciplinary PhD Student, Will start from Fall 2021.
+  email: chen.sto@northeastern.edu
   number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
+  education1: Biochemistry/biotechnology BA/MA, Boston University
+  education2: Statistics BS/MS,University of Auckland 
 
-- name: Debashish
-  photo: Deb.png
-  info: Fine mechanical engineer (also associated with the FMD)
+- name: Sebastian Ruf
+  photo: Seb.jpeg
+  info: Postdoc, Will start from Fall 2021.
   email: h.s.m.van.bohemen@physics.leidenuniv.nl
   number_educ: 1
   education1: Leidse Instrumentmakers School
