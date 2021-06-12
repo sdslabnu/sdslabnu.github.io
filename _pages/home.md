@@ -63,8 +63,7 @@ The Sustainability and Data Sciences Laboratory (SDS Lab) at [Northeastern Unive
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_01.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_02.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_03.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_01.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_01.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_02.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_03.png" style="width: 150px">
 </figure>
