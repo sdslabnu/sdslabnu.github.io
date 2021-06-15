@@ -62,6 +62,7 @@ The Sustainability and Data Sciences Laboratory (SDS Lab) at [Northeastern Unive
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
+<span style="color:blue">**Major Collaborators:**</span>
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_01.png" style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 70px">
