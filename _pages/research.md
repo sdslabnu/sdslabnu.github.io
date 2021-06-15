@@ -8,7 +8,6 @@ permalink: /research/
 
 # Research
 
-<span style="color:green">**Products:**</span>
 <span style="color:red">**Overview:**</span> Research at the SDS Lab strives to develop novel insights in the interdisciplinary sciences of climate extremes and the engineering principles of networked lifelines to inform adaptation and policy. Physics-integrated spatiotemporal machine learning and nonlinear dynamics enable the discovery of new insights in climate extremes and uncertainty, while network sciences and optimization along with engineering or ecological principles aid in understanding infrastructural or ecosystem vulnerability. Decision sciences and policy imperatives need to be deeply integrated in the scientific discovery and technological invention processes.
 
 <span style="color:red">**Climate Science:**</span> Novel predictive understanding of weather extremes, regional hydrometeorology, and ecological drivers in a changing climate, specifically, temperature and precipitation extremes, model evaluation, variability and uncertainty, and implications for water, energy, agriculture and ecology.
