@@ -12,13 +12,13 @@ Overview: Research at the SDS Lab strives to develop novel insights in the inter
 
 Climate Science: Novel predictive understanding of weather extremes, regional hydrometeorology, and ecological drivers in a changing climate, specifically, temperature and precipitation extremes, model evaluation, variability and uncertainty, and implications for water, energy, agriculture and ecology.
  
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Layer_1.PNG){: style="width: 300px; float: right; border: 10px"}
 
 Lifeline Engineering: Fundamental principles of climate adaptation and resilience engineering for lifeline infrastructure networks, specifically, the sustainability and security of power and energy, communication and sensors, multimodal transportation, and water or wasterwater systems.
 
 Data Science: New methods and technologies in machine learning and nonlinear physics, including physics-informed data mining and uncertainty quantification, spatiotemporal machine learning and extreme value analysis, as well as network science and information theory, for risk and resilience modeling.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Layer_2.PNG){: style="width: 300px; float: left; border: 10px"}
 
 Products: The SDS Lab PI (Auroop Ganguly), with his students, postdocs and visiting professors, have published in top disciplinary and interdisciplinary venues in climate science (Nature, PNAS, Nature Climate Change), lifeline engineering (IEEE Transactions, ASCE) and data science (KDD, IJCAI), leading to citations in the United Nations intergovernmental and United States national reports, highlights in scientific venues such as the journal Nature and in the National Science Foundation media, quotes and citations in the global media, as well as best paper and presentation awards. The SDS Lab has developed two US patents, one in climate risk and one in infrastructure resilience, and spawned a startup called risQ.
 
