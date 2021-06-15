@@ -8,10 +8,10 @@
   highlight: 1
   news2:
 
-- title: "Mapping local heterogeneity in open twisted bilayer graphene devices"
+- title: "Mapping crops within the growing season across the United States"
   image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop*, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
+  description: We developed a MODIS NDVI-based generalized “cluster-then-label” model to map crops. User accuracy of >70% was achieved in major crop growing regions across CONUS.
+  authors: Venkata Shashank Konduri,Jitendra Kumar, William W. Hargroved, Forrest M. Hoffman, Auroop R.Ganguly
   link:
     url: https://arxiv.org/abs/2008.13766
     display:  arXiv:2008.13766
@@ -19,12 +19,12 @@
   news2:
 
 - title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
-  image: YSR.png
+  image: Konduri20.PNG
   description: We report on a peculiar, spatially dispersing YSR state in Fe(Se,Te) that can be tuned by the tip.
   authors: D Chatzopoulos, Doohee Cho, KM Bastiaans, GO Steffensen, D Bouwmeester, A Akbari, Genda Gu, J Paaske, BM Andersen, MP Allan
   link:
-    url: https://arxiv.org/abs/2006.12840
-    display:  arXiv:2006.12840
+    url: https://doi.org/10.1016/j.rse.2020.112048
+    display:  Remote Sensing of Environment
   highlight: 1
 
 - title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
