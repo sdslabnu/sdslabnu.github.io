@@ -9,12 +9,12 @@
   news2:
 
 - title: "Mapping crops within the growing season across the United States"
-  image: TBG_SL.png
+  image: Konduri20.PNG
   description: We developed a MODIS NDVI-based generalized “cluster-then-label” model to map crops. User accuracy of >70% was achieved in major crop growing regions across CONUS.
   authors: Venkata Shashank Konduri,Jitendra Kumar, William W. Hargroved, Forrest M. Hoffman, Auroop R.Ganguly
   link:
-    url: https://arxiv.org/abs/2008.13766
-    display:  arXiv:2008.13766
+    url: https://doi.org/10.1016/j.rse.2020.112048
+    display:  Remote Sensing of Environment
   highlight: 1
   news2:
 
