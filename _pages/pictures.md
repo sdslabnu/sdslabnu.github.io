@@ -6,7 +6,7 @@ permalink: /pictures/
 ---
 
 # Pictures
-Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
+Jump to: [NEU](#ethz), [SDS](#cornell), [Climate Talk](#st-andrews)
 
 
 
@@ -17,6 +17,10 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 
 #### Keynotes: The National Academy
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/318854857" width="500" height="282" frameborder="0" allowfullscreen></iframe>
+
+#### SERDP 2020-Symposium: Project NICE by Auroop Ganguly
+<iframe width="500" height="282" src="https://www.youtube.com/embed/BRsifIgUdHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 #### Gallery
 (Right-click *'view image'* to see a larger image.)
