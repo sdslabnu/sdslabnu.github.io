@@ -28,7 +28,7 @@ The Sustainability and Data Sciences Laboratory (SDS Lab) at [Northeastern Unive
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Cover_1.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Lahore.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Cover22.jpg" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Degree.png" alt="Slide 3" />
@@ -40,7 +40,7 @@ The Sustainability and Data Sciences Laboratory (SDS Lab) at [Northeastern Unive
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Cover7.png" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SSS.png" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Lahore.png" alt="Slide 6" />
         </div>       
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Cover_1.png" alt="Slide 7" />
