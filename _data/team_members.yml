@@ -15,7 +15,7 @@
   email: s.ruf@northeastern.edu
   number_educ: 3
   education1: PhD in Electrical and Computer Engineering from Georgia Institute of Technology.
-  education2: MSin Mechanical Engineering from University of California, Berkeley
+  education2: MS in Mechanical Engineering from University of California, Berkeley
   education3: BS in Mechanical Engineering from University of California, Berkeley
   education4:
   
@@ -31,7 +31,7 @@
 
 - name: Nishant Yadav
   photo: Yadav.jpeg
-  info: Interdisciplinary PhD Student, started Jan 2019.
+  info: Interdisciplinary PhD Student, started Spring 2019.
   email: yadav.ni@northeastern.edu
   number_educ: 2
   education1: MS in Intelligent Systems from <a href="https://umich.edu/">University of Michigan</a>
@@ -39,7 +39,7 @@
   
 - name: Kate Duffy
   photo: Duffy.jpeg
-  info: Interdisciplinary PhD Student, started Sep 2017
+  info: Interdisciplinary PhD Student, started Fall 2017.
   email: duffy.k@northeastern.edu
   number_educ: 1
   education1: BS in Environmental Engineering from Cornell University.
@@ -55,7 +55,7 @@
 
 - name: Jack Watson
   photo: Jack.png
-  info: PhD Student, started Sep 2020
+  info: PhD Student, started Fall 2020
   email: watson.jac@northeastern.edu
   number_educ: 1
   education1: Bachelor From <a href="https://www.northeastern.edu/">Northeastern University</a> in Environmental Geology and Chemistry
@@ -64,7 +64,7 @@
 
 - name: Puja Das
   photo: Puja.jpg
-  info: PhD Student, started September 2020
+  info: PhD Student, started Fall 2020
   email: Das.puj@northeastern.edu
   number_educ: 1
   education1: BSc. in Water Resources Engineering From <a href="https://www.buet.ac.bd/web/">BUET</a> 
@@ -74,7 +74,7 @@
 
 - name: Ashis Kumar pal
   photo: Ashis.jpg
-  info:  Interdisciplinary PhD Student, started September 2020
+  info:  Interdisciplinary PhD Student, started Fall 2020
   email: Pal.as@northeastern.edu
   number_educ: 1
   education1: Bsc. From <a href="https://www.buet.ac.bd/web/">BUET</a> in Industrial and Production Engineering
@@ -91,12 +91,4 @@
   education2: Statistics BS/MS,University of Auckland 
 
 
-- name: "This could be you !"
-  photo: tcby2.gif
-  info: See <a href="https://sdslabnu.github.io/vacancies">openings</a> for more info
-  email: a.ganguly@northeastern.edu
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
+
