@@ -1,20 +1,4 @@
 - title: pic1_description
-  image: rot.gif
-- title: pic1_description
-  image: rot2.gif
-- title: pic_description
-  image: rot.gif
-- title: pic1_description
-  image: rot2.gif
-- title: pic1_description
-  image: hipster.gif
-- title: pic1_description
-  image: nasa.gif
-- title: pic1_description
-  image: usa.gif
-- title: pic1_description
-  image: usa1.gif
-- title: pic1_description
   image: Pic_1.jpeg
 - title: pic1_description
   image: Pic_2.jpeg
@@ -30,3 +14,19 @@
   image: Pic_7.jpeg
 - title: pic1_description
   image: Pic_8.jpeg
+- title: pic1_description
+  image: rot.gif
+- title: pic1_description
+  image: rot2.gif
+- title: pic_description
+  image: rot.gif
+- title: pic1_description
+  image: rot2.gif
+- title: pic1_description
+  image: hipster.gif
+- title: pic1_description
+  image: nasa.gif
+- title: pic1_description
+  image: usa.gif
+- title: pic1_description
+  image: usa1.gif
