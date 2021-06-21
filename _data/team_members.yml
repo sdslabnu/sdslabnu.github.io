@@ -11,31 +11,31 @@
   
 - name: Sebastian Ruf
   photo: Seb.jpeg
-  info: Postdoc, Will start from Fall 2021.
+  info: Postdoc, will start from July 2021.
   email: s.ruf@northeastern.edu
   number_educ: 3
   education1: PhD in Electrical and Computer Engineering from Georgia Institute of Technology.
-  education2: Msc. in Mechanical Engineering from University of California, Berkeley
-  education3: Bsc. in Mechanical Engineering from University of California, Berkeley
+  education2: MSin Mechanical Engineering from University of California, Berkeley
+  education3: BS in Mechanical Engineering from University of California, Berkeley
   education4:
   
 - name: Antonia Sohns
   photo: Sohns.jpeg
-  info: Postdoc, Will start from Fall 2021.
+  info: Postdoc, will start from July 2021.
   email: antonia.sohns@mail.mcgill.ca
   number_educ: 1
-  education1: McGill University
+  education1: BS from McGill University
   education2:
   education3:
   education4:
 
 - name: Nishant Yadav
   photo: Yadav.jpeg
-  info: PhD Student, started Jan 2019
+  info: Interdisciplinary PhD Student, started Jan 2019.
   email: yadav.ni@northeastern.edu
   number_educ: 2
-  education1: MSc. in Intelligent Systems from <a href="https://umich.edu/">University of Michigan</a>
-  education2: BTech. from Indian Institute of Technology, Guwahati.
+  education1: MS in Intelligent Systems from <a href="https://umich.edu/">University of Michigan</a>
+  education2: B.Tech. in Civil and Environmental Engineering from IIT, Guwahati.
   
 - name: Kate Duffy
   photo: Duffy.jpeg
@@ -47,7 +47,7 @@
 
 - name: Bharat Sharma
   photo: Bharat.png
-  info: Postdoc, started Oct 2020
+  info: Interdisciplinary PhD Student, started Fall 2015.
   email: jiasenniu@pku.edu.cn
   number_educ: 2
   education1: Ph.D. with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
