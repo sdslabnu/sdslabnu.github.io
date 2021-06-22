@@ -15,19 +15,19 @@
   email: s.ruf@northeastern.edu
   number_educ: 3
   education1: PhD in Electrical and Computer Engineering from Georgia Institute of Technology.
-  education2: MS in Mechanical Engineering from University of California, Berkeley
-  education3: BS in Mechanical Engineering from University of California, Berkeley
+  education2: MS in Mechanical Engineering from University of California, Berkeley.
+  education3: BS in Mechanical Engineering from University of California, Berkeley.
   education4:
   
 - name: Antonia Sohns
   photo: Sohns.jpeg
   info: Postdoc, will start from July 2021.
   email: antonia.sohns@mail.mcgill.ca
-  number_educ: 1
-  education1: BS from McGill University
-  education2:
-  education3:
-  education4:
+  number_educ: 3
+  education1: PhD in Geography, McGill University.
+  education2: MSc in Water Science, Policy and Management, University of Oxford.
+  education3: BSc in Earth Systems (Oceans Track), Stanford University.
+  education4: 
 
 - name: Nishant Yadav
   photo: Yadav.jpeg
