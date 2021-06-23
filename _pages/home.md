@@ -65,11 +65,11 @@ The Sustainability and Data Sciences Laboratory (SDS Lab) at [Northeastern Unive
 <span style="color:blue">**Major Collaborators:**</span>
 <!-- blank line -->
 <figure class="fourth">
-  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_01.png" style="width: 150px">](https://www.pnnl.gov/)
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 40px">
-  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_02.png" style="width: 150px">](https://www.nasa.gov/)
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 40px">
-  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_03.png" style="width: 150px">](https://www.ornl.gov/)
-   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 40px">
-  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/risq.png" style="width: 150px">](https://www.risq.io/)
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_01.png" style="width: 120px">](https://www.pnnl.gov/)
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_02.png" style="width: 120px">](https://www.nasa.gov/)
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_03.png" style="width: 120px">](https://www.ornl.gov/)
+   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/risq.png" style="width: 120px">](https://www.risq.io/)
 </figure>
