@@ -55,40 +55,40 @@
 
 - name: Jack Watson
   photo: Jack.png
-  info: PhD Student, started Fall 2020
+  info: Interdisciplinary PhD Student, started Fall 2020.
   email: watson.jac@northeastern.edu
   number_educ: 1
-  education1: Bachelor From <a href="https://www.northeastern.edu/">Northeastern University</a> in Environmental Geology and Chemistry
+  education1: Bachelor in Environmental Geology and Chemistry from <a href="https://www.northeastern.edu/">Northeastern University</a>.
   education2: 
   education3:
 
 - name: Puja Das
   photo: Puja.jpg
-  info: PhD Student, started Fall 2020
+  info: PhD Student, started Fall 2020.
   email: Das.puj@northeastern.edu
   number_educ: 1
-  education1: BSc. in Water Resources Engineering From <a href="https://www.buet.ac.bd/web/">BUET</a> 
+  education1: BSc. in Water Resources Engineering from <a href="https://www.buet.ac.bd/web/">BUET</a> 
   education2:
   education3:
   education4:
 
 - name: Ashis Kumar pal
   photo: Ashis.jpg
-  info:  Interdisciplinary PhD Student, started Fall 2020
+  info:  Interdisciplinary PhD Student, started Fall 2020.
   email: Pal.as@northeastern.edu
   number_educ: 1
-  education1: Bsc. From <a href="https://www.buet.ac.bd/web/">BUET</a> in Industrial and Production Engineering
+  education1: Bsc. in Industrial and Production Engineering from <a href="https://www.buet.ac.bd/web/">BUET</a>.
   education2: 
   education3:
   education4:
 
 - name: Stone Chen
   photo: Stone.jpeg
-  info: Interdisciplinary PhD Student, Will start from Fall 2021.
+  info: Interdisciplinary PhD Student, started Fall 2021.
   email: chen.sto@northeastern.edu
   number_educ: 2
-  education1: Biochemistry/biotechnology BA/MA, Boston University
-  education2: Statistics BS/MS,University of Auckland 
+  education1: BA and MA in Biochemistry/biotechnology from Boston University.
+  education2: BS/MS in Statistics from University of Auckland.
 
 
 
