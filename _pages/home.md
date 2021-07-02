@@ -9,7 +9,7 @@ permalink: /
 The Sustainability and Data Sciences Laboratory (SDS Lab) at [Northeastern University](https://www.northeastern.edu/) prides itself first and foremost on the former and current students and research associates who are professors at top international universities, CEO of a startup, scientists and contributors at NASA and at US DOE Labs, as well as leaders in the private sector in hazards modeling, insurance analytics, and machine learning companies.We are a dynamic research group who explore and understand [Climate Science](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including physics guided machine learning, lifeline infrastructure resilience, and social impact analysis.
 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="10000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -19,6 +19,15 @@ The Sustainability and Data Sciences Laboratory (SDS Lab) at [Northeastern Unive
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="7"></li>
+        <li data-target="#carousel" data-slide-to="8"></li>
+        <li data-target="#carousel" data-slide-to="9"></li>
+        <li data-target="#carousel" data-slide-to="10"></li>
+        <li data-target="#carousel" data-slide-to="11"></li>
+        <li data-target="#carousel" data-slide-to="12"></li>
+        <li data-target="#carousel" data-slide-to="13"></li>
+        <li data-target="#carousel" data-slide-to="14"></li>
+        <li data-target="#carousel" data-slide-to="15"></li>
     </ol>
 
     <!-- Items -->
