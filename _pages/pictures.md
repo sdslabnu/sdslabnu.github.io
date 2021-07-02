@@ -10,17 +10,18 @@ Jump to: [NEU](#ethz), [SDS](#cornell), [Climate Talk](#st-andrews)
 
 
 <div class="col-sm-6 clearfix">
-#### risQ: A Northeastern University SDS Lab Climate Spinout:
+### risQ: A Northeastern University SDS Lab Climate Spinout:
 
 <iframe width="500" height="282" src="https://www.youtube.com/embed/Eq4JDHhVno4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-#### Keynotes: The National Academy
+</div>
+<div class="col-sm-6 clearfix">
+### Keynotes: The National Academy
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/318854857" width="500" height="282" frameborder="0" allowfullscreen></iframe>
 </div>
-
-#### SERDP 2020-Symposium: Project NICE by Auroop Ganguly
+<div class="col-sm-6 clearfix">
+### SERDP 2020-Symposium: Project NICE by Auroop Ganguly
 <iframe width="500" height="282" src="https://www.youtube.com/embed/BRsifIgUdHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</div>
 
 #### Gallery
 (Right-click *'view image'* to see a larger image.)
