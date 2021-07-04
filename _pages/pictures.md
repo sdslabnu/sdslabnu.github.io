@@ -11,7 +11,7 @@ Jump to: [NEU](#ethz), [SDS](#cornell), [Climate Talk](#st-andrews)
 
 
 ##### risQ: A Northeastern University SDS Lab Climate Spinout:
-
+<div class="col-sm-3 clearfix">
 <iframe width="350" height="198" src="https://www.youtube.com/embed/Eq4JDHhVno4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### Keynotes: The National Academy
@@ -19,7 +19,7 @@ Jump to: [NEU](#ethz), [SDS](#cornell), [Climate Talk](#st-andrews)
 
 ##### SERDP 2020-Symposium: Project NICE by Auroop Ganguly
 <iframe width="350" height="198" src="https://www.youtube.com/embed/BRsifIgUdHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</div>
 
 #### Gallery
 (Right-click *'view image'* to see a larger image.)
