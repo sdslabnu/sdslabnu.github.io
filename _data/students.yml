@@ -9,15 +9,15 @@
 #  education4:
 
 - name: Shiraj Khan
-  photo: Siraj.jpg
-  info: VP (Research and Analytics) at PIMCO (<a href="https://www.linkedin.com/in/shiraj-khan-676085b/">Linkedin</a>)
+  photo: rock.jpg
+  info: VP (Research and Analytics) at PIMCO. (<a href="https://www.linkedin.com/in/shiraj-khan-676085b/">Linkedin</a>)
   email: 
   number_educ: 0
   education1:
 
 - name: Karsten Steinhaeuser
-  photo: Karstein.jpg
-  info: Program Manager at AeroVironment (<a href="https://www.linkedin.com/in/karsten-steinhaeuser-phd-b915289/">Linkedin</a>)
+  photo: rock.jpg
+  info: Program Manager at AeroVironment. (<a href="https://www.linkedin.com/in/karsten-steinhaeuser-phd-b915289/">Linkedin</a>)
   email: 
   email: 
   number_educ: 0
@@ -25,28 +25,37 @@
 
 - name: Shih-Chieh Kao
   photo: rock.jpg
-  info: 
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
+  info: Group Leader at ORNL. (<a href="https://www.ornl.gov/staff-profile/shih-chieh-kao">Website</a>)
+  email: 
   number_educ: 0
   education1:
 
-- name: Sergio Barquero Pierantoni
+- name: Esther Parish
   photo: rock.jpg
-  info: Master student
-  email: s.barquero.pierantoni@umail.leidenuniv.nl
+  info: Environmental Scientist at ORNL. (<a href="https://www.linkedin.com/in/esther-parish-114539145/">Linkedin</a>)
+  email: 
   number_educ: 0
   education1:
 
-- name: Amber Mozes
+- name: Olufemi Omitaomu
   photo: rock.jpg
-  info: Master student
-  email: A.Mozes@student.tudelft.nl
+  info: Senior R & D Staff at ORNL. (<a href="https://www.linkedin.com/in/omitaomu/">Linkedin</a>)
+  email: 
   number_educ: 0
   education1:
 
-- name: Evert Stolte
+- name: Rachindra Mawalagedara
   photo: rock.jpg
-  info: Master student
-  email: evert_3aug@hotmail.com
+  info: Professor (Dept. of Meteorology) at Iowa State University. (<a href="https://ge-at.iastate.edu/directory/rachindra-mawalagedara/">Linkedin</a>)
+  email: 
   number_educ: 0
   education1:
+  
+- name: Yi Fang
+  photo: rock.jpg
+  info: Associate Professor (Dept. of Computer Science) at Santa Clara University. (<a href="https://www.cse.scu.edu/~yfang/">Linkedin</a>)
+  email: 
+  number_educ: 0
+  education1:
+  
+  
