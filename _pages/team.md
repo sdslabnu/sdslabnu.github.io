@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-Jump to [PI](#Principal-Investigator), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+[PI](#Principal-Investigator)||[Postdoctoral Associates](#Postdoctoral-Associates)||[Doctoral Students ](#Doctoral-Students )||[Undergraduate Students](#Undergraduate-Students)|| [Alumni ](#Alumni).
 
 ## Principal Investigator
 {% assign number_printed = 0 %}
