@@ -256,7 +256,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Alumni
+## Alumni(Northeastern)
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
@@ -290,7 +290,7 @@ permalink: /team/
 {% endif %}
 
 
-## Visitors/Guest Lecturers
+## Alumni(ORNL and others):
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
