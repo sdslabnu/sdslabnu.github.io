@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [PI](#Principal-Investigator), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
 ## Principal Investigator
 {% assign number_printed = 0 %}
@@ -134,7 +134,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-## Staff
+## Doctoral Students 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
