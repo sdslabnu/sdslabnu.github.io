@@ -1,11 +1,13 @@
-- name: Nishant Yadav
-  photo: Yadav.jpeg
-  info: Interdisciplinary PhD Student, started Spring 2019.
-  email: yadav.ni@northeastern.edu
-  number_educ: 2
-  education1: MS in Intelligent Systems from <a href="https://umich.edu/">University of Michigan</a>
-  education2: B.Tech. in Civil and Environmental Engineering from IIT, Guwahati.
-  
+- name: Puja Das
+  photo: Puja.jpg
+  info: PhD Student, started Fall 2020.
+  email: das.puj@northeastern.edu
+  number_educ: 1
+  education1: BSc. in Water Resources Engineering from <a href="https://www.buet.ac.bd/web/">BUET</a>. 
+  education2:
+  education3:
+  education4:
+
 - name: Kate Duffy
   photo: Duffy.jpeg
   info: Interdisciplinary PhD Student, started Fall 2017.
@@ -13,6 +15,16 @@
   number_educ: 1
   education1: BS in Environmental Engineering from Cornell University.
   education2: 
+
+- name: Ashis Kumar Pal
+  photo: Ashis.jpg
+  info:  Interdisciplinary PhD Student, started Fall 2020.
+  email: pal.as@northeastern.edu
+  number_educ: 1
+  education1: Bsc. in Industrial and Production Engineering from <a href="https://www.buet.ac.bd/web/">BUET</a>.
+  education2: 
+  education3:
+  education4:
 
 - name: Bharat Sharma
   photo: Bharat.png
@@ -31,26 +43,14 @@
   education2: 
   education3:
 
-- name: Puja Das
-  photo: Puja.jpg
-  info: PhD Student, started Fall 2020.
-  email: das.puj@northeastern.edu
-  number_educ: 1
-  education1: BSc. in Water Resources Engineering from <a href="https://www.buet.ac.bd/web/">BUET</a>. 
-  education2:
-  education3:
-  education4:
-
-- name: Ashis Kumar Pal
-  photo: Ashis.jpg
-  info:  Interdisciplinary PhD Student, started Fall 2020.
-  email: pal.as@northeastern.edu
-  number_educ: 1
-  education1: Bsc. in Industrial and Production Engineering from <a href="https://www.buet.ac.bd/web/">BUET</a>.
-  education2: 
-  education3:
-  education4:
-
+- name: Nishant Yadav
+  photo: Yadav.jpeg
+  info: Interdisciplinary PhD Student, started Spring 2019.
+  email: yadav.ni@northeastern.edu
+  number_educ: 2
+  education1: MS in Intelligent Systems from <a href="https://umich.edu/">University of Michigan</a>
+  education2: B.Tech. in Civil and Environmental Engineering from IIT, Guwahati.
+  
 - name: Stone Chen
   photo: Stone.jpeg
   info: Interdisciplinary PhD Student, started Fall 2021.
