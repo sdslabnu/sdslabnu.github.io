@@ -34,7 +34,7 @@
 - name: Puja Das
   photo: Puja.jpg
   info: PhD Student, started Fall 2020.
-  email: Das.puj@northeastern.edu
+  email: das.puj@northeastern.edu
   number_educ: 1
   education1: BSc. in Water Resources Engineering from <a href="https://www.buet.ac.bd/web/">BUET</a>. 
   education2:
@@ -44,7 +44,7 @@
 - name: Ashis Kumar pal
   photo: Ashis.jpg
   info:  Interdisciplinary PhD Student, started Fall 2020.
-  email: Pal.as@northeastern.edu
+  email: pal.as@northeastern.edu
   number_educ: 1
   education1: Bsc. in Industrial and Production Engineering from <a href="https://www.buet.ac.bd/web/">BUET</a>.
   education2: 
@@ -62,7 +62,7 @@
 - name: Dian Indrawati
   photo: Dian.jpg
   info: Interdisciplinary PhD Student, started Fall 2021.
-  email: Dian.ind@northeastern.edu
+  email: dian.ind@northeastern.edu
   number_educ: 1
   education1: BA in Civil Engineering from Universitas Jenderal Achmad Yani.
   education2: 
