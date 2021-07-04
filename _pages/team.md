@@ -6,8 +6,6 @@ sitemap: false
 permalink: /team/
 ---
 
-[PI](#Principal-Investigator)||[Postdoctoral Associates](#Postdoctoral-Associates)||[Doctoral Students ](#Doctoral-Students )||[Undergraduate Students](#Undergraduate-Students)|| [Alumni ](#Alumni).
-
 ## Principal Investigator
 {% assign number_printed = 0 %}
 {% for member in site.data.PI %}
