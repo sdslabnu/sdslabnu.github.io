@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-## Principal Investigator
+### Principal Investigator
 {% assign number_printed = 0 %}
 {% for member in site.data.PI %}
 
@@ -68,7 +68,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Postdoctoral Associates
+### Postdoctoral Associates
 {% assign number_printed = 0 %}
 {% for member in site.data.Postdoc %}
 
@@ -132,7 +132,7 @@ permalink: /team/
 
 
 
-## Doctoral Students 
+### Doctoral Students 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -194,7 +194,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Undergraduate Students
+### Undergraduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.Undergrad %}
 
@@ -247,7 +247,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Alumni(Northeastern)
+### Alumni (Northeastern)
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
@@ -281,7 +281,7 @@ permalink: /team/
 {% endif %}
 
 
-## Alumni(ORNL and others):
+### Alumni (Pre-Northeastern and ORNL):
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
