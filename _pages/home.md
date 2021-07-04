@@ -6,7 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-The SDS Lab develops novel insights in the interdisciplinary sciences of climate extremes and the engineering principles of networked lifelines to inform adaptation and policy. Physics-integrated spatiotemporal machine learning and nonlinear dynamics, especially from large-scale numerical model-simulations and remote or in-situ sensor data, enable the discovery of new insights in climate extremes and uncertainty, while network sciences and optimization along with engineering or ecological principles aid in understanding infrastructural or ecosystem vulnerability. Decision sciences and policy imperatives are integrated in the scientific discovery and technological invention processes to embed stakeholder perspectives. 
+### Welcome
+
+The **Sustainability and Data Sciences Laboratory (SDS Lab)** develops novel insights in the interdisciplinary sciences of climate extremes and the engineering principles of networked lifelines to inform adaptation and policy. Physics-integrated spatiotemporal machine learning and nonlinear dynamics, especially from large-scale numerical model-simulations and remote or in-situ sensor data, enable the discovery of new insights in climate extremes and uncertainty, while network sciences and optimization along with engineering or ecological principles aid in understanding infrastructural or ecosystem vulnerability. Decision sciences and policy imperatives are integrated in the scientific discovery and technological invention processes to embed stakeholder perspectives. 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="10000" data-pause="hover" >
@@ -92,7 +94,7 @@ The SDS Lab develops novel insights in the interdisciplinary sciences of climate
   </a>
 </div>
 
-The **Sustainability and Data Sciences Laboratory (SDS Lab)**, supported by the Civil and Environmental Engineering department at Northeastern University in Boston, MA, USA, is located right across the heart of the city across the Reflection Pool near the Prudential. 
+The SDS Lab, supported by the Civil and Environmental Engineering department at Northeastern University in Boston, MA, USA, is located right across the heart of the city across the Reflection Pool near the Prudential. 
 
 <span style="color:blue">**Product Development:**</span> The SDS Lab prides itself on the products, ranging from climate science discovery and novel engineering principles to peer-reviewed papers in top journals and highly selective conferences, as well as patents, text and edited books and chapters, besides connections with the private and public sectors, national laboratories and federal research organizations such as US DOE's PNNL and ORNL and NASA Ames, along with local and city governments. The SDS Lab and its prior incarnation at ORNL has authored 65 peer-reviewed journal articles with 5 more in review, 7 highly-selective and 41 selective peer-reviewed conference papers for a total of 136 conference presentations, 3 books and 24 book chapters, 11 technical notes and delivered 96 invited talks. The SDS Lab has developed 2 US patents, one in climate risk and one in infrastructure resilience, 3 invention disclosures, and spawned a climate analytics startup called risQ. The SDS Lab PI (Auroop Ganguly), with his students, postdocs and visiting professors, have published in top disciplinary and interdisciplinary venues in climate science (such as Nature, PNAS, and Nature Climate Change), lifeline engineering (e.g., IEEE Transactions and ASCE) and data science (e.g., KDD and IJCAI) with best paper awards in ACM KDD and SIAM Data Mining as well as best poster awards at AGU and AMS, leading to citations in the United Nations intergovernmental and United States national reports, highlights in scientific venues such as the journal Nature and in the National Science Foundation media, invitations at UN panels and as author or co-author of focused sections, as well as quotes and citations in the national and global media. The SDS Lab does not have any long-standing connections or commitments to governmental or intergovernmental bodies of national or global bodies but has cultivated relations with private-public-government research and practice communities. 
 
@@ -102,7 +104,7 @@ The **Sustainability and Data Sciences Laboratory (SDS Lab)**, supported by the 
 
 
 
- **We are  looking for passionate new PhD and Postdocs students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+<!--  **We are  looking for passionate new PhD and Postdocs students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
 
 <!-- blank line -->
 <span style="color:blue">**Experiential Collaborators:**</span>
