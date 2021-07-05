@@ -1,7 +1,7 @@
 - title: "DeepSD: Generating High Resolution Climate Change Projections through Single Image Super-Resolution"
   image: Vandal17.PNG
   description: A first paper provide a comparison with Bias Correction Spatial Disaggregation as well as three Automated-Statistical Downscaling approaches in downscaling daily precipitation from 1 degree (~100km) to 1/8 degrees (~12.5km) over the Continental United States. 
-  authors: Tomas Vandal*, Evan Kodra, Sangram Ganguly, Andrew Michaelis, Ramakrishna Nemani, Auroop R Ganguly
+  authors: Thomas Vandal*, Evan Kodra, Sangram Ganguly, Andrew Michaelis, Ramakrishna Nemani, Auroop R Ganguly
   link:
     url: https://doi.org/10.1145/3097983.3098004
     display:  KDD 2017 Best Paper Award Winner
