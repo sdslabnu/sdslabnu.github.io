@@ -42,16 +42,16 @@ The SDS Lab research themes are described in the [Home Page]({{ site.url }}{{ si
 Code or Data Repositories by current or former SDS Lab team and close collaborators:
 
 <span style="color:blue">**GitHub Pages:**</span> 
-Climate Machine Learning by Thomas James Vandal
-Deep Emulaton of Satellite Data and Models by Kate Duffy
-Transportation Infrastructure Resilience by Nishant Yadav 
-Climate Downscaling and Spatiotemporal Analysis by Yumin Liu
+* Climate Machine Learning by Thomas James Vandal
+* Deep Emulaton of Satellite Data and Models by Kate Duffy
+* Transportation Infrastructure Resilience by Nishant Yadav 
+* Climate Downscaling and Spatiotemporal Analysis by Yumin Liu
 
 
 <span style="color:blue">**Journal Repositories:**</span> 
-Extreme Value Theory in Nature Climate Change
-Climate and Coastal Upwelling in Nature
-Water Stress under Population and Climate in Computers & Geosciences
+* Extreme Value Theory in Nature Climate Change
+* Climate and Coastal Upwelling in Nature
+* Water Stress under Population and Climate in Computers & Geosciences
 
  
 
