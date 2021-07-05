@@ -5,7 +5,7 @@ excerpt: "Openings"
 sitemap: false
 permalink: /Detailed_News
 ---
-## Recent News from SDS
+### Recent News from SDS Lab
 
 July 4, 2021. Happy Fourth! Kate Duffy's PhD dissertation defense is on July 15 at noon Eastern. Join the public defense here. Her dissertation research intersects climate impacts on ecology and deep learning based emulation for satellite remote sensing. Kate's work in climate-ecology may be viewed as a continuation of the broad research theme initiated by the SDS Lab and collaborators (e.g., see this Nature paper). Her work in deep emulation for satellite data mining has been joint with NASA Ames. Kate will join NASA as a scientist following her PhD.
 
