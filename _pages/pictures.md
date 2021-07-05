@@ -54,7 +54,7 @@ SDS Lab has been organizing an undergraduate study abroad program in climate cha
 
 
 
-{% for product in collection.products %}
+{% for product in site.data.pictures_Leiden %}
   {% assign evens = forloop.index | modulo: 2 %}
   {% if evens == 0 %}
     <!-- even layout html -->
