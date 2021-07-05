@@ -10,7 +10,7 @@ permalink: /research/
 
 The SDS Lab research themes are described in the [Home Page]({{ site.url }}{{ site.baseurl }}/) while selected publications are highlighted in the [Publications]({{ site.url }}{{ site.baseurl }}/publications) page. Here we point to a few presentations and posters which may provide a summary of our research. Furthermore, we provide links to shared codes and data repositories developed by current and former SDS Lab members.
 
-## <span style="color:blue">**Presentations:**</span> 
+## Presentations:
 
 <span style="color:blue">**Keynotes: The National Academy**</span>
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/318854857" width="350" height="198" frameborder="0" allowfullscreen></iframe>
@@ -36,18 +36,24 @@ The SDS Lab research themes are described in the [Home Page]({{ site.url }}{{ si
 <iframe width="350" height="198" src="https://youtu.be/DdHSYUOZgto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+
+## Repositories:
+
+Code or Data Repositories by current or former SDS Lab team and close collaborators:
+
+<span style="color:blue">**GitHub Pages:**</span> 
+Climate Machine Learning by Thomas James Vandal
+Deep Emulaton of Satellite Data and Models by Kate Duffy
+Transportation Infrastructure Resilience by Nishant Yadav 
+Climate Downscaling and Spatiotemporal Analysis by Yumin Liu
+
+
+<span style="color:blue">**Journal Repositories:**</span> 
+Extreme Value Theory in Nature Climate Change
+Climate and Coastal Upwelling in Nature
+Water Stress under Population and Climate in Computers & Geosciences
+
  
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Layer_1.PNG){: style="width: 300px; float: right; border: 10px"}
-
-<span style="color:red">**Lifeline Engineering:**</span> Fundamental principles of climate adaptation and resilience engineering for lifeline infrastructure networks, specifically, the sustainability and security of power and energy, communication and sensors, multimodal transportation, and water or wasterwater systems.
-
-<span style="color:red">**Data Science:**</span> New methods and technologies in machine learning and nonlinear physics, including physics-informed data mining and uncertainty quantification, spatiotemporal machine learning and extreme value analysis, as well as network science and information theory, for risk and resilience modeling.
-
-
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Layer_3.PNG){: style="width: 300px; float: left; border: 15px"}
-
-<span style="color:green">**Funding:**</span> The SDS Lab has been and continues to be generously funded by US federal agencies such as NSF, DOD, NASA, DHS, DOE and DOE Labs. Occasional funding and in-kind support have been received from the private and public sectors. The students and postdocs benefit from our strong experiential relationships with federal agencies such as NASA and DOE Labs such as [PNNL](https://www.pnnl.gov/) and ORNL, as well as the private and public sectors including the Lab spinout startup risQ.
 
 
 
