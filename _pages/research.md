@@ -6,25 +6,23 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
+## Research
 
 The SDS Lab research themes are described in the [Home Page]({{ site.url }}{{ site.baseurl }}/) while selected publications are highlighted in the [Publications]({{ site.url }}{{ site.baseurl }}/publications) page. Here we point to a few presentations and posters which may provide a summary of our research. Furthermore, we provide links to shared codes and data repositories developed by current and former SDS Lab members.
 
-<span style="color:blue">**Presentations:**</span> 
+## <span style="color:blue">**Presentations:**</span> 
 
-## <span style="color:blue">**Keynotes: The National Academy**</span>
+<span style="color:blue">**Keynotes: The National Academy**</span>
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/318854857" width="350" height="198" frameborder="0" allowfullscreen></iframe>
 
-### Convergent Research to Industry Startups by SDS Lab PI Auroop Ganguly and risQ CEO (and SDS Lab PhD alumnus) Evan Kodra
-<iframe width="350" height="198" src="https://www.youtube.com/watch?v=Eq4JDHhVno4&t=1334s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<span style="color:blue">**Convergent Research to Industry Startups by SDS Lab PI Auroop Ganguly and risQ CEO (and SDS Lab PhD alumnus) Evan Kodra**</span>
+<iframe width="350" height="198" src="https://www.youtube.com/embed/Eq4JDHhVno4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-### risQ: A Northeastern University SDS Lab Climate Spinout:
+<span style="color:blue">**risQ: A Northeastern University SDS Lab Climate Spinout:**</span>
 <iframe width="350" height="198" src="https://www.youtube.com/embed/Eq4JDHhVno4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
-### SERDP 2020-Symposium: Project NICE by Auroop Ganguly
+<span style="color:blue">**SERDP 2020-Symposium: Project NICE by Auroop Ganguly**</span>
 <iframe width="350" height="198" src="https://www.youtube.com/embed/BRsifIgUdHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
