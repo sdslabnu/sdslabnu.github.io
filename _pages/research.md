@@ -18,13 +18,22 @@ The SDS Lab research themes are described in the [Home Page]({{ site.url }}{{ si
 <span style="color:blue">**Convergent Research to Industry Startups by SDS Lab PI Auroop Ganguly and risQ CEO (and SDS Lab PhD alumnus) Evan Kodra**</span>
 <iframe width="350" height="198" src="https://www.youtube.com/embed/Eq4JDHhVno4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<span style="color:blue">**risQ: A Northeastern University SDS Lab Climate Spinout:**</span>
-<iframe width="350" height="198" src="https://www.youtube.com/embed/Eq4JDHhVno4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<span style="color:blue">**SDS Lab Research Overview: Invited Talk at IIT Gandhinagar by Auroop Ganguly:**</span>
+<iframe width="350" height="198" src="https://youtu.be/Xzd8mzL8vKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <span style="color:blue">**SERDP 2020-Symposium: Project NICE by Auroop Ganguly**</span>
 <iframe width="350" height="198" src="https://www.youtube.com/embed/BRsifIgUdHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<span style="color:blue">**NSF ScienceLives interview:**</span>
+<iframe width="350" height="198" src="https://youtu.be/qd_Nmv1v1OE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<span style="color:blue">**SDS Lab Climate Research Introduction:**</span>
+<iframe width="350" height="198" src="https://youtu.be/_QwVCpKyy2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<span style="color:blue">**SDS Lab Resilience Research Introduction:**</span>
+<iframe width="350" height="198" src="https://youtu.be/DdHSYUOZgto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
  
