@@ -5,7 +5,6 @@ excerpt: "SDS Lab at Northeastern University."
 sitemap: false
 permalink: /
 ---
-
 The **Sustainability and Data Sciences Laboratory (SDS Lab)** develops novel insights in the interdisciplinary sciences of climate extremes and the engineering principles of networked lifelines to inform adaptation and policy. Physics-integrated spatiotemporal machine learning and nonlinear dynamics, especially from large-scale numerical model-simulations and remote or in-situ sensor data, enable the discovery of new insights in climate extremes and uncertainty, while network sciences and optimization along with engineering or ecological principles aid in understanding infrastructural or ecosystem vulnerability. Decision sciences and policy imperatives are integrated in the scientific discovery and technological invention processes to embed stakeholder perspectives. 
 
 
