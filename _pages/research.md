@@ -12,6 +12,16 @@ The SDS Lab research themes are described in the [Home Page]({{ site.url }}{{ si
 
 <span style="color:blue">**Presentations:**</span> 
 
+### risQ: A Northeastern University SDS Lab Climate Spinout:
+<iframe width="350" height="198" src="https://www.youtube.com/embed/Eq4JDHhVno4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Keynotes: The National Academy
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/318854857" width="350" height="198" frameborder="0" allowfullscreen></iframe>
+
+### SERDP 2020-Symposium: Project NICE by Auroop Ganguly
+<iframe width="350" height="198" src="https://www.youtube.com/embed/BRsifIgUdHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 <span style="color:red">**Climate Science:**</span> Novel predictive understanding of weather extremes, regional hydrometeorology, and ecological drivers in a changing climate, specifically, temperature and precipitation extremes, model evaluation, variability and uncertainty, and implications for water, energy, agriculture and ecology.
  
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Layer_1.PNG){: style="width: 300px; float: right; border: 10px"}
