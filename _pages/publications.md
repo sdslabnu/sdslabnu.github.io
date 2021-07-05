@@ -52,7 +52,6 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-<div class="col-sm-8 clearfix">
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="10000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -134,7 +133,6 @@ permalink: /publications/
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-</div>
 </div>
 
 ## Selected Publications
