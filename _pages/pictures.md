@@ -6,7 +6,7 @@ permalink: /pictures/
 ---
 
 # Dialouge of Civilization : 
-Jump to: [NEU](#ethz), [SDS](#cornell), [Climate Talk](#st-andrews)
+SDS Lab has been organizing an undergraduate study abroad program in climate change science, engineering and policy in different parts of the world. Besides, the undergraduate students program involves PI along with PhD students as co-instructor.
 
 
 #### Gallery
@@ -48,15 +48,4 @@ Jump to: [NEU](#ethz), [SDS](#cornell), [Climate Talk](#st-andrews)
 
 <p> &nbsp; </p>
 
-## Climate Dialouge
-From the [group of Andreas Wallraff](http://www.qudev.ethz.ch/).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageETH_red.jpg" width="60%">
-</figure>
-
-## Cornell
-From the [group of Seamus JC Davis](http://davisgroup.lassp.cornell.edu).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageCornell_red.jpg" width="60%">
-</figure>
 
