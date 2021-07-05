@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-The SDS Lab research themes are described in the [(Home Page)]({{ site.url }}{{ site.baseurl }}/home) while selected publications are highlighted in the [(Publications)]({{ site.url }}{{ site.baseurl }}/publications) page. Here we point to a few presentations and posters which may provide a summary of our research. Furthermore, we provide links to shared codes and data repositories developed by current and former SDS Lab members.
+The SDS Lab research themes are described in the [Home Page]({{ site.url }}{{ site.baseurl }}/) while selected publications are highlighted in the [Publications]({{ site.url }}{{ site.baseurl }}/publications) page. Here we point to a few presentations and posters which may provide a summary of our research. Furthermore, we provide links to shared codes and data repositories developed by current and former SDS Lab members.
 
 <span style="color:blue">**Presentations:**</span> 
 
