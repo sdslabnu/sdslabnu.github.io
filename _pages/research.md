@@ -8,9 +8,9 @@ permalink: /research/
 
 # Research
 
-The SDS Lab research themes are described in the Home page while selected publications are highlighted in the Publications page. Here we point to a few presentations and posters which may provide a summary of our research. Furthermore, we provide links to shared codes and data repositories developed by current and former SDS Lab members.
+The SDS Lab research themes are described in the [(Home Page)]({{ site.url }}{{ site.baseurl }}/home) while selected publications are highlighted in the [(Publications)]({{ site.url }}{{ site.baseurl }}/publications) page. Here we point to a few presentations and posters which may provide a summary of our research. Furthermore, we provide links to shared codes and data repositories developed by current and former SDS Lab members.
 
-<span style="color:red">**Overview:**</span> Research at the SDS Lab strives to develop novel insights in the interdisciplinary sciences of climate extremes and the engineering principles of networked lifelines to inform adaptation and policy. Physics-integrated spatiotemporal machine learning and nonlinear dynamics enable the discovery of new insights in climate extremes and uncertainty, while network sciences and optimization along with engineering or ecological principles aid in understanding infrastructural or ecosystem vulnerability. Decision sciences and policy imperatives need to be deeply integrated in the scientific discovery and technological invention processes.
+<span style="color:blue">**Presentations:**</span> 
 
 <span style="color:red">**Climate Science:**</span> Novel predictive understanding of weather extremes, regional hydrometeorology, and ecological drivers in a changing climate, specifically, temperature and precipitation extremes, model evaluation, variability and uncertainty, and implications for water, energy, agriculture and ecology.
  
