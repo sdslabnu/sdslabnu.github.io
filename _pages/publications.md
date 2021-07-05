@@ -140,7 +140,10 @@ permalink: /publications/
 
 
 * Slide 1 :
+  * 1st Paper :
 * Slide 2 :
+  * 1st Paper :
+  * 2nd Paper :
 * Slide 3 :
 * Slide 4 :
 * Slide 5 :
