@@ -141,7 +141,7 @@ permalink: /publications/
 * Slide 1 :
   * 1st Paper :
 * Slide 2 :
-  * 1st Paper : https://doi.org/10.1073/pnas.0904495106
+  * 1st Paper : <a href='https://doi.org/10.1073/pnas.0904495106'>DOI</a>
   * 2nd Paper :
 * Slide 3 :
 * Slide 4 :
