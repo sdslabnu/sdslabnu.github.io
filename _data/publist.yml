@@ -1,3 +1,13 @@
+- title: "Intensification and spatial homogenization of coastal upwelling under climate change"
+  image: Vandal17.PNG
+  description: The timing and strength of wind-driven coastal upwelling along the eastern margins of major ocean basins regulate the productivity of critical fisheries and marine ecosystems by bringing deep and nutrient-rich waters to the sunlit surface, where photosynthesis can occur1,2,3. How coastal upwelling regimes might change in a warming climate is therefore a question of vital importance4,5. Although enhanced land–ocean differential heating due to greenhouse warming has been proposed to intensify coastal upwelling by strengthening alongshore winds6, analyses of observations and previous climate models have provided little consensus on historical and projected trends in coastal upwelling7,8,9,10,11,12,13. Here we show that there are strong and consistent changes in the timing, intensity and spatial heterogeneity of coastal upwelling in response to future warming in most Eastern Boundary Upwelling Systems (EBUSs). An ensemble of climate models shows that by the end of the twenty-first century the upwelling season will start earlier, end later and become more intense at high but not low latitudes. This projected increase in upwelling intensity and duration at high latitudes will result in a substantial reduction of the existing latitudinal variation in coastal upwelling. These patterns are consistent across three of the four EBUSs (Canary, Benguela and Humboldt, but not California). The lack of upwelling intensification and greater uncertainty associated with the California EBUS may reflect regional controls associated with the atmospheric response to climate change. Given the strong linkages between upwelling and marine ecosystems14,15, the projected changes in the intensity, timing and spatial structure of coastal upwelling may influence the geographical distribution of marine biodiversity.
+  authors: Daiwei Wang, Tarik C. Gouhier, Bruce A. Menge & Auroop R. Ganguly
+  link:
+    url: https://doi.org/10.1038/nature14235
+    display:  Nature_14235
+  highlight: 1
+  news2:
+  
 - title: "DeepSD: Generating High Resolution Climate Change Projections through Single Image Super-Resolution"
   image: Vandal17.PNG
   description: A first paper provide a comparison with Bias Correction Spatial Disaggregation as well as three Automated-Statistical Downscaling approaches in downscaling daily precipitation from 1 degree (~100km) to 1/8 degrees (~12.5km) over the Continental United States. 
@@ -7,6 +17,26 @@
     display:  KDD 2017 Best Paper Award Winner
   highlight: 1
   news2:
+
+
+- title: "Lack of uniform trends but increasing spatial variability in observed Indian rainfall extremes"
+  image: Konduri20.PNG
+  description: Recent studies disagree on how rainfall extremes over India have changed in space and time over the past half century as well as on whether the changes observed are due to global warming or regional urbanization7. Although a uniform and consistent decrease in moderate rainfall has been reported a lack of agreement about trends in heavy rainfall may be due in part to differences in the characterization and spatial averaging of extremes. Here we use extreme value theory to examine trends in Indian rainfall over the past half century in the context of long-term, low-frequency variability. We show that when generalized extreme value theory is applied to annual maximum rainfall over India, no statistically significant spatially uniform trends are observed, in agreement with previous studies using different approaches. Furthermore, our space–time regression analysis of the return levels points to increasing spatial variability of rainfall extremes over India. Our findings highlight the need for systematic examination of global versus regional drivers of trends in Indian rainfall extremes, and may help to inform flood hazard preparedness and water resource management in the region.
+  authors: Subimal Ghosh, Debasish Das, Shih-Chieh Kao , Auroop R. Ganguly
+  link:
+    url: https://doi.org/10.1038/nclimate1327
+    display:  Nature Climate Change
+  highlight: 1
+
+- title: "Resilience of Urban Transport Network-of-Networks under Intense Flood Hazards Exacerbated by Targeted Attacks"
+  image: SmartPub.png
+  description: Natural hazards including floods can trigger catastrophic failures in interdependent urban transport network-of-networks (NoNs). Population growth has enhanced transportation demand while urbanization and climate change have intensified urban floods. However, despite the clear need to develop actionable insights for improving the resilience of critical urban lifelines, the theory and methods remain underdeveloped. Furthermore, as infrastructure systems become more intelligent, security experts point to the growing threat of targeted cyber-physical attacks during natural hazards. Here we develop a hypothesis-driven resilience framework for urban transport NoNs, which we demonstrate on the London Rail Network (LRN). We find that topological attributes designed for maximizing efficiency rather than robustness render the network more vulnerable to compound natural-targeted disruptions including cascading failures. Our results suggest that an organizing principle for post-disruption recovery may be developed with network science principles. Our findings and frameworks can generalize to urban lifelines and more generally to real-world spatial networks.
+  authors: Nishant Yadav, Samrat Chatterjee , Auroop R. Ganguly
+  link:
+    url: https://doi.org/10.1038/s41598-020-66049-y
+    display: Journal of Infrastructure Systems
+  highlight: 1
+  news2: 
 
 - title: "Mapping crops within the growing season across the United States"
   image: Konduri20.PNG
@@ -18,138 +48,8 @@
   highlight: 1
   news2:
 
-- title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
-  image: Konduri20.PNG
-  description: We report on a peculiar, spatially dispersing YSR state in Fe(Se,Te) that can be tuned by the tip.
-  authors: D Chatzopoulos, Doohee Cho, KM Bastiaans, GO Steffensen, D Bouwmeester, A Akbari, Genda Gu, J Paaske, BM Andersen, MP Allan
-  link:
-    url: https://doi.org/10.1016/j.rse.2020.112048
-    display:  Remote Sensing of Environment
-  highlight: 1
-
-- title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
-  image: SmartPub.png
-  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
-  authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
-  link:
-    url: https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf
-    display: Nanotechnology 30, 335702 (2019)
-  highlight: 0
-  news2: See also our papers on the theoretical modeling of such measurements, and the paper about fabrication.
-
-- title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
-  image: TBG_ARPES.png
-  description:
-  authors: R Sharma, A Kreisel, MA Sulangi, J Böker, A Kostin, MP Allan, H Eisaki, AE Böhmer, PC Canfield, I Eremin, JC Davis, PJ Hirschfeld, PO Sprau
-  link:
-    url: https://arxiv.org/abs/2005.05140
-    display:  arXiv:2005.05140
-  highlight: 0
-  news2:
-
-- title: "Observation of flat bands in twisted bilayer graphene"
-  image: TBG_ARPES.png
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: S Lisi*, X Lu*, T Benschop*, TA de Jong*, Petr S, JR Duran, F Margot, I Cucchi, E Cappelli, A Hunter, A Tamai, V Kandyba, A Giampietri, A Barinov, J Jobst, V Stalman, M Leeuwenhoek, K Watanabe, T Taniguchi, L Rademaker, SJ van der Molen, MP Allan, DK Efetov, F Baumberger
-  link:
-    url: https://www.nature.com/articles/s41567-020-01041-x
-    display:  Nature Physics (2020)
-  highlight: 0
-  news2: News coverage by <a href="https://www.nrc.nl/nieuws/2020/09/28/slome-elektronen-maken-grafeen-supergeleidend-a4013840"> NRC </a>
-
-- title: "A strongly inhomogeneous superfluid in an iron-based superconductor"
-  image: STS_news.png
-  description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
-  authors: D Cho* & KM Bastiaans* & D Chatzopoulos*, GD Gu, MP Allan
-  link:
-    url: https://www.nature.com/articles/s41586-019-1408-8
-    display:  Nature 571, 541 (2019)
-  highlight: 0
-  news2:
 
 
-- title: "Imaging doubled shot noise in a Josephson scanning tunneling microscope"
-  image: PbSpub.png
-  description: We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.
-  authors: KM Bastiaans, D Cho, D Chatzopoulos, M Leeuwenhoek, C Koks, MP Allan
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.104506
-    display:  Phys. Rev. B 100, 104506 (2019)
-  highlight: 0
-  news2:
-
-- title: "Definition of design guidelines, construction and performance of an ultra-stable scanning tunneling microscope for spectroscopic imaging"
-  image: DomePub.png
-  description: Our first completely home-built STM is alive! And it has the world’s highest resonance frequency.
-  authors: I Battisti, G Verdoes, K van Oosten, KM Bastiaans, and MP Allan
-  link:
-    url: https://aip.scitation.org/doi/10.1063/1.5064442
-    display:  Rev. Sci. Instrum. 89, 123705 (2018)
-  highlight: 0
-  news2:
-
-- title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
-  image: Pub_BCl.png
-  description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
-  authors: KM Bastiaans* & D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan
-  link:
-    url: https://www.nature.com/articles/s41567-018-0300-z
-    display:  Nature Physics 14, 1183 (2018)
-  highlight: 0
-  news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
-  news2: See also <a href="http://www.quantumuniverse.nl/een-isolerende-supergeleider"> quantum universe </a> (in dutch), <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>, <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news</a>, <a href="http://iop.uva.nl/content/news/2018/10/noise-helps-physicists-discover-insulating-phenomenon-in-superconductor.html"> UvA news<a>.
-
-- title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
-  image: Fano.png
-  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: KM Bastiaans, T Benschop, D Chatzopoulos, D Cho, Q Dong, Y Jin, MP Allan
-  link:
-    url: https://aip.scitation.org/doi/10.1063/1.5043267
-    display:  Rev. Sci. Instrum. 89, 093709 (2018)
-  highlight: 0
-  news2:
-
-- title: "Revisiting quasiparticle scattering interference in high-temperature superconductors: the problem of narrow peaks"
-  image: dummy.png
-  description: ""
-  authors: MA Sulangi, MP Allan, J Zaanen
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.134507
-    display:  PRB 96, 134507 (2017)
-  highlight: 0
-  news2: Coverd in Superconductor Week, November 30, 2017 Vol. 31, No. 10
-
-- title: Robust procedure for creating and characterizing the atomic structure of scanning tunneling microscope tips
-  image: dummy.png
-  description: ""
-  authors: S Tewari, KM Bastiaans, MP Allan, JM van Ruitenbeek
-  link:
-    url: http://www.beilstein-journals.org/bjnano/content/pdf/2190-4286-8-238.pdf
-    display:  Beilstein J. Nanotechnol. 8, 2389 (2017)
-  highlight: 0
-  news2:
-
-- title: Creating better superconductors by periodic nanopatterning
-  image: SCAUweb.jpg
-  description:
-    We  propose  an approach to transform a ‘pristine’ material into a better (meta-) superconductor by making use of modern fabrication techniques -- designing and engineering the electronic properties of thin films via periodic patterning on the nanoscale.
-  authors:
-    MP Allan, MH Fischer, O Ostojic, A Andringa
-  link:
-    url: https://scipost.org/SciPostPhys.3.2.010/pdf
-    display: SciPost Phys. 3, 010 (2017)
-  highlight: 0
-
-- title: Poor electronic screening in lightly doped Mott insulators observed with scanning tunneling microscopy
-  image: TIBB.png
-  description:
-    We develop a simple model to interpret STM results on lightly doped Mott insulators, and find that the effective Mott gap measured by STM correspons to the one measured with other techniques when taking into account the poor electronic screeing.
-  authors:
-    I Battisti, V Fedoseev, KM Bastiaans, A de la Torre, RS Perry, F Baumberger, MP Allan
-  link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.235141
-    display: Phys. Rev. B 95, 235141, Editors' suggestion (2017)
-  highlight: 0
 
 
 
