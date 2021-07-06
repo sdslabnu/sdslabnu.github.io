@@ -157,4 +157,4 @@ permalink: /publications/
 * Slide 14 :
 * Slide 15 :
 
-For a full list of publications, visit the PI's Google Scholar page <a href='https://scholar.google.com/citations?user=eNrAUJMAAAAJ&hl=en'>here</a>.
+### For a full list of publications, visit the PI's Google Scholar page <a href='https://scholar.google.com/citations?user=eNrAUJMAAAAJ&hl=en'>here</a>.
