@@ -4,7 +4,7 @@
   authors: Daiwei Wang, Tarik C. Gouhier, Bruce A. Menge & Auroop R. Ganguly
   link:
     url: https://doi.org/10.1038/nature14235
-    display:  Nature_14235
+    display:  Nature
   highlight: 1
   news2:
   
@@ -41,7 +41,7 @@
 - title: "Mapping crops within the growing season across the United States"
   image: Konduri20.PNG
   description: Timely and accurate knowledge about the geospatial distribution of crops at regional to continental scales is crucial for forecasting crop production and estimating crop water use. The United States (US) is one of the leading food-producing countries, but lacks a nationwide high resolution crop-specific land cover map available publicly during the current growing season. The goal of this study was to map crops across the Continental US (CONUS) before the harvest, and to estimate the earliest date of classification by which crops can be mapped with sufficient accuracy (90% of full-season accuracy). The study employed a scalable cluster-then-label model that was trained on multiple years of MODIS NDVI using ground truth data in the form of US Department of Agriculture (USDA) Cropland Data Layer (CDL) products. The first step in the crop classification was to perform Multivariate Spatio-Temporal Clustering (MSTC) of annual MODIS-derived NDVI trajectories to create phenologically similar regions, or phenoregions. The second step was to assign crop labels to phenoregions based on spatial concordance between phenoregions and crop classes from CDL using Mapcurves. Assigning crop labels to phenoregions was performed within ecoregions to reduce classification errors due to spatial variability in phenology caused by variations in climate, agricultural practices, and growing conditions. The crop classifier was trained and validated on the years 2008–2014, then tested independently on 2015–2018. Ecoregion-level crop classification performed better than state-level and CONUS-level classification. Pixel-wise accuracy of classification for eight major crops by area was around 70% across the major corn-, soybeans- and winter wheatproducing areas, whereas regions characterized by high crop diversity had slightly lower accuracy. Classification accuracy for dominant crops like corn, soybeans, winter wheat, fallow/idle cropland and other hay/non alfalfa improved with time as they grew, reaching 90% of year-end accuracy by the end of August over each of the four unseen years in the test period. For corn and soybeans, the earliest dates of classification were found to be much earlier in the central regions of the Corn Belt (parts of Iowa, Illinois and Indiana) than in peripheral areas. The ability to map growing crops may permit near real-time monitoring of the health status and vigor of agricultural crops nationally.
-  authors: Venkata Shashank Konduri,Jitendra Kumar, William W. Hargroved, Forrest M. Hoffman, Auroop R.Ganguly
+  authors: Venkata Shashank Konduri,Jitendra Kumar, William W. Hargrove, Forrest M. Hoffman, Auroop R.Ganguly
   link:
     url: https://doi.org/10.1016/j.rse.2020.112048
     display:  Remote Sensing of Environment
