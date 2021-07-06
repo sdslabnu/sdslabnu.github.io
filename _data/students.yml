@@ -51,12 +51,12 @@
   number_educ: 0
   education1:
 
-- name: Rachindra Mawalagedara
-  photo: rachindra.jpeg
-  info: Professor (Dept. of Meteorology) at Iowa State University. (<a href="https://ge-at.iastate.edu/directory/rachindra-mawalagedara/">Linkedin</a>)
-  email: 
-  number_educ: 0
-  education1:
+# - name: Rachindra Mawalagedara
+#   photo: rachindra.jpeg
+#   info: Professor (Dept. of Meteorology) at Iowa State University. (<a href="https://ge-at.iastate.edu/directory/rachindra-mawalagedara/">Linkedin</a>)
+#   email: 
+#   number_educ: 0
+#   education1:
   
 - name: Yi Fang
   photo: Fang.jpeg
