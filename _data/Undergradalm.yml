@@ -1,6 +1,13 @@
+- name: Lindsey Bressler
+  photo: tcby2.gif
+  info: <a href='https://web.northeastern.edu/sds/hall.html'>Info</a>
+  number_educ: 0
+  education1: 
+  education2: 
+  
 - name: Amina Ly 
   photo: tcby2.gif
-  info: Postdoc, will start from July 2021.
+  info: <a href='https://web.northeastern.edu/sds/hall.html'>Info</a>
   email: antonia.sohns@mail.mcgill.ca
   number_educ: 0
   education1: 
@@ -8,7 +15,7 @@
 
 - name: Matthew Mage
   photo: tcby2.gif
-  info: Postdoc, will start from July 2021.
+  info: <a href='https://web.northeastern.edu/sds/hall.html'>Info</a>
   email: s.ruf@northeastern.edu
   number_educ: 0
   education1: 
@@ -16,7 +23,7 @@
 
 - name: Elal Segev
   photo: tcby2.gif
-  info: Postdoc, will start from July 2021.
+  info: <a href='https://web.northeastern.edu/sds/hall.html'>Info</a>
   email: s.ruf@northeastern.edu
   number_educ: 0
   education1: 
@@ -24,7 +31,7 @@
 
 - name: Allison Traylor
   photo: tcby2.gif
-  info: Postdoc, will start from July 2021.
+  info: <a href='https://web.northeastern.edu/sds/hall.html'>Info</a>
   email: s.ruf@northeastern.edu
   number_educ: 0
   education1: 
@@ -32,7 +39,7 @@
 
 - name: Catherine Moskos
   photo: tcby2.gif
-  info: Postdoc, will start from July 2021.
+  info: <a href='https://web.northeastern.edu/sds/hall.html'>Info</a>
   email: s.ruf@northeastern.edu
   number_educ: 0
   education1: 
@@ -40,7 +47,7 @@
   
 - name: Hayden Henderson
   photo: tcby2.gif
-  info: Postdoc, will start from July 2021.
+  info: <a href='https://web.northeastern.edu/sds/hall.html'>Info</a>
   email: s.ruf@northeastern.edu
   number_educ: 0
   education1: 
@@ -48,7 +55,7 @@
   
 - name: Kara Morgan
   photo: tcby2.gif
-  info: Postdoc, will start from July 2021.
+  info: <a href='https://web.northeastern.edu/sds/hall.html'>Info</a>
   email: s.ruf@northeastern.edu
   number_educ: 0
   education1: 
@@ -56,7 +63,7 @@
   
 - name: Laura Blumenfeld
   photo: tcby2.gif
-  info: Postdoc, will start from July 2021.
+  info: <a href='https://web.northeastern.edu/sds/hall.html'>Info</a>
   email: s.ruf@northeastern.edu
   number_educ: 0
   education1: 
@@ -64,7 +71,7 @@
   
 - name:  Rachael Heiss
   photo: tcby2.gif
-  info: Postdoc, will start from July 2021.
+  info: <a href='https://web.northeastern.edu/sds/hall.html'>Info</a>
   email: s.ruf@northeastern.edu
   number_educ: 0
   education1: 
@@ -72,7 +79,7 @@
   
 - name: Shahed Najjar
   photo: tcby2.gif
-  info: Postdoc, will start from July 2021.
+  info: <a href='https://web.northeastern.edu/sds/hall.html'>Info</a>
   email: s.ruf@northeastern.edu
   number_educ: 0
   education1: 
