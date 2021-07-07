@@ -8,6 +8,13 @@ permalink: /pictures/
 # Dialouge of Civilization : 
 SDS Lab has been organizing an undergraduate study abroad program in climate change science, engineering and policy in different parts of the world. Besides, the undergraduate students program involves PI along with PhD students as co-instructor.
 
+<br>
+
+| Who are they | When were they here | Where they went |
+| :------------- |:-------------| :-----------|
+| [Ben Lansdell](https://web.northeastern.edu/sds/ClimateDOC/summer_2014_India.html) | Postdoc (2017 - 2020) | Data Scientist at St. Jude Children's Research Hospital |
+| [David Rolnick](https://web.northeastern.edu/sds/ClimateDOC/summer_2014_India.html) | Postdoc (2018 - 2020) | [Assistant Professor](https://web.northeastern.edu/sds/ClimateDOC/summer_2014_India.html), Computer Science, McGill University and Mila |
+
 <a href='https://web.northeastern.edu/sds/ClimateDOC/summer_2014_India.html'>2014 program</a><br />
 <a href='https://web.northeastern.edu/sds/ClimateDOC/summer_2015_India.html'>2015 program</a><br />
 <a href='https://news.northeastern.edu/2015/07/17/the-impact-of-climate-change-beyond-the-weather/'>2015</a><br />
