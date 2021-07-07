@@ -260,7 +260,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-### UnderGrad Alumns
+### Alumni(Undergraduate Students)
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -271,7 +271,7 @@ permalink: /team/
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Undergrad students</h4>
+<h4> </h4>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
 {% endfor %}
@@ -285,60 +285,6 @@ permalink: /team/
 </div>
 
 </div>
-
-
-### Alumni(Undergraduate Students)
-{% assign number_printed = 0 %}
-{% for member in site.data.Undergradalm %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}</i>
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
 
 
 ### Alumni (Pre-Northeastern and ORNL):
