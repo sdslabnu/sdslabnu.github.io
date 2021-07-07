@@ -8,18 +8,18 @@ permalink: /pictures/
 # Dialouge of Civilization : 
 SDS Lab has been organizing an undergraduate study abroad program in climate change science, engineering and policy in different parts of the world. Besides, the undergraduate students program involves PI along with PhD students as co-instructor.
 
-<a href='https://web.northeastern.edu/sds/ClimateDOC/summer_2014_India.html'>2014 program</a>
-<a href='https://web.northeastern.edu/sds/ClimateDOC/summer_2015_India.html'>2015 program</a>
-<a href='https://news.northeastern.edu/2015/07/17/the-impact-of-climate-change-beyond-the-weather/'>2015</a>
-<a href='http://www.civ.neu.edu/news/studying-climate-change-india'>2016</a>
-<a href='http://www.coe.neu.edu/blog/studying-science-and-politics-climate-change-singapore-jakarta-bali'>2017</a>
-<a href='http://www.civ.neu.edu/news/climate-dialogue-peru-brazil-completes-2-4-phases'><2018/a>
-<a href='http://www.civ.neu.edu/news/climate-dialogue-peru-brazil-completes-last-two-phases'>2018</a>
-<a href='https://coe.northeastern.edu/news/studying-climate-change-in-india-2/'>2019</a>
-<a href='https://violetlingenfelter.com/projects/dialogue-website/about/'>2019</a>
-<a href='https://cee.northeastern.edu/news/the-2020-virtual-dialogue-of-civilizations-program-on-climate-change-science-and-policy/'>2020</a>
+<a href='https://web.northeastern.edu/sds/ClimateDOC/summer_2014_India.html'>2014 program</a><br />
+<a href='https://web.northeastern.edu/sds/ClimateDOC/summer_2015_India.html'>2015 program</a><br />
+<a href='https://news.northeastern.edu/2015/07/17/the-impact-of-climate-change-beyond-the-weather/'>2015</a><br />
+<a href='http://www.civ.neu.edu/news/studying-climate-change-india'>2016</a><br />
+<a href='http://www.coe.neu.edu/blog/studying-science-and-politics-climate-change-singapore-jakarta-bali'>2017</a><br />
+<a href='http://www.civ.neu.edu/news/climate-dialogue-peru-brazil-completes-2-4-phases'>2018</a><br />
+<a href='http://www.civ.neu.edu/news/climate-dialogue-peru-brazil-completes-last-two-phases'>2018</a><br />
+<a href='https://coe.northeastern.edu/news/studying-climate-change-in-india-2/'>2019</a><br />
+<a href='https://violetlingenfelter.com/projects/dialogue-website/about/'>2019</a><br />
+<a href='https://cee.northeastern.edu/news/the-2020-virtual-dialogue-of-civilizations-program-on-climate-change-science-and-policy/'>2020</a><br />
 
-<a href='https://www.nature.com/articles/454673a'>The CNAS climate wargames which originally motivated the Dialogue wargames</a>
+<a href='https://www.nature.com/articles/454673a'>The CNAS climate wargames which originally motivated the Dialogue wargames</a><br />
 
 
 #### Gallery
