@@ -23,5 +23,7 @@ permalink: /Detailed_News
 
 <b>October 21, 2020.</b> Auroop Ganguly is quoted in an article on the climate-water-energy nexus by S&P Global. The increasing focus in the US and internationally on climate adaptation, infrastructure resilience, and urban sustainability is well aligned with the SDS Lab research focus. Auroop's presentation (see vimeo link here: first 25 minutes or so) at a US National Academies workshop provides an overview. For those new to these topics, read the AGU blog on global weirding (also see Auroop's quotes here and there), "water and the built environment" editorial article in Frontiers (also the SDS Lab textbook on the topic), as well as the National Academies Press workshop proceedings here. 
 
-View related news by the Northeastern College of Engineering here
+<b>January 8, 2020.</b> New tool for measuring climate risk in municipal bonds emerges from stealth: risQ and Intercontinental Exchange Announce Collaboration to Bring Climate Risk Analytics to the Municipal Bond Ecosystem. See the news article from Business Wire here and go to the "About risQ" website for more information on the company's origins.  
+
+View related news by the Northeastern College of Engineering here.
 
