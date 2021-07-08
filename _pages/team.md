@@ -287,7 +287,7 @@ permalink: /team/
 </div>
 
 
-### Alumni (Pre-Northeastern and ORNL):
+### Alumni (ORNL and other: prior to Northeastern)
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
