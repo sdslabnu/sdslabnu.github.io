@@ -169,7 +169,7 @@ permalink: /publications/
             <li style="margin:0in;font-size:16px;font-family:SimSun;color:#555555;"><span style='font-family:"Helvetica",sans-serif;'>Grand Challenge: (2) Frontiers in Water Specialty Chief Editor&apos;s column: <a href="https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdoi.org%2F10.3389%2Ffrwa.2020.555104&data=04%7C01%7Cpal.as%40northeastern.edu%7C6986d2c14b5946b31d2308d941f94a22%7Ca8eec281aaa34daeac9b9a398b9215e7%7C0%7C0%7C637613362867315474%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=YtvmyXGNp7HIttUloqT5vNEb8JAvF9%2BzlQGvEkH0O8g%3D&reserved=0">Water and the Built Environment&nbsp;</a></span></li>
         </ul>
     </li>
-    <li style="margin:0in;font-size:16px;font-family:SimSun;color:#555555;"><strong><em><span style='font-family:"Helvetica",sans-serif;'>Slide 2: Heat Waves and Climate Change&nbsp;</span></em></strong></li>
+    <li>Slide 2: Heat Waves and Climate Change&nbsp;</li>
 </ul>
 <div style="margin:0in;font-size:16px;font-family:SimSun;">
     <ul style="margin-bottom:0in;list-style-type: disc;margin-left:0.5in;">
