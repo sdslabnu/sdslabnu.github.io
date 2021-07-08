@@ -137,26 +137,6 @@ permalink: /publications/
 
 ## Selected Publications and Links
 
-
-* Slide 1 :
-  * 1st Paper :
-* Slide 2 :
-  * 1st Paper : <a href='https://doi.org/10.1073/pnas.0904495106'>DOI</a>
-  * 2nd Paper :
-* Slide 3 :
-* Slide 4 :
-* Slide 5 :
-* Slide 6 :
-* Slide 7 :
-* Slide 8 :
-* Slide 9 :
-* Slide 10 :
-* Slide 11 :
-* Slide 12 :
-* Slide 13 :
-* Slide 14 :
-* Slide 15 :
-
 <hr>
 <br />
 
