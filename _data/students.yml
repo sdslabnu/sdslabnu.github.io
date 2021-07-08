@@ -64,5 +64,18 @@
   email: 
   number_educ: 0
   education1:
-  
+   
+- name: Subimal Ghosh
+  photo: subimal.jpg
+  info: Professor (CEE and Head, Climate IDP) at IIT Bombay. (<a href="https://www.iitb.ac.in/en/employee/prof-subimal-ghosh-0">Website</a>)
+  email: 
+  number_educ: 0
+  education1: 
+    
+- name: Pierre Ngnepieba
+  photo: Fang.jpeg
+  info: Professor & Associate Dean at Florida Agricultural and Mechanical University. (<a href="http://www.famu.edu/index.cfm?math&Ngnepieba-PPage">Website</a>)
+  email: 
+  number_educ: 0
+  education1:
   
