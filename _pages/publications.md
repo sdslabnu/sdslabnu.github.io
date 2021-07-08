@@ -135,7 +135,7 @@ permalink: /publications/
   </a>
 </div>
 
-## Selected Publications and Links
+## <span style="color:green">Selected Publications and Links</span>
 
 <hr>
 <br />
