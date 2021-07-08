@@ -44,6 +44,7 @@ Code or Data Repositories by current or former SDS Lab team and close collaborat
 
 <span style="color:blue">**GitHub Pages:**</span> 
 * Climate Machine Learning by [Thomas James Vandal](https://github.com/tjvandal)
+* Deep Emulaton of Satellite Data and Models by [Kate Duffy](https://github.com/KateDuffy)
 * Climate Risk and Infrastructure Resilience by [Udit Bhatia](https://github.com/udit1408) 
 * Transportation Infrastructure Resilience by [Nishant Yadav](https://github.com/nisyad)
 * Climate Downscaling and Spatiotemporal Analysis by [Yumin Liu](https://github.com/yuminliu)
