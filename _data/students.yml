@@ -1,5 +1,6 @@
 - name: Shiraj Khan
   photo: Siraj.jpg
+  lab: PhD Student.
   info: VP (Research and Analytics) at PIMCO. (<a href="https://www.linkedin.com/in/shiraj-khan-676085b/">Linkedin</a>)
   email: 
   number_educ: 0
@@ -7,6 +8,7 @@
 
 - name: Karsten Steinhaeuser
   photo: Karstein.jpg
+  lab: PhD Student.
   info: Program Manager at AeroVironment. (<a href="https://www.linkedin.com/in/karsten-steinhaeuser-phd-b915289/">Linkedin</a>)
   email: 
   email: 
@@ -15,6 +17,7 @@
 
 - name: Shih-Chieh Kao
   photo: Kao.jpeg
+  lab: Postdoctoral Research Associate.
   info: Group Leader at ORNL. (<a href="https://www.ornl.gov/staff-profile/shih-chieh-kao">Website</a>)
   email: 
   number_educ: 0
@@ -22,6 +25,7 @@
   
 - name: Gabriel Kuhn
   photo: Kuhn.jpeg
+  lab: Postdoctoral Research Associate.
   info: TU Munich
   email: 
   number_educ: 0
@@ -29,6 +33,7 @@
 
 - name: Esther Parish
   photo: esther.jpeg
+  lab: Postgraduate Research Associate.
   info: Environmental Scientist at ORNL. (<a href="https://www.linkedin.com/in/esther-parish-114539145/">Linkedin</a>)
   email: 
   number_educ: 0
@@ -36,6 +41,7 @@
 
 - name: Olufemi Omitaomu
   photo: olufemi.jpeg
+  lab: Postdoctoral Research Associate.
   info: Senior R & D Staff at ORNL. (<a href="https://www.linkedin.com/in/omitaomu/">Linkedin</a>)
   email: 
   number_educ: 0
@@ -50,6 +56,7 @@
   
 - name: Yi Fang
   photo: Fang.jpeg
+  lab: Postgraduate Research Associate.
   info: Associate Professor (Dept. of Computer Science) at Santa Clara University. (<a href="https://www.cse.scu.edu/~yfang/">Linkedin</a>)
   email: 
   number_educ: 0
@@ -57,6 +64,7 @@
    
 - name: Subimal Ghosh
   photo: subimal.jpg
+  lab: Visiting Professor.
   info: Professor (CEE and Head, Climate IDP) at IIT Bombay. (<a href="https://www.iitb.ac.in/en/employee/prof-subimal-ghosh-0">Website</a>)
   email: 
   number_educ: 0
@@ -64,6 +72,7 @@
     
 - name: Pierre Ngnepieba
   photo: Pierre.jpg
+  lab: Visiting Professor.
   info: Professor & Associate Dean at Florida Agricultural and Mechanical University. (<a href="http://www.famu.edu/index.cfm?math&Ngnepieba-PPage">Website</a>)
   email: 
   number_educ: 0
