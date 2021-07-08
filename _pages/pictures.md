@@ -36,7 +36,7 @@ SDS Lab has been organizing an undergraduate study abroad program in climate cha
 
 <hr>
 
-#### Gallery
+# Gallery
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Leiden %}
 
