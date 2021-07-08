@@ -52,6 +52,10 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
+
+<hr style="height:4px;border-width:1;color:gray;background-color:gray">
+
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -137,7 +141,7 @@ permalink: /publications/
 
 ## <span style="color:green">Selected Publications and Links</span>
 
-<hr>
+<hr style="height:4px;border-width:1;color:gray;background-color:gray">
 <br />
 
 <ul style="margin-bottom:0in;" type="disc">
@@ -276,7 +280,7 @@ permalink: /publications/
     </li>
 </ul>
 
-<hr>
+<hr style="height:4px;border-width:1;color:gray;background-color:gray">
 
 
 ### For a full list of publications, visit the PI's Google Scholar page <a href='https://scholar.google.com/citations?user=eNrAUJMAAAAJ&hl=en'>here</a>.
