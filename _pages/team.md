@@ -266,7 +266,7 @@ permalink: /team/
 
 <div class="col-sm-4 clearfix">
 <h4> </h4>
-{% for member in site.data.alumni_visitors %}
+{% for member in site.data.Alumni_postgraduate %}
 {{ member.name }}
 {% endfor %}
 </div>
@@ -274,7 +274,7 @@ permalink: /team/
 
 
 
-### Alumni(Undergraduate Students)
+### Alumni (Undergraduate Students)
 <div class="row">
 
 <div class="col-sm-4 clearfix">
