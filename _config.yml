@@ -10,8 +10,8 @@ title: The SDS Lab
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   The SDS Lab, supported by the Civil and Environmental Engineering department at Northeastern University in Boston, MA, USA, is located right across the heart of the city across the Reflection Pool near the Prudential.
-baseurl: "https://sdslab.io/"
-url: "https://sdslab.io/"
+baseurl: ""
+url: ""
 
 include:
   - .htaccess
