@@ -260,6 +260,20 @@ permalink: /team/
 </div>
 {% endif %}
 
+### Alumni (Postgraduate Students)
+
+<div class="row">
+
+<div class="col-sm-4 clearfix">
+<h4> </h4>
+{% for member in site.data.alumni_visitors %}
+{{ member.name }}
+{% endfor %}
+</div>
+</div>
+
+
+
 ### Alumni(Undergraduate Students)
 <div class="row">
 
