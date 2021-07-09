@@ -50,7 +50,7 @@ Code or Data Repositories by current or former SDS Lab team and close collaborat
 * Climate Downscaling and Spatiotemporal Analysis by [Yumin Liu](https://github.com/yuminliu)
 
 
-<span style="color:blue">**Journal Repositories:**</span> 
+<span style="color:blue">**Journal Repositories (check supplemental information):**</span> 
 * [Extreme Value Theory in Nature Climate Change](https://www.nature.com/articles/nclimate1327?proof=t)
 * [Climate and Coastal Upwelling in Nature](https://www.nature.com/articles/nature14235#journal-info)
 * [Water Stress under Population and Climate in Computers & Geosciences](https://www.sciencedirect.com/science/article/pii/S0098300412000210)
