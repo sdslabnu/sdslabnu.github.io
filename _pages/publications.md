@@ -293,7 +293,7 @@ Jump to [US Patents](#us-patents) to see our Patents.
 ## <span style="color:#800020">US Patents</span>
 
 * US Patent on Climate Risk Analytics
-  * <span style="color:#4B0082">Title:</span> System for multivariable climate change forecasting with uncertainty quantification 
+  * <span style="color:#4B0082">**Title:**</span> System for multivariable climate change forecasting with uncertainty quantification 
   * <span style="color:#800020">US Patent Number:</span> US Patent Number: 10488556
   * <span style="color:#800020">Inventors:</span> Evan Kodra*, Auroop R. Ganguly
   * <span style="color:#800020">Assignee:</span> Northeastern University, Boston, MA [(NU News)](https://coe.northeastern.edu/news/ganguly-awarded-patent-for-multivariable-climate-forecasting/
@@ -301,7 +301,7 @@ Jump to [US Patents](#us-patents) to see our Patents.
 
 <hr>    
 * US Patent on Infrastructure Network Resilience
-  *	<span style="color:#4B0082">Title:</span> System for networking and analyzing geospatial data, human infrastructure, and natural elements
+  *	<span style="color:#4B0082">**Title:**</span> System for networking and analyzing geospatial data, human infrastructure, and natural elements
   *	<span style="color:#800020">US Patent Number:</span> US Patent Number: 10361907
   *	<span style="color:#800020">Inventors:</span> Udit Bhatia*, Devashish Kumar*, Evan Kodra*, Auroop R. Ganguly
   *	<span style="color:#800020">Assignee:</span> Northeastern University, Boston, MA [(NU News)](https://coe.northeastern.edu/news/ganguly-awarded-patent-for-recovery-of-networks-from-disruption/)
