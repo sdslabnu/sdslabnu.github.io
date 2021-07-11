@@ -291,6 +291,21 @@ Jump to [US Patents](#us-patents) to see our Patents.
 <hr style="border: 3px dashed #800020; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
 
 ## <span style="color:#800020">US Patents</span>
+*	US Patent on Climate Risk Analytics
+   o	Title: System for multivariable climate change forecasting with uncertainty quantification 
+   o	US Patent Number: 10488556
+   o	Inventors: Evan Kodra*, Auroop R. Ganguly
+   o	Assignee: Northeastern University, Boston, MA [(NU News)](https://coe.northeastern.edu/news/ganguly-awarded-patent-for-multivariable-climate-forecasting/)  <br />
+   o	Date granted: November 26, 2019
+<br />  
+* US Patent on Infrastructure Network Resilience
+   o	Title: System for networking and analyzing geospatial data, human infrastructure, and natural elements
+   o	US Patent Number: 10361907
+   o	Inventors: Udit Bhatia*, Devashish Kumar*, Evan Kodra*, Auroop R. Ganguly
+   o	Assignee: Northeastern University, Boston, MA [(NU News)](https://coe.northeastern.edu/news/ganguly-awarded-patent-for-recovery-of-networks-from-disruption/)
+   o	Date granted: July 23, 2019
+
+
 (1) Climate Risk [(NU News)](https://coe.northeastern.edu/news/ganguly-awarded-patent-for-multivariable-climate-forecasting/)  <br />
 (2) Network Resilience [(NU News)](https://coe.northeastern.edu/news/ganguly-awarded-patent-for-recovery-of-networks-from-disruption/)
 
