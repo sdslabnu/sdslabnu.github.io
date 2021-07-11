@@ -6,7 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-Jump to [US Patents](#US-Patents) to see our Patents.
+Jump to [US Patents](#US-Patents:) to see our Patents.
 
 # Publications
 
