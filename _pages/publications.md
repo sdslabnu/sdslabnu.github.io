@@ -286,3 +286,9 @@ permalink: /publications/
 
 
 ### For a full list of publications, visit the PI's Google Scholar page <a href='https://scholar.google.com/citations?user=eNrAUJMAAAAJ&hl=en'>here</a>.
+
+<hr style="border: 3px dashed #800020; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
+
+## US Patents: 
+(1) Climate Risk [(NU News)](https://coe.northeastern.edu/news/ganguly-awarded-patent-for-multivariable-climate-forecasting/)
+(2) Network Resilience [(NU News)](https://coe.northeastern.edu/news/ganguly-awarded-patent-for-recovery-of-networks-from-disruption/)
