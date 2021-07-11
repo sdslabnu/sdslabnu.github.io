@@ -6,7 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-Jump to [US Patents](#US-Patents:) to see our Patents.
+Jump to [US Patents](#us-patents) to see our Patents.
 
 # Publications
 
@@ -290,6 +290,6 @@ Jump to [US Patents](#US-Patents:) to see our Patents.
 
 <hr style="border: 3px dashed #800020; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
 
-## US Patents: 
+## US Patents
 (1) Climate Risk [(NU News)](https://coe.northeastern.edu/news/ganguly-awarded-patent-for-multivariable-climate-forecasting/)  <br />
 (2) Network Resilience [(NU News)](https://coe.northeastern.edu/news/ganguly-awarded-patent-for-recovery-of-networks-from-disruption/)
