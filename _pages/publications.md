@@ -292,18 +292,23 @@ Jump to [US Patents](#us-patents) to see our Patents.
 
 ## <span style="color:#800020">US Patents</span>
 *	US Patent on Climate Risk Analytics
-   *	<span style="color:#800020">Title:</span> System for multivariable climate change forecasting with uncertainty quantification 
-   *	<span style="color:#800020">US Patent Number:</span> US Patent Number: 10488556
-   *	<span style="color:#800020">Inventors:</span> Evan Kodra*, Auroop R. Ganguly
-   *	<span style="color:#800020">Assignee:</span> Northeastern University, Boston, MA [(NU News)](https://coe.northeastern.edu/news/ganguly-awarded-patent-for-multivariable-climate-forecasting/) 
-   *	<span style="color:#800020">Date granted:</span> November 26, 2019
-    
+  *	<span style="color:#800020">Title:</span> System for multivariable climate change forecasting with uncertainty quantification 
+  *	<span style="color:#800020">US Patent Number:</span> US Patent Number: 10488556
+  *	<span style="color:#800020">Inventors:</span> Evan Kodra*, Auroop R. Ganguly
+  *	<span style="color:#800020">Assignee:</span> Northeastern University, Boston, MA [(NU News)](https://coe.northeastern.edu/news/ganguly-awarded-patent-for-multivariable-climate-forecasting/) 
+  *	<span style="color:#800020">Date granted:</span> November 26, 2019
+<hr>    
 * US Patent on Infrastructure Network Resilience
-   *	<span style="color:#800020">Title:</span> System for networking and analyzing geospatial data, human infrastructure, and natural elements
-   *	<span style="color:#800020">US Patent Number:</span> US Patent Number: 10361907
-   *	<span style="color:#800020">Inventors:</span> Udit Bhatia*, Devashish Kumar*, Evan Kodra*, Auroop R. Ganguly
-   *	<span style="color:#800020">Assignee:</span> Northeastern University, Boston, MA [(NU News)](https://coe.northeastern.edu/news/ganguly-awarded-patent-for-recovery-of-networks-from-disruption/)
-   *	<span style="color:#800020">Date granted:</span> July 23, 2019
+  *	<span style="color:#800020">Title:</span> System for networking and analyzing geospatial data, human infrastructure, and natural elements
+  *	<span style="color:#800020">US Patent Number:</span> US Patent Number: 10361907
+  *	<span style="color:#800020">Inventors:</span> Udit Bhatia*, Devashish Kumar*, Evan Kodra*, Auroop R. Ganguly
+  *	<span style="color:#800020">Assignee:</span> Northeastern University, Boston, MA [(NU News)](https://coe.northeastern.edu/news/ganguly-awarded-patent-for-recovery-of-networks-from-disruption/)
+  *	<span style="color:#800020">Date granted:</span> July 23, 2019
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
 
 <!-- 
 (1) Climate Risk [(NU News)](https://coe.northeastern.edu/news/ganguly-awarded-patent-for-multivariable-climate-forecasting/)  <br />
