@@ -303,7 +303,7 @@ Jump to [US Patents](#us-patents) to see our Patents.
 * US Patent on Infrastructure Network Resilience
   *	<span style="color:#4B0082">**Title:**</span> System for networking and analyzing geospatial data, human infrastructure, and natural elements
   *	<span style="color:#800020">US Patent Number:</span> US Patent Number: 10361907
-  *	<span style="color:#800020">Inventors:</span> Udit Bhatia*, Devashish Kumar*, Evan Kodra*, Auroop R. Ganguly
+  *	<span style="color:#800020">Inventors:</span> Udit Bhatia*, Devashish Kumar*, Evan Kodra*, Evan Kodra*, Evan Kodra*, Auroop R. Ganguly
   *	<span style="color:#800020">Assignee:</span> Northeastern University, Boston, MA [(NU News)](https://coe.northeastern.edu/news/ganguly-awarded-patent-for-recovery-of-networks-from-disruption/)
   *	<span style="color:#800020">Date granted:</span> July 23, 2019
 
