@@ -94,7 +94,8 @@ The **Sustainability and Data Sciences Laboratory (SDS Lab)** develops novel ins
 
 <hr style="height:4px;border-width:1;color:gray;background-color:gray">
 
-See our US Patents [here](https://sdslab.io/publications/#us-patents)
+<!-- See our US Patents [here](https://sdslab.io/publications/#us-patents) -->
+**See our** [(Publications and Patents here)]({{ site.url }}{{ site.baseurl }}/publications) **!**
 
 The SDS Lab, supported by the Civil and Environmental Engineering department at Northeastern University in Boston, MA, USA, is located right across the heart of the city across the Reflection Pool near the Prudential. 
 
