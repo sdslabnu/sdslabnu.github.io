@@ -296,7 +296,7 @@ Jump to [US Patents](#us-patents) to see our Patents.
   * <span style="color:#4B0082">**Title:**</span> System for multivariable climate change forecasting with uncertainty quantification 
   * <span style="color:#800020">US Patent Number:</span> US Patent Number: 10488556
   * <span style="color:#800020">Inventors:</span> Evan Kodra*, Auroop R. Ganguly
-  * <span style="color:#800020">Assignee:</span> Northeastern University, Boston, MA [(NU News)](https://coe.northeastern.edu/news/ganguly-awarded-patent-for-multivariable-climate-forecasting/
+  * <span style="color:#800020">Assignee:</span> Northeastern University, Boston, MA [(NU News)](https://coe.northeastern.edu/news/ganguly-awarded-patent-for-multivariable-climate-forecasting/)
   * <span style="color:#800020">Date granted:</span> November 26, 2019
 
 <hr>    
