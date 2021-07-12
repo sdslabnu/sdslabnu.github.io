@@ -5,7 +5,7 @@ excerpt: "SDS Lab -- Pictures"
 permalink: /pictures/
 ---
 
-# Dialouge of Civilization : 
+# Dialouge of Civilizations 
 The SDS Lab has been organizing, each summer, undergraduate study abroad programs in climate change science, engineering adaptation, and policy, covering different parts of the world with a focus on emerging economies. The programs are organized as part of Northeastern University's Dialogue of Civilizations and led by the SDS Lab PI who serves as the primary instructor. A feature of these programs are climate change war games where students engage in informed role-playing. In addition to the participating undergraduate students, past programs have included SDS Lab PhD students as co-instructors and SDS Lab undergraduate researchers as student mentors. Over the years, this interdisciplinary program has enrolled undergraduate students from all colleges at Northeastern, and traveled to Brazil, India, Indonesia, Nepal, Peru, and Singapore.  
 
 <br>
