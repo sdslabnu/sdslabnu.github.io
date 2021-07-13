@@ -13,7 +13,7 @@ The SDS Lab research themes are described in the [Home Page]({{ site.url }}{{ si
 ## Funding
 The SDS Lab PI Auroop Ganguly has been directly involved in funding grants for research totaling around $25 Million during his last 10 years at Northeastern University and prior 7 years at the Oak Ridge National Laboratory. His funding has primarily come from US federal agencies such as NSF, DOD, NASA, DHS, DOE and DOE Labs, with occasional grants and in-kind support from the private and public sectors. Ganguly has also managed several large projects and products during his experience in the private sector. Here we list a few selected research funding.
 
-* <p><strong><span style='font-size:16px;font-family:"Cammron",sans-serif;color:#000000;'>Selected Funding:</span></strong></p>
+* <p><strong><span style='font-size:18px;font-family:"Cammron",sans-serif;color:#000000;'>Selected Funding:</span></strong></p>
   * Networked Infrastructure under Compound Extremes (NICE). US DOD SERDP. ([DOD Announcement](https://www.serdp-estcp.org/Program-Areas/Resource-Conservation-and-Resiliency/Infrastructure-Resiliency/Vulnerability-and-Impact-Assessment/RC20-1183), [NU News](https://coe.northeastern.edu/news/ganguly-to-lead-3m-serdp-grant-for-networked-infrastructures-under-compound-extremes/) and [SERDP Poster Presentation](https://www.youtube.com/watch?v=BRsifIgUdHA))
   * Interdependent Network-based Quantification of Infrastructure Resilience (INQUIRE). NSF CRISP Type 2. ([NSF Award Page](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1735505) and [NU News](https://coe.northeastern.edu/news/interdisciplinary-team-to-lead-2-5m-nsf-crisp-grant/))
   * High-Dimensional Statistical Machine Learning for Spatio-Temporal Climate Data. NSF Big Data F DKA. [(NSF Award Page)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1447587)
@@ -22,7 +22,7 @@ The SDS Lab PI Auroop Ganguly has been directly involved in funding grants for r
 
 
 
-* <p><strong><span style='font-size:16px;font-family:"Helvetica",sans-serif;color:#000000;'>Organizations funding Experiential PhD Students:</span></strong></p>
+* <p><strong><span style='font-size:18px;font-family:"Helvetica",sans-serif;color:#000000;'>Organizations funding Experiential PhD Students:</span></strong></p>
   * NASA (Ames Research Center)
   * US DOE's Oak Ridge National Laboratory
   * US DOE's Pacific Northwest National Laboratory
