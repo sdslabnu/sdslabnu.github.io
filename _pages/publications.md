@@ -296,7 +296,7 @@ Jump to [US Patents](#us-patents) to see our Patents.
 
 <hr style="border: 3px dashed #800020; width: 100%; margin: auto; margin-top: 5%; margin-bottom: 5%">
 
-## <span style="color:#228B22">US Patents</span>
+## US Patents
 
 * US Patent on Climate Risk Analytics
   * <span style="color:#4B0082">**Title:**</span> System for multivariable climate change forecasting with uncertainty quantification 
