@@ -20,9 +20,9 @@ The SDS Lab PI Auroop Ganguly has been directly involved in funding grants for r
   * SEA-MASCOT: Spatio-temporal Extremes and Associations : Marine Adaptation and Survivorship under Changes in extreme Ocean Temperatures. NSF Cyber SEES Type 2 ([NSF Award Page](https://nsf.gov/awardsearch/showAward?AWD_ID=1442728&HistoricalAwards=false) and [NU News](https://coe.northeastern.edu/news/interdisciplinary-nsf-grant/))
   * Understanding Climate Change: A Data Driven Approach. NSF Expeditions in Computing. ([NSF Award Page](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1029711), [NSF News](https://nsf.gov/discoveries/disc_summ.jsp?cntn_id=189519), [UTK News](https://news.utk.edu/2010/08/23/nsf-grant-climate-change/), [NU News](https://coe.northeastern.edu/news/nsf-highlights-gangulys-work/) and [UMN Project Page](http://climatechange.cs.umn.edu/)) 
 
+<br />
 
-
-* <p><strong><span style='font-size:18px;font-family:"Helvetica",sans-serif;color:#000000;'>Organizations funding Experiential PhD Students:</span></strong></p>
+* <p><strong><span style='font-size:18px;font-family:"Lato",sans-serif;color:#000000;'>Organizations funding Experiential PhD Students:</span></strong></p>
   * NASA (Ames Research Center)
   * US DOE's Oak Ridge National Laboratory
   * US DOE's Pacific Northwest National Laboratory
