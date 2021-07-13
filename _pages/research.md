@@ -10,6 +10,25 @@ permalink: /research/
 
 The SDS Lab research themes are described in the [Home Page]({{ site.url }}{{ site.baseurl }}/) while selected publications are highlighted in the [Publications]({{ site.url }}{{ site.baseurl }}/publications) page. Here we point to a few presentations and posters which may provide a summary of our research. Furthermore, we provide links to shared codes and data repositories developed by current and former SDS Lab members.
 
+
+## Funding
+The SDS Lab PI Auroop Ganguly has been directly involved in funding grants for research totaling around $25 Million during his last 10 years at Northeastern University and prior 7 years at the Oak Ridge National Laboratory. His funding has primarily come from US federal agencies such as NSF, DOD, NASA, DHS, DOE and DOE Labs, with occasional grants and in-kind support from the private and public sectors. Ganguly has also managed several large projects and products during his experience in the private sector. Here we list a few selected research funding.
+
+* Selected Funding:
+  * Networked Infrastructure under Compound Extremes (NICE). US DOD SERDP. (DOD Announcement, NU News and SERDP Poster Presentation)
+  * Interdependent Network-based Quantification of Infrastructure Resilience (INQUIRE). NSF CRISP Type 2. (NSF Award Page and NU News)
+  * High-Dimensional Statistical Machine Learning for Spatio-Temporal Climate Data. NSF Big Data F DKA. (NSF Award Page)
+  * SEA-MASCOT: Spatio-temporal Extremes and Associations : Marine Adaptation and Survivorship under Changes in extreme Ocean Temperatures. NSF Cyber SEES Type 2 (NSF Award Page and NU News)
+  * Understanding Climate Change: A Data Driven Approach. NSF Expeditions in Computing. (NSF Award Page, NSF News, UTK News, NU News and UMN Project Page) 
+
+* Organizations funding Experiential PhD Students:
+  * NASA (Ames Research Center)
+  * US DOE's Oak Ridge National Laboratory
+  * US DOE's Pacific Northwest National Laboratory
+  * risQ Inc.
+
+For a detailed list of funding grants, see the PI's CV [here](https://coe.northeastern.edu/wp-content/uploads/auroopganguly-fullcv-june2021.pdf)
+
 <hr>
 
 ## Presentations:
