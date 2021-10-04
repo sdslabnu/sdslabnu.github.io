@@ -27,7 +27,6 @@ permalink: /Detailed_News
         <p style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;'>&nbsp;</p> 
         <p style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;'>View related news by the Northeastern College of Engineering <a href="https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcoe.northeastern.edu%2Fnews-events%2Fnews%2Ffaculty-related-news%2F%3Ffacid%3D59&data=04%7C01%7Cpal.as%40northeastern.edu%7C2bf62b37ffbf42ee474908d93eb42e68%7Ca8eec281aaa34daeac9b9a398b9215e7%7C0%7C0%7C637609765876630005%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=ejy0Qo1yuFasFLGJXlu6HSHjHo7O8xyYATZSfnzB%2BIg%3D&reserved=0" target="_blank">here</a></p>
         <p style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;'>&nbsp;</p>
-    </li>
-</ul>
+
 
 
