@@ -51,13 +51,21 @@
   education1: MS in Intelligent Systems from <a href="https://umich.edu/">University of Michigan</a>
   education2: B.Tech. in Civil and Environmental Engineering from IIT, Guwahati.
   
-- name: Stone Chen
-  photo: Stone.jpeg
-  info: Interdisciplinary PhD Student, started Fall 2021.
-  email: chen.sto@northeastern.edu
+- name: Aayushi Mishra
+  photo: Aayushi.jpeg
+  info: PhD Student, started Fall 2023.
+  email: mishra.aay@northeastern.edu
   number_educ: 2
-  education1: BA and MA in Biochemistry/biotechnology from Boston University.
-  education2: BS/MS in Statistics from University of Auckland.
+  education1: BA in Biology and Environmental Studies from Mount Holyoke College
+  education2: MPA in Environmental Science and Policy from Columbia University
+  
+# - name: Stone Chen
+#   photo: Stone.jpeg
+#   info: Interdisciplinary PhD Student, started Fall 2021.
+#   email: chen.sto@northeastern.edu
+#   number_educ: 2
+#   education1: BA and MA in Biochemistry/biotechnology from Boston University.
+#   education2: BS/MS in Statistics from University of Auckland.
 
 - name: Dian Indrawati
   photo: Dian.jpg
