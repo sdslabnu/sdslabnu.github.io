@@ -3,9 +3,9 @@
   info: PhD Candidate (Interdisciplinary Engineering), started Fall 2020.
   email: das.puj@northeastern.edu
   number_educ: 2
-  education1: MSc. in Civil and Environmental Engineering(Data and Systems) from Northeastern University. 
-  education2: BSc. in Water Resources Engineering from <a href="https://www.buet.ac.bd/web/">BUET</a>. 
-
+  education1: BSc. in Water Resources Engineering from <a href="https://www.buet.ac.bd/web/">BUET</a>. 
+  education2: MSc. in Civil and Environmental Engineering(Data and Systems) from Northeastern University. 
+  
 - name: Kate Duffy
   photo: Duffy.jpeg
   info: Interdisciplinary PhD Student, started Fall 2017.
@@ -46,8 +46,8 @@
   info: Interdisciplinary PhD Student, started Spring 2019.
   email: yadav.ni@northeastern.edu
   number_educ: 2
-  education1: MS in Intelligent Systems from <a href="https://umich.edu/">University of Michigan</a>
-  education2: B.Tech. in Civil and Environmental Engineering from IIT, Guwahati.
+  education1: B.Tech. in Civil and Environmental Engineering from IIT, Guwahati.
+  education2: MS in Intelligent Systems from <a href="https://umich.edu/">University of Michigan</a>.
   
 - name: Aayushi Mishra
   photo: Aayushi.jpeg
@@ -80,3 +80,11 @@
   number_educ: 1
   education1: BA in Civil Engineering from Universitas Jenderal Achmad Yani.
   education2: 
+  
+- name: Archita Ghosh
+  photo: Archita.jpeg
+  info: PhD student, starting Fall 2023
+  email: ghosh.arc@northeastern.edu
+  number_educ: 2
+  education1: Btech in Electrical Engineering from Future Institute of Engg. and Management.
+  education2: MS by Research from School of Medical Science and Technology, IIT Kharagpur.
