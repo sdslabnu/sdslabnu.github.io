@@ -56,15 +56,15 @@
   number_educ: 2
   education1: BA in Biology and Environmental Studies from Mount Holyoke College
   education2: MPA in Environmental Science and Policy from Columbia University
-  
-- name: Shuochen Wang
-  photo: shuochen.jpg
-  info: PhD Student, started Fall 2023.
-  email: wang.shuoc@northeastern.edu
+
+- name: Archita Ghosh
+  photo: Archita.jpeg
+  info: PhD student, starting Fall 2023
+  email: ghosh.arc@northeastern.edu
   number_educ: 2
-  education1: BS in Atmospheric Sciences from Lanzhou University
-  education2: MS in Environmental Management and Science from Carnegie Mellon University
-  
+  education1: Btech in Electrical Engineering from Future Institute of Engg. and Management.
+  education2: MS by Research from School of Medical Science and Technology, IIT Kharagpur.  
+    
 # - name: Stone Chen
 #   photo: Stone.jpeg
 #   info: Interdisciplinary PhD Student, started Fall 2021.
@@ -89,10 +89,10 @@
   education1: B.Tech. in Civil Engineering from IIT, Gandhinagar.
   education2: M.Tech. in Civil Engineering from IIT, Gandhinagar.
   
-- name: Archita Ghosh
-  photo: Archita.jpeg
-  info: PhD student, starting Fall 2023
-  email: ghosh.arc@northeastern.edu
+- name: Shuochen Wang
+  photo: shuochen.jpg
+  info: PhD Student, started Fall 2023.
+  email: wang.shuoc@northeastern.edu
   number_educ: 2
-  education1: Btech in Electrical Engineering from Future Institute of Engg. and Management.
-  education2: MS by Research from School of Medical Science and Technology, IIT Kharagpur.
+  education1: BS in Atmospheric Sciences from Lanzhou University
+  education2: MS in Environmental Management and Science from Carnegie Mellon University
