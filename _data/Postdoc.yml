@@ -28,12 +28,12 @@
   education3: 
   education4:
 
-- name: Sebastian Ruf
-  photo: Seb.jpeg
-  info: Postdoc, started from July 2021.
-  email: s.ruf@northeastern.edu
-  number_educ: 3
-  education1: PhD in Electrical and Computer Engineering from Georgia Institute of Technology.
-  education2: MS in Mechanical Engineering from University of California, Berkeley.
-  education3: BS in Mechanical Engineering from University of California, Berkeley.
-  education4:
+# - name: Sebastian Ruf
+#   photo: Seb.jpeg
+#   info: Postdoc, started from July 2021.
+#   email: s.ruf@northeastern.edu
+#   number_educ: 3
+#   education1: PhD in Electrical and Computer Engineering from Georgia Institute of Technology.
+#   education2: MS in Mechanical Engineering from University of California, Berkeley.
+#   education3: BS in Mechanical Engineering from University of California, Berkeley.
+#   education4:
