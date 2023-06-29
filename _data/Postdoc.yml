@@ -28,6 +28,16 @@
   education3: 
   education4:
 
+- name: Rachindra Mawalagedara
+  photo: rachindra.jpeg
+  info: Postdoc, started from April 2023. 
+  email: s.mawalagedara@northeastern.edu
+  number_educ: 2
+  education1: Ph.D. in Earth and Atmospheric Sciences, University of Nebraska-Lincoln. 
+  education2: B.Sc. (Hons) in Physics, University of Peradeniya, Sri Lanka. 
+  education3:
+  education4:
+
 # - name: Sebastian Ruf
 #   photo: Seb.jpeg
 #   info: Postdoc, started from July 2021.
