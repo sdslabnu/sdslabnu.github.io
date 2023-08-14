@@ -1,3 +1,36 @@
+- name: Nishant Yadav
+  photo: Yadav.jpeg
+  duration: PhD Student (2019-2023).
+  info: Applied Scientist II - Microsoft. (<a href="https://www.linkedin.com/in/nisyad">Linkedin</a>)
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:
+  education4:
+
+- name: Kate Duffy
+  photo: Duffy.jpeg
+  duration: PhD Student (2017-2021).
+  info: Co-Founder, Zeus AI. (<a href="https://www.linkedin.com/in/katemduffy">Linkedin</a>)
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:
+  education4: 
+  
+- name: Bharat Sharma
+  photo: Bharat.png
+  duration: PhD Student (2016-2022).
+  info: Postdoc, Oak Ridge National Laboratory (<a href="https://www.linkedin.com/in/bharat-sharma-64a09836">Linkedin</a>)
+  email: 
+  number_educ: 0
+  education1: 
+  education2: 
+  education3:
+  education4:
+
 - name: Udit Bhatia
   photo: Udit.png
   duration: PhD Student (2014-2018).
