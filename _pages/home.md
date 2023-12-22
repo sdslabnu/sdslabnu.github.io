@@ -126,4 +126,8 @@ The **Sustainability and Data Sciences Laboratory (SDS Lab)** develops novel ins
   [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_03.png" style="width: 120px">](https://www.ornl.gov/)
    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
   [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/risq.png" style="width: 120px">](https://www.risq.io/)
+    img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EAI.png" style="width: 120px">](https://ai.northeastern.edu/)
+    img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Roux.png" style="width: 120px">](https://roux.northeastern.edu/)
 </figure>
