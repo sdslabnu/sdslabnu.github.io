@@ -1,23 +1,23 @@
-- name: Alan Zhang
+- name: August Posch
   photo: August Posch.jpg
-  info: Computer Science.
-  email: 
-  number_educ: 0
-  education1: 
-  education2:
+  info: Data Scientist.
+  email: au.posch@northeastern.edu
+  number_educ: 2
+  education1: MS, Data Science, Northeastern University.
+  education2: BS, Mathematics, Bowdoin College.
 
-- name: Diane Grant
+- name: Kartik Aggarwal
   photo: Kartik.jpg
-  info: Computer Science and Political Science.
-  email: 
-  number_educ: 0
-  education1: 
-  education2:
+  info: Geospatial-Temporal Data Scientist, Roux Institute.
+  email: k.aggarwal@northeastern.edu
+  number_educ: 2
+  education1: MS, Data Modeling/Warehousing and Database Administration, Northeastern University.
+  education2: Bachelor in Technology, Maharaja Surajmal Institute Of Technology, India. 
 
-- name: Deepchand Maddipati
+- name: Soumyo Dey
   photo: Soumyo.JPG
-  info: Energy systems.
-  email: 
-  number_educ: 0
-  education1: 
-  education2: 
+  info: Geospatial-Temporal Data Scientist, Roux Institute.
+  email: s.dey@northeastern.edu
+  number_educ: 2
+  education1: Masters in Data Science, Northeastern University.
+  education2: Bachelor in Technology, Maharaja Surajmal Institute Of Technology, India.
