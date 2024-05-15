@@ -1,4 +1,4 @@
-  - name: August Posch
+- name:  August Posch
   photo: August Posch.jpg
   info: Data Scientist.
   email: au.posch@northeastern.edu
@@ -7,7 +7,7 @@
   education2: BS, Mathematics, Bowdoin College.
   education3:
 
-  - name: Kartik Aggarwal
+- name: Kartik Aggarwal
   photo: Kartik.jpg
   info: Geospatial-Temporal Data Scientist, Roux Institute.
   email: k.aggarwal@northeastern.edu
@@ -16,7 +16,7 @@
   education2: Bachelor in Technology, Maharaja Surajmal Institute Of Technology, India. 
   education3:
 
-  - name: Soumyo Dey
+- name: Soumyo Dey
   photo: Soumyo.JPG
   info: Geospatial-Temporal Data Scientist, Roux Institute.
   email: s.dey@northeastern.edu
