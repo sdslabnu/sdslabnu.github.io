@@ -1,42 +1,42 @@
-- name: Santiago
-  photo: Antonia.JPG
-  info: Postdoc, started from July 2021.
-  email: a.sohns@northeastern.edu
-  number_educ: 3
-  education1: PhD in Geography, McGill University.
-  education2: MSc in Water Science, Policy and Management, University of Oxford.
-  education3: BSc in Earth Systems (Oceans Track), Stanford University.
+- name: Aedeshir Contractor
+  photo: Ardeshir.png
+  info: Director of AI for Climate and Sustainability.
+  email: a.contractor@northeastern.edu
+  number_educ: 1
+  education1: Clinical Professor at Ohio State University
+  education2: 
+  education3: 
   education4: 
 
 - name: Robyn Anderson
-  photo: Arnob.jpeg
-  info: Postdoc, started from April 18, 2023.
-  email: ar.ray@northeastern.edu
-  number_educ: 2
-  education1: PhD in Applied Mathematics, Indian Statistical Institute, and University of Calcutta, India.
-  education2: B.Sc. and M.Sc. in Mathematics, West Bengal State University, India
+  photo: Robyn.png
+  info: Technical Program Development and Operations Manager 
+  email: ro.anderson@northeastern.edu
+  number_educ: 1
+  education1: Research Program Manager,Kostas Research Institute for Homeland Security (KRI).
+  education2: 
   education3:
   education4:
   
-- name: Rishi Dipak Sahastrabuddhe
-  photo: Rishi.jpeg
-  info: Postdoc, started from Fall 2022.
-  email: r.sahastrabuddhe@northeastern.edu
-  number_educ: 2
-  education1: M.Tech & Ph.D. in Civil Engineering from Indian Institute of Technology Bombay, India.
-  education2: B.Tech in Civil Engineering from National Institute of Technology Surat, India.
+- name: Santiago Arrieta
+  photo: Santiago Arrieta.jpg
+  info: Executive Assistant, started from Fall 2023.
+  email: s.arrieta@northeastern.edu
+  number_educ: 1
+  education1: MBA, Northeastern University.
+  education2:
   education3: 
   education4:
 
-- name: Rachindra Mawalagedara
-  photo: rachindra.jpeg
-  info: Postdoc, started from April 2023. 
-  email: s.mawalagedara@northeastern.edu
-  number_educ: 2
-  education1: Ph.D. in Earth and Atmospheric Sciences, University of Nebraska-Lincoln. 
-  education2: B.Sc. (Hons) in Physics, University of Peradeniya, Sri Lanka. 
-  education3:
-  education4:
+# - name: Rachindra Mawalagedara
+#   photo: rachindra.jpeg
+#   info: Postdoc, started from April 2023. 
+#   email: s.mawalagedara@northeastern.edu
+#   number_educ: 2
+#   education1: Ph.D. in Earth and Atmospheric Sciences, University of Nebraska-Lincoln. 
+#   education2: B.Sc. (Hons) in Physics, University of Peradeniya, Sri Lanka. 
+#   education3:
+#   education4:
 
 # - name: Sebastian Ruf
 #   photo: Seb.jpeg
