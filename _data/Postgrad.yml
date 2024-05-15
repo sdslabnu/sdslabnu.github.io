@@ -1,5 +1,5 @@
 - name: Alan Zhang
-  photo: Zhang.jpeg
+  photo: August Posch.jpg
   info: Computer Science.
   email: 
   number_educ: 0
@@ -7,7 +7,7 @@
   education2:
 
 - name: Diane Grant
-  photo: Diane.JPG
+  photo: Kartik.jpg
   info: Computer Science and Political Science.
   email: 
   number_educ: 0
@@ -15,56 +15,8 @@
   education2:
 
 - name: Deepchand Maddipati
-  photo: Deepchand.jpg
+  photo: Soumyo.JPG
   info: Energy systems.
-  email: 
-  number_educ: 0
-  education1: 
-  education2: 
-  
-- name: Autumn Rayne Skillin
-  photo: Autumn Rayne Skillin.jpeg
-  info: Civil and Environmental Engineering.
-  email: 
-  number_educ: 0
-  education1: 
-  education2: 
-
-- name: Ruth Linnaea Cahill
-  photo: Ruth Linnaea Cahill.jpeg
-  info: Civil and Environmental Engineering (Starting graduate studies from Fall 2021 at TU Delft, Netherlands).
-  email: 
-  number_educ: 0
-  education1: 
-  education2: 
-
-- name: Sophia Bailey
-  photo: Sophia Bailey.jpeg
-  info: Chemical Engineering.
-  email: 
-  number_educ: 0
-  education1: 
-  education2: 
-
-- name: Tejas Satyamurthi
-  photo: Tejas Satyamurthi.jpeg
-  info: Computer Science.
-  email: 
-  number_educ: 0
-  education1: 
-  education2: 
-
-- name: Violet Lingenfelter
-  photo: Violet Lingenfelter.jpeg
-  info: Environmental Science (Starting graduate studies from Fall 2021 at UC Berkeley, California).
-  email: 
-  number_educ: 0
-  education1: 
-  education2: 
-  
-- name: Jessica Carr
-  photo: Jessica Carr.jpeg
-  info: Environmental Science.
   email: 
   number_educ: 0
   education1: 
