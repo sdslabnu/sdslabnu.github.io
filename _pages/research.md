@@ -23,7 +23,7 @@ The SDS Lab PI Auroop Ganguly has been directly involved in funding grants for r
 <br />
 
 * <p><strong><span style='font-size:18px;font-family:"Lato",sans-serif;color:#000000;'>Organizations funding Experiential PhD Students:</span></strong></p>
-  * NASA (Ames Research Center)
+  * [NASA (Ames Research Center)](https://www.nasa.gov/ames/) 
   * US DOE's Oak Ridge National Laboratory
   * US DOE's Pacific Northwest National Laboratory
   * risQ Inc.
