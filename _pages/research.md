@@ -25,7 +25,7 @@ The SDS Lab PI Auroop Ganguly has been directly involved in funding grants for r
 * <p><strong><span style='font-size:18px;font-family:"Lato",sans-serif;color:#000000;'>Organizations funding Experiential PhD Students:</span></strong></p>
   * [NASA (Ames Research Center)](https://www.nasa.gov/ames/) 
   * [US DOE's Oak Ridge National Laboratory](https://www.ornl.gov/)
-  * US DOE's Pacific Northwest National Laboratory
+  * [US DOE's Pacific Northwest National Laboratory](https://www.pnnl.gov/)
   * risQ Inc.
 
 For a detailed list of funding grants, see the PI's CV [here](https://coe.northeastern.edu/wp-content/uploads/auroopganguly-fullcv-june2021.pdf)
