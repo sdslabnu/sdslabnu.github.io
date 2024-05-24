@@ -119,7 +119,6 @@ The PI of SDS lab is **Dr. Auroop Ganguly** (Distinguished College of Engineerin
 
 <!-- blank line -->
 <span style="color:blue">**Experiential Collaborators:**</span>
-<!-- blank line -->
 <figure class="fourth">
 <!-- External Collaborators -->
   [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_01.png" style="width: 120px">](https://www.pnnl.gov/)
