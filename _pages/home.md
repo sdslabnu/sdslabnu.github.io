@@ -128,6 +128,8 @@ The PI of SDS lab is **Dr. Auroop Ganguly** (Distinguished College of Engineerin
   [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_03.png" style="width: 120px">](https://www.ornl.gov/)
    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
   [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/risq.png" style="width: 120px">](https://www.risq.io/)
+   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Zeus.png" style="width: 120px">](https://myzeus.ai/)
 </figure>
 
 <!-- blank line -->
