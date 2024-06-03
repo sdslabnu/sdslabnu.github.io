@@ -118,7 +118,7 @@ The PI of SDS lab is **Dr. Auroop Ganguly** (Distinguished College of Engineerin
 <!--  **We are  looking for passionate new PhD and Postdocs students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
 
 <!-- blank line -->
-<span style="color:blue">**Experiential Collaborators:**</span>
+<span style="color:blue">**External Collaborators:**</span>
 <!-- blank line -->
 <figure class="fourth">
   [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_01.png" style="width: 120px">](https://www.pnnl.gov/)
@@ -128,7 +128,12 @@ The PI of SDS lab is **Dr. Auroop Ganguly** (Distinguished College of Engineerin
   [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_03.png" style="width: 120px">](https://www.ornl.gov/)
    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
   [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/risq.png" style="width: 120px">](https://www.risq.io/)
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
+</figure>
+
+<!-- blank line -->
+<span style="color:blue">**Internal Collaborators:**</span>
+<!-- blank line -->
+<figure class="fourth">
   [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EAI.png" style="width: 120px">](https://ai.northeastern.edu/)
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
   [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Roux.png" style="width: 120px">](https://roux.northeastern.edu/)
