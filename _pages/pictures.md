@@ -40,7 +40,7 @@ The SDS Lab has been organizing, each summer, undergraduate study abroad program
 
 # Gallery
 {% assign number_printed = 0 %}
-{% for pic in site.data.pictures_Leiden %}
+{% for pic in site.data.pictures_Leiden reversed %}
 
 {% assign even_odd = number_printed | modulo: 4 %}
 
