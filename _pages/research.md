@@ -56,6 +56,8 @@ For a detailed list of funding grants, see the PI's CV [here](https://coe.northe
 <span style="color:blue">**SDS Lab Resilience Research Introduction:**</span>
 <iframe width="350" height="198" src="https://www.youtube.com/embed/DdHSYUOZgto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<span style="color:blue">**DOD NIOCE SERDP WORKSHOP**</span>
+<iframe width="350" height="198" src="https://www.youtube.com/watch?v=qKP0Cj2wZw4&t=3770s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Repositories:
