@@ -57,7 +57,7 @@ For a detailed list of funding grants, see the PI's CV [here](https://coe.northe
 <iframe width="350" height="198" src="https://www.youtube.com/embed/DdHSYUOZgto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <span style="color:blue">**DOD NIOCE SERDP WORKSHOP**</span>
-<iframe width="350" height="198" src="https://www.youtube.com/watch?v=irgUd8bMm6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/irgUd8bMm6w?si=QJQcFUuYXMeEOmis" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Repositories:
