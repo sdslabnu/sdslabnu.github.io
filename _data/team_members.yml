@@ -14,15 +14,15 @@
 #   education1: BS in Environmental Engineering from Cornell University.
 #   education2: 
 
-- name: Ashis Kumar Pal
-  photo: Ashis.jpg
-  info:  Interdisciplinary PhD Student, started Fall 2020.
-  email: pal.as@northeastern.edu
-  number_educ: 1
-  education1: Bsc. in Industrial and Production Engineering from <a href="https://www.buet.ac.bd/web/">BUET</a>.
-  education2: 
-  education3:
-  education4:
+# - name: Ashis Kumar Pal
+#   photo: Ashis.jpg
+#   info:  Interdisciplinary PhD Student, started Fall 2020.
+#   email: pal.as@northeastern.edu
+#   number_educ: 1
+#   education1: Bsc. in Industrial and Production Engineering from <a href="https://www.buet.ac.bd/web/">BUET</a>.
+#   education2: 
+#   education3:
+#   education4:
 
 # - name: Bharat Sharma
 #   photo: Bharat.png
