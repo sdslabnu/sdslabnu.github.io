@@ -139,4 +139,6 @@ The PI of SDS lab is **Dr. Auroop Ganguly** (Distinguished College of Engineerin
   [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EAI.png" style="width: 120px">](https://ai.northeastern.edu/)
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
   [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Roux.png" style="width: 120px">](https://roux.northeastern.edu/)
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/AI4CaS logo.png" style="width: 120px">](https://ai.northeastern.edu/news/our-new-practice-ai-for-climate-and-sustainability)
 </figure>
