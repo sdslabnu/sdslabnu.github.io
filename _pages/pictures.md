@@ -18,7 +18,7 @@ The SDS Lab has been organizing, each summer, undergraduate study abroad program
 
 | <b><a href='https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtoyHAy-VRIo&data=04%7C01%7Cpal.as%40northeastern.edu%7Ccef7298f532f4006b38608d94ac9640b%7Ca8eec281aaa34daeac9b9a398b9215e7%7C0%7C0%7C637623051100110845%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=lZklHR4qgLk5B%2BIQhiyem7gN%2FaQpRZu57mi43MN97TU%3D&reserved=0'>2021: Climate Action Panel</a></b><img src='/images/respic/Screen Shot 2021-07-19 at 11.56.42 PM.png' class='img-responsive' style='max-width: 250px' /> | <b><a href='https://coe.northeastern.edu/news/a-perfect-storm-hit-an-imperfect-climate-dialogue/'>2022: Tanzania</a></b><img src='/images/respic/2022_.jpg' class='img-responsive' style='max-width: 250px' /> | <b><a href='https://coe.northeastern.edu/news/a-climate-dialogue-to-remember-south-asia-and-the-2023-monsoons/'>2023: Nepal and India</a></b><img src='/images/respic/2023_.jpg' class='img-responsive' style='max-width: 250px' /> |
 
-| <b><a href='https://honorsprogram.sites.northeastern.edu/global/dialogue-of-civilizations/'>2024: Thailand and Indonesia</a></b><img src='/images/respic/DOC_Indonesia.jpeg' class='img-responsive' style='max-width: 250px' /> |
+| <b><a href='https://ai.northeastern.edu/news/dialogue-of-civilizations-auroop-ganguly-on-climate-challenges-in-thailand-and-indonesia'>2024: Thailand and Indonesia</a></b><img src='/images/respic/DOC_Indonesia.jpeg' class='img-responsive' style='max-width: 250px' /> |
 
 <hr>
  
