@@ -28,15 +28,15 @@
   education3:
   education4:
   
-- name: Rishi Dipak Sahastrabuddhe
-  photo: Rishi.jpeg
-  info: Postdoc, started from Fall 2022.
-  email: r.sahastrabuddhe@northeastern.edu
-  number_educ: 2
-  education1: M.Tech & Ph.D. in Civil Engineering from Indian Institute of Technology Bombay, India.
-  education2: B.Tech in Civil Engineering from National Institute of Technology Surat, India.
-  education3: 
-  education4:
+# - name: Rishi Dipak Sahastrabuddhe
+#   photo: Rishi.jpeg
+#   info: Postdoc, started from Fall 2022.
+#   email: r.sahastrabuddhe@northeastern.edu
+#   number_educ: 2
+#   education1: M.Tech & Ph.D. in Civil Engineering from Indian Institute of Technology Bombay, India.
+#   education2: B.Tech in Civil Engineering from National Institute of Technology Surat, India.
+#   education3: 
+#   education4:
 
 - name: Rachindra Mawalagedara
   photo: rachindra.jpeg
