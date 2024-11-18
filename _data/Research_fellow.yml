@@ -1,0 +1,41 @@
+- name: Valeria Zingaretti
+  photo: Puja.jpeg
+  info: PhD Candidate (Interdisciplinary Engineering), started Fall 2020.
+  email: zingaretti.v@northeastern.edu
+  number_educ: 2
+  education1: BSc. in Water Resources Engineering from <a href="https://www.buet.ac.bd/web/">BUET</a>. 
+  education2: MSc. in Civil and Environmental Engineering(Data and Systems) from Northeastern University. 
+  
+# - name: Kate Duffy
+#   photo: Duffy.jpeg
+#   info: Interdisciplinary PhD Student, started Fall 2017.
+#   email: duffy.k@northeastern.edu
+#   number_educ: 1
+#   education1: BS in Environmental Engineering from Cornell University.
+#   education2: 
+
+# - name: Ashis Kumar Pal
+#   photo: Ashis.jpg
+#   info:  Interdisciplinary PhD Student, started Fall 2020.
+#   email: pal.as@northeastern.edu
+#   number_educ: 1
+#   education1: Bsc. in Industrial and Production Engineering from <a href="https://www.buet.ac.bd/web/">BUET</a>.
+#   education2: 
+#   education3:
+#   education4:
+
+# - name: Bharat Sharma
+#   photo: Bharat.png
+#   info: Interdisciplinary PhD Student, started Fall 2016.
+#   email: sharma.bha@northeastern.edu
+#   number_educ: 2
+#   education1: MSc. in Transportation Systems from <a href="https://www.tum.de/en/">Technical University of Munich</a>.
+#   education2: B.Tech. in Civil Engineering from NIT, Hamirpur.
+
+# - name: Nishant Yadav
+#   photo: Yadav.jpeg
+#   info: Interdisciplinary PhD Student, started Spring 2019.
+#   email: yadav.ni@northeastern.edu
+#   number_educ: 2
+#   education1: B.Tech. in Civil and Environmental Engineering from IIT, Guwahati.
+#   education2: MS in Intelligent Systems from <a href="https://umich.edu/">University of Michigan</a>.
