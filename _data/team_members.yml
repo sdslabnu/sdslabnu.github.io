@@ -1,10 +1,10 @@
-- name: Puja Das
-  photo: Puja.jpeg
-  info: PhD Candidate (Interdisciplinary Engineering), started Fall 2020.
-  email: das.puj@northeastern.edu
-  number_educ: 2
-  education1: BSc. in Water Resources Engineering from <a href="https://www.buet.ac.bd/web/">BUET</a>. 
-  education2: MSc. in Civil and Environmental Engineering(Data and Systems) from Northeastern University. 
+#- name: Puja Das
+#  photo: Puja.jpeg
+#  info: PhD Candidate (Interdisciplinary Engineering), started Fall 2020.
+#  email: das.puj@northeastern.edu
+#  number_educ: 2
+#  education1: BSc. in Water Resources Engineering from <a href="https://www.buet.ac.bd/web/">BUET</a>. 
+#  education2: MSc. in Civil and Environmental Engineering(Data and Systems) from Northeastern University. 
   
 # - name: Kate Duffy
 #   photo: Duffy.jpeg
