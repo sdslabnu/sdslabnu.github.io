@@ -255,7 +255,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-### Postgrad Data Scientist
+### Postgrad Data Scientist & Masters Students
 {% assign number_printed = 0 %}
 {% for member in site.data.Postgrad %}
 
