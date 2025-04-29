@@ -57,7 +57,7 @@ For a detailed list of funding grants, see the PI's CV [here](https://coe.northe
 <iframe width="350" height="198" src="https://www.youtube.com/embed/DdHSYUOZgto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <span style="color:blue">**DOD NICE SERDP WORKSHOP**</span>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/irgUd8bMm6w?si=QJQcFUuYXMeEOmis" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="350" height="198" src="https://www.youtube.com/embed/irgUd8bMm6w?si=QJQcFUuYXMeEOmis" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <span style="color:blue">**Threat Deterrence in Soft Urban Transport Targets with Network Science and Machine Learning:**</span>
 <iframe width="350" height="198" src="https://www.youtube.com/embed/8ha87dDjb8E?si=Y3Ot5NWXu2K1-YO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
