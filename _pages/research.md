@@ -62,17 +62,13 @@ For a detailed list of funding grants, see the PI's CV [here](https://coe.northe
 <span style="color:blue">**Threat Deterrence in Soft Urban Transport Targets with Network Science and Machine Learning:**</span>
 <iframe width="350" height="198" src="https://www.youtube.com/embed/8ha87dDjb8E?si=Y3Ot5NWXu2K1-YO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<span style="color:blue">
-  <strong>
-    <a href="https://zelen25.my.canva.site/" target="_blank" style="color:blue; text-decoration:underline;">
-      Marvin Zelen Memorial Symposium 2025: Forecasting the Future – How Accurate Are Our Climate Change Models?
-    </a>
-  </strong>
-</span>
+<b>
+  <a href="https://zelen25.my.canva.site/" target="_blank">
+    Marvin Zelen Memorial Symposium 2025: Forecasting the Future – How Accurate Are Our Climate Change Models?
+  </a>
+</b>
 <br>
-<a href="https://zelen25.my.canva.site/" target="_blank">
-  <img src="images/respic/Marvin_zelen_symposyum.png" alt="Marvin Zelen Memorial Symposium 2025" width="350" height="198">
-</a>
+<img src="/images/respic/Marvin_zelen_symposyum.png" class="img-responsive" style="max-width: 350px;" alt="Marvin Zelen Memorial Symposium 2025" />
 <p style="font-size: 14px; margin-top: 5px;">
   Click the title or image above to access the video. Prof. Auroop Ganguly’s talk begins at the 43:28 mark in the recorded session. Scroll to the “Schedule” section on the site to find the video on the left-hand side.
 </p>
