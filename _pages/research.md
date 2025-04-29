@@ -70,7 +70,7 @@ For a detailed list of funding grants, see the PI's CV [here](https://coe.northe
 <br>
 <img src="/images/respic/Marvin_zelen_symposyum.png" class="img-responsive" style="max-width: 350px;" alt="Marvin Zelen Memorial Symposium 2025" />
 <p style="font-size: 14px; margin-top: 5px;">
-  Click the title or image above to access the video. Prof. Auroop Ganguly’s talk begins at the 43:28 mark in the recorded session. Scroll to the “Schedule” section on the site to find the video on the left-hand side.
+  Click the title above to access the video. Prof. Auroop Ganguly’s talk begins at the 43:28 mark in the recorded session. Scroll to the “Schedule” section on the site to find the video on the left-hand side.
 </p>
 
 ## Repositories:
