@@ -43,13 +43,11 @@ The SDS Lab has been organizing, each summer, undergraduate study abroad program
 <hr>
 
 <h3>Featured Video: Dialogue of Civilizations 2025 – Chile & Argentina</h3>
+
 <div class="row">
-  <div class="col-sm-3 clearfix">
-    <iframe width="100%" height="198" src="https://www.youtube.com/embed/r7yPdy7_H3g?si=lc0yL-XypLfvEDnl" 
-            title="DOC 2025 Video" frameborder="0" 
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  </div>
+<div class="col-sm-3 clearfix">
+<iframe width="100%" height="198" src="https://www.youtube.com/embed/r7yPdy7_H3g?si=lc0yL-XypLfvEDnl" title="DOC 2025 Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 </div>
 
 <hr>
