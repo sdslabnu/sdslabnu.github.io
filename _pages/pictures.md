@@ -20,6 +20,8 @@ The SDS Lab has been organizing, each summer, undergraduate study abroad program
 
 | <b><a href='https://ai.northeastern.edu/news/dialogue-of-civilizations-auroop-ganguly-on-climate-challenges-in-thailand-and-indonesia'>2024: Thailand and Indonesia</a></b><img src='/images/respic/DOC_Indonesia.jpeg' class='img-responsive' style='max-width: 250px' /> |
 
+| <b><a href='https://coe.northeastern.edu/news/dialogue-of-the-decade-the-climate-of-chile-and-argentina-in-may-june-2025/'>2025: Chile and Argentina</a></b><img src='/images/respic/DOC25.jpg' class='img-responsive' style='max-width: 250px' /> |
+
 <hr>
  
 <!--- <a href='https://web.northeastern.edu/sds/ClimateDOC/summer_2014_India.html'>2014 program</a><br />
