@@ -26,15 +26,15 @@
   education3: 
   education4:
 
-- name: Arnob Roy
-  photo: Arnob.jpeg
-  info: Postdoc, started from April 18, 2023.
-  email: ar.ray@northeastern.edu
-  number_educ: 2
-  education1: PhD in Applied Mathematics, Indian Statistical Institute, and University of Calcutta, India.
-  education2: B.Sc. and M.Sc. in Mathematics, West Bengal State University, India
-  education3:
-  education4:
+#- name: Arnob Roy
+#  photo: Arnob.jpeg
+#  info: Postdoc, started from April 18, 2023.
+#  email: ar.ray@northeastern.edu
+#  number_educ: 2
+#  education1: PhD in Applied Mathematics, Indian Statistical Institute, and University of Calcutta, India.
+#  education2: B.Sc. and M.Sc. in Mathematics, West Bengal State University, India
+#  education3:
+#  education4:
   
 # - name: Rishi Dipak Sahastrabuddhe
 #   photo: Rishi.jpeg
@@ -76,3 +76,4 @@
 #   education2: MSc in Water Science, Policy and Management, University of Oxford.
 #   education3: BSc in Earth Systems (Oceans Track), Stanford University.
 #   education4: 
+
