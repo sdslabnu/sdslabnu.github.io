@@ -37,10 +37,20 @@
 - name: Paing Hein Soe
   photo: Paing_Hein_Soe.jpeg
   info: Master's Student and Researcher at SDS Lab
-  email: soe.p@norhteastern.edu
+  email: soe.p@northeastern.edu
   number_educ: 2
   education1: MSc in Energy Systems, Northeastern University.
-  education2: BEng in Mechanical Engineering, Yangon Technological Universit
+  education2: BEng in Mechanical Engineering, Yangon Technoloigcal University
   education3:
+
+- name: Justin Guthrie
+  photo: Justin.jpg
+  info: GIS & Tech Operations Lead at Enodia, Inc. | Research Associate at the Defense Industrial Base Institute
+  email: j.guthrie@northeastern.edu
+  number_educ: 1
+  education1: Bachelor's Alum, Khoury College of Computer Science and D'Amore-McKim School of Business, Northeastern   University
+  education2: 
+  education3:
+
 
 
