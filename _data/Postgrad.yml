@@ -52,5 +52,40 @@
   education2: 
   education3:
 
+- name: Nihar Sanda
+  photo: Nihar.jpg
+  info: Graduate Researcher at Institute of Experiential AI
+  email: sanda.n@northeastern.edu
+  number_educ: 2
+  education1: MSCS, Khoury College of Computer Science, Northeastern University.
+  education2: BTech in CSE from Indian Institute of Information Technology (IIIT) Dharwad.
+  education3:
+
+- name: Shivang Manishkumar Patel
+  photo: Shivang.JPG
+  info: Master's Student and Graduate Researcher 
+  email: patel.shivangm@northeastern.edu
+  number_educ: 1
+  education1: MSCS, Khoury College of Computer Science, Northeastern University.
+  education2: 
+  education3:
+
+- name: Teiana Cataldo
+  photo: Teiana.jpeg
+  info: Graduate Student Researcher at SDS Lab
+  email: cataldo.te@northeastern.edu
+  number_educ: 2
+  education1: MSc in Data Analytics Engineering at Northeastern University.
+  education2: BSc in Biological Sciences at California Polytechnic State University
+  education3:
+
+- name: Emily Piwowarski
+  photo: eapiwowa.JPG
+  info: Graduate Student Researcher at SDS Lab
+  email: piwowarski.em@northeastern.edu
+  number_educ: 2
+  education1: MS Civil Engineering at Northeastern University.
+  education2: BS in Chemistry and BS in Marine Chemistry from North Carolina State University
+  education3:
 
 
