@@ -1,3 +1,33 @@
+- name: Somnath Mondal
+  photo: Somnath.jpeg
+  info: Postdoc, Started from Fall, 2024.
+  email: s.mondal@northeastern.edu
+  number_educ: 3
+  education1: Ph.D. Clemson University.
+  education2: M.Tech. Indian Institute of Technology, Guwahati.
+  education3: B.E. Civil Engineering, Jadavpur University.
+  education4: 
+
+- name: Raviraj Dave
+  photo: Raviraj.jpeg
+  info: Postdoc, Started from Spring, 2025.
+  email: r.dave@northeastern.edu
+  number_educ: 3
+  education1: Ph.D. in Civil Engineering, Indian Institute of Technology Gandhinagar.
+  education2: M.Tech. in Geomatics, CEPT University.
+  education3: B.Tech. in Civil Engineering, Pandit Deendayal Petroleum University.
+  education4:
+
+- name: Elizabeth Eldhose
+  photo: Elizabeth.jpg
+  info: Postdoc, Started from Spring, 2025.
+  email: e.eldhose@northeastern.edu
+  number_educ: 2
+  education1: M. Tech + Ph.D., Water Resources Engineering, Indian Institute of Technology, Bombay.
+  education2: B. Tech in Civil Engineering, Mar Athanasius College of Engineering, Kerala.
+  education3: 
+  education4:
+
 - name: Puja Das
   photo: Puja.jpeg
   info: Postdoc, Interdisciplinary Engineering, started Fall 2020.
@@ -76,4 +106,5 @@
 #   education2: MSc in Water Science, Policy and Management, University of Oxford.
 #   education3: BSc in Earth Systems (Oceans Track), Stanford University.
 #   education4: 
+
 
