@@ -1,5 +1,5 @@
 - name: Somnath Mondal
-  photo: Somnath.jpeg
+  photo: Raviraj.jpeg
   info: Postdoc, Started from Fall, 2024.
   email: s.mondal@northeastern.edu
   number_educ: 3
@@ -9,7 +9,7 @@
   education4: 
 
 - name: Raviraj Dave
-  photo: Raviraj.jpeg
+  photo: Somnath.jpeg
   info: Postdoc, Started from Spring, 2025.
   email: r.dave@northeastern.edu
   number_educ: 3
@@ -106,5 +106,6 @@
 #   education2: MSc in Water Science, Policy and Management, University of Oxford.
 #   education3: BSc in Earth Systems (Oceans Track), Stanford University.
 #   education4: 
+
 
 
