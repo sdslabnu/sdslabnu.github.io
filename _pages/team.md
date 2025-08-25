@@ -318,9 +318,8 @@ permalink: /team/
 </div>
 {% endif %}
 
-
-### Research Fellow
 <!--
+### Research Fellow
 {% assign number_printed = 0 %}
 {% for member in site.data.Research_fellow %}
 {% assign even_odd = number_printed | modulo: 2 %}
