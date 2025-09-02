@@ -1,13 +1,12 @@
 
 <div class="well">
-<h4 id="newtitle">News</h4>
+    <h4 id="newtitle">News</h4>
 
-{% for article in site.data.news limit:8 %}
-<p id="newsdateid"> {{ article.date }} </p>
-<p>{{ article.headline }}</p>
-{% endfor %}
+    {% for article in site.data.news limit:8 %}
+    <p id="newsdateid">{{ article.date }}</p>
+    <p id="newscontent">{{ article.headline }}</p>
+    {% endfor %}
 
-<h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">See All News</a></h4>
-<!-- <h4><a href="{{ site.url }}{{ site.baseurl }}/Detailed_News">... See Older News</a></h4> -->
-
-    </div>
+    <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">See All News</a></h4>
+    <!-- <h4><a href="{{ site.url }}{{ site.baseurl }}/Detailed_News">... See Older News</a></h4> -->
+</div>
