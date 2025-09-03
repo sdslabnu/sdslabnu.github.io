@@ -118,7 +118,7 @@ The PI of SDS lab is **Dr. Auroop Ganguly** (Distinguished College of Engineerin
 <!--  **We are  looking for passionate new PhD and Postdocs students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
 
 <!-- blank line -->
-<span style="color:blue">**External Collaborators:**</span>
+<p style="color:blue; margin-top: 20px; margin-bottom:0px; font-size: 16px;">**External Collaborators:**</p>
 <!-- blank line -->
 <figure class="fourth">
   [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_01.png" style="width: 120px">](https://www.pnnl.gov/)
@@ -133,7 +133,7 @@ The PI of SDS lab is **Dr. Auroop Ganguly** (Distinguished College of Engineerin
 </figure>
 
 <!-- blank line -->
-<span style="color:blue">**SDS Lab Startups:**</span>
+<p style="color:blue; margin-top: 20px; margin-bottom:4px; font-size: 16px;">**SDS Lab Startups:**</p>
 <!-- blank line -->
 <figure class="fourth">
   [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/risq.png" style="width: 120px">](https://news.northeastern.edu/2022/01/21/startup-guage-climate-change-risk/)
@@ -146,7 +146,7 @@ The PI of SDS lab is **Dr. Auroop Ganguly** (Distinguished College of Engineerin
 </figure>
 
 <!-- blank line -->
-<span style="color:blue">**Internal Collaborators:**</span>
+<p style="color:blue; margin-top: 30px; margin-bottom:0px; font-size: 16px;">**Internal Collaborators:**</p>
 <!-- blank line -->
 <figure class="fourth">
   [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EAI.png" style="width: 100px">](https://ai.northeastern.edu/)
@@ -158,25 +158,25 @@ The PI of SDS lab is **Dr. Auroop Ganguly** (Distinguished College of Engineerin
 
 <!-- blank line -->
 <!-- blank line -->
-<span style="color:blue">**Funding Sources:**</span>
+<p style="color:blue; margin-top: 20px; margin-bottom:8px; font-size: 16px;">**Funding Sources:**</p>
 <!-- blank line -->
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/US_DHS.svg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/US_DHS.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 5px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/US_DOD.jpeg" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 5px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_02.png" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 2px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/US_DOE.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/US_DOE.jpeg" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 5px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 5px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GO_INDIA.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 5px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Indonesia_govt.jpeg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 5px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/the_nature_conservancy.svg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 5px">
+  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 5px"> -->
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GOVT_INDIA.jpeg" style="width: 100px">
+  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 5px"> -->
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/the_nature_cons.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/gulf_of_maine.png" style="width: 120px">
-  <p style="font-weight: bold"> and Private Donors </p>
+  <p style="color:blue; font-weight: bold; font-size: 16px;"> and Private Donors </p>
 </figure>
