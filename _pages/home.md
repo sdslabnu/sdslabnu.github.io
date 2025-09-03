@@ -161,22 +161,22 @@ The PI of SDS lab is **Dr. Auroop Ganguly** (Distinguished College of Engineerin
 <span style="color:blue">**Funding Sources:**</span>
 <!-- blank line -->
 <figure class="fourth">
-  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/US_DHS.svg" style="width: 120px">]()
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
-  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/US_DOD.jpeg" style="width: 120px">]()
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
-  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_02.png" style="width: 120px">]()
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
-  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/US_DOE.png" style="width: 120px">]()
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
-  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF.png" style="width: 120px">]()
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
-  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GO_INDIA.png" style="width: 120px">]()
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
-  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Indonesia_govt.jpeg" style="width: 120px">]()
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
-  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/the_nature_conservancy.svg" style="width: 120px">]()
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
-  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/gulf_of_maine.png" style="width: 120px">]()
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/US_DHS.svg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/US_DOD.jpeg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_02.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/US_DOE.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GO_INDIA.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Indonesia_govt.jpeg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/the_nature_conservancy.svg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/gulf_of_maine.png" style="width: 120px">
   <p style="font-weight: bold"> and Private Donors </p>
 </figure>
