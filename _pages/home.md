@@ -122,14 +122,14 @@ The PI of SDS lab is **Dr. Auroop Ganguly** (Distinguished College of Engineerin
 <!-- blank line -->
 <figure class="fourth">
   [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_01.png" style="width: 120px">](https://www.pnnl.gov/)
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 2px">
   [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_02.png" style="width: 120px">](https://www.nasa.gov/)
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 2px">
   [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_03.png" style="width: 120px">](https://www.ornl.gov/)
-   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
-  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ICE.png" style="width: 120px">](https://www.ice.com/fixed-income-data-services/ice-climate-data-analytics)
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
-  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/TVA.png" style="width: 120px">](https://en.wikipedia.org/wiki/Tennessee_Valley_Authority)
+   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 5px">
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ICE.png" style="width: 100px">](https://www.ice.com/fixed-income-data-services/ice-climate-data-analytics)
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 5px">
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/TVA.png" style="width: 100px">](https://en.wikipedia.org/wiki/Tennessee_Valley_Authority)
 </figure>
 
 <!-- blank line -->
@@ -149,7 +149,7 @@ The PI of SDS lab is **Dr. Auroop Ganguly** (Distinguished College of Engineerin
 <span style="color:blue">**Internal Collaborators:**</span>
 <!-- blank line -->
 <figure class="fourth">
-  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EAI.png" style="width: 120px">](https://ai.northeastern.edu/)
+  [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EAI.png" style="width: 100px">](https://ai.northeastern.edu/)
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
   [<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Roux.png" style="width: 120px">](https://roux.northeastern.edu/)
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
@@ -162,21 +162,21 @@ The PI of SDS lab is **Dr. Auroop Ganguly** (Distinguished College of Engineerin
 <!-- blank line -->
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/US_DHS.svg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/US_DOD.jpeg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 5px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/US_DOD.jpeg" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 5px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/brand_02.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 2px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/US_DOE.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 5px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 5px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GO_INDIA.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Indonesia_govt.jpeg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 5px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Indonesia_govt.jpeg" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 5px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/the_nature_conservancy.svg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 5px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/gulf_of_maine.png" style="width: 120px">
   <p style="font-weight: bold"> and Private Donors </p>
 </figure>
