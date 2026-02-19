@@ -92,3 +92,79 @@ pubtit {
     margin-right: 30px;
 }
 
+/* Dialogue page – intro paragraph (justified) */
+.dialogue-intro {
+  text-align: justify;
+}
+
+/* Dialogue page – upcoming section */
+.dialogue-upcoming {
+  margin-bottom: 32px;
+  .dialogue-upcoming-poster {
+    max-width: 420px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  .dialogue-upcoming-cta {
+    margin-bottom: 0;
+    a.btn-lg {
+      font-size: 18px;
+      padding: 12px 24px;
+    }
+  }
+}
+
+/* Dialogue page – featured video */
+.dialogue-featured-video {
+  margin-bottom: 32px;
+  .dialogue-featured-video-wrapper {
+    max-width: 640px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    iframe {
+      display: block;
+      width: 100%;
+    }
+  }
+}
+
+/* Dialogue page grid */
+.dialogue-grid-item {
+  margin-bottom: 20px;
+  a {
+    display: block;
+    margin-bottom: 6px;
+  }
+  img {
+    max-width: 100%;
+    max-height: 280px;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    margin-top: 4px;
+    margin-bottom: 0;
+  }
+}
+
+/* Fun / Gallery page grid (4 per row) */
+.fun-gallery {
+  .fun-grid-item {
+    margin-bottom: 20px;
+    img {
+      max-width: 100%;
+      width: 100%;
+      height: auto;
+      object-fit: cover;
+      border-radius: 4px;
+      box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+      margin: 0;
+    }
+  }
+}
+
