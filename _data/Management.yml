@@ -12,18 +12,29 @@
   photo: Robyn.png
   info: Technical Program Development and Operations Manager 
   email: ro.anderson@northeastern.edu
-  number_educ: 1
-  education1: Research Program Manager,Kostas Research Institute for Homeland Security (KRI).
-  education2: 
-  education3:
-  education4:
-  
-- name: Santiago Arrieta
-  photo: Santiago Arrieta.jpg
-  info: Executive Assistant, started from Fall 2023.
-  email: s.arrieta@northeastern.edu
-  number_educ: 1
-  education1: MBA, Northeastern University.
-  education2:
+  number_educ: 3
+  education1: MBA, Georgia State University
+  education2: Masters in Public Policy, George Mason university
+  education3: Masters of Strategic & Defense Studies U.S. Naval War College
+
+# Research Program Manager,Kostas Research Institute for Homeland Security (KRI)
+
+- name: Bhoomika Gupta
+  photo: Bhoomika-Gupta-EA.jpg
+  info: Executive Assistant
+  email: bh.gupta@northeastern.edu
+  number_educ: 2
+  education1: MS in Computer Science, Khoury College of Computer Science, Northeastern University
+  education2: Bachelors in Economics, University of Delhi
   education3: 
   education4:
+
+# - name: Santiago Arrieta
+#   photo: Santiago Arrieta.jpg
+#   info: Executive Assistant, started from Fall 2023.
+#   email: s.arrieta@northeastern.edu
+#   number_educ: 1
+#   education1: MBA, Northeastern University.
+#   education2:
+#   education3: 
+#   education4:

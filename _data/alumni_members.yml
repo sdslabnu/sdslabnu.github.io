@@ -1,17 +1,36 @@
+- name: Orijeet Mukherjee
+  photo: Orijeet.jpeg
+  duration: Graduate Researcher at Institute of Experiential AI - 2025
+  email: mukherjee.o@northeastern.edu
+  number_educ: 1
+  education1: Master's student, Khoury College of Computer Science, Northeastern University
+  education2: 
+  education3:
+
 - name: Arnob Roy
   photo: Arnob.jpeg
-  duration: Postdoc (2023 - 2025).
-  info: Postdoctoral Research Fellow. (<a href="https://www.linkedin.com/in/arnob-ray-63284622a/">Linkedin</a>)
+  duration: Postdoc (2023 - 2025)
+  info: Postdoctoral Research Fellow (<a href="https://www.linkedin.com/in/arnob-ray-63284622a/">Linkedin</a>)
   number_educ: 0
   education1: 
   education2: 
   education3:
   education4:
 
+- name: Santiago Arrieta
+  photo: Santiago Arrieta.jpg
+  duration: Executive Assistant (2023-2025)
+  email: s.arrieta@northeastern.edu
+  number_educ: 1
+  education1: MBA, Northeastern University
+  education2:
+  education3: 
+  education4:
+
 - name: Ashis Kumar Pal
   photo: Ashis.jpg
-  duration: PhD Student (2020 - 2024).
-  info: Data Science || Asset Management Consultant at Arcadis. (<a href="https://www.linkedin.com/in/ashis-pal-ipe/">Linkedin</a>)
+  duration: PhD Student (2020 - 2024)
+  info: Data Science || Asset Management Consultant at Arcadis (<a href="https://www.linkedin.com/in/ashis-pal-ipe/">Linkedin</a>)
   email: 
   number_educ: 0
   education1: 
@@ -21,7 +40,7 @@
   
 - name: Rishi Dipak Sahastrabuddhe
   photo: Rishi.jpeg
-  duration: Postdoc (2022 - 2024).
+  duration: Postdoc (2022 - 2024)
   info: Postdoctoral Research Fellow at University of Exeter. (<a href="https://www.linkedin.com/in/rishi-sahastrabuddhe-6485b892/">Linkedin</a>)
   email: 
   number_educ: 0

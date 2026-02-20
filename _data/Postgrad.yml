@@ -1,37 +1,28 @@
 - name:  August Posch
   photo: August Posch.jpg
-  info: Data Scientist.
+  info: Data Scientist
   email: au.posch@northeastern.edu
   number_educ: 2
-  education1: MS, Data Science, Northeastern University.
-  education2: BS, Mathematics, Bowdoin College.
+  education1: MS, Data Science, Northeastern University
+  education2: BS, Mathematics, Bowdoin College
   education3:
 
 - name: Kartik Aggarwal
   photo: Kartik.jpg
-  info: Geospatial-Temporal Data Scientist, Roux Institute.
+  info: Geospatial-Temporal Data Scientist, Roux Institute
   email: k.aggarwal@northeastern.edu
   number_educ: 2
-  education1: MS, Data Modeling/Warehousing and Database Administration, Northeastern University.
-  education2: Bachelor in Technology, Maharaja Surajmal Institute Of Technology, India. 
+  education1: MS, Data Modeling/Warehousing and Database Administration, Northeastern University
+  education2: Bachelor in Technology, Maharaja Surajmal Institute Of Technology, India 
   education3:
 
 - name: Soumyo Dey
   photo: Soumyo.JPG
-  info: Geospatial-Temporal Data Scientist, Roux Institute.
+  info: Geospatial-Temporal Data Scientist, Roux Institute
   email: s.dey@northeastern.edu
   number_educ: 2
-  education1: Masters in Data Science, Northeastern University.
-  education2: Bachelor in Technology, Maharaja Surajmal Institute Of Technology, India.
-  education3:
-  
-- name: Orijeet Mukherjee
-  photo: Orijeet.jpeg
-  info: Graduate Researcher at Institute of Experiential AI
-  email: mukherjee.o@northeastern.edu
-  number_educ: 1
-  education1: Master's student, Khoury College of Computer Science, Northeastern University.
-  education2: 
+  education1: Masters in Data Science, Northeastern University
+  education2: Bachelor in Technology, Maharaja Surajmal Institute Of Technology, India
   education3:
 
 - name: Paing Hein Soe
@@ -39,7 +30,7 @@
   info: Master's Student and Researcher at SDS Lab
   email: soe.p@northeastern.edu
   number_educ: 2
-  education1: MSc in Energy Systems, Northeastern University.
+  education1: MSc in Energy Systems, Northeastern University
   education2: BEng in Mechanical Engineering, Yangon Technoloigcal University
   education3:
 
@@ -48,7 +39,7 @@
   info: GIS & Tech Operations Lead at Enodia, Inc. | Research Associate at the Defense Industrial Base Institute
   email: j.guthrie@northeastern.edu
   number_educ: 1
-  education1: Bachelor's Alum, Khoury College of Computer Science and D'Amore-McKim School of Business, Northeastern   University
+  education1: Bachelor's in Data Science and Business, Northeastern University
   education2: 
   education3:
 
@@ -57,8 +48,17 @@
   info: Graduate Researcher at Institute of Experiential AI
   email: sanda.n@northeastern.edu
   number_educ: 2
-  education1: MSCS, Khoury College of Computer Science, Northeastern University.
-  education2: BTech in CSE from Indian Institute of Information Technology (IIIT) Dharwad.
+  education1: MSCS, Khoury College of Computer Science, Northeastern University
+  education2: BTech in CSE from Indian Institute of Information Technology (IIIT) Dharwad
+  education3:
+
+- name: Romit Basak
+  photo: Romit-Basak.jpeg
+  info: Master's Student at SDS Lab
+  email: basak.r@northeastern.edu
+  number_educ: 2
+  education1: MS in Computer Science, Northeastern University
+  education2: B.Tech in Computer Science and Engineering, Institute of Engineering and Management, Kolkata, India
   education3:
 
 - name: Shivang Manishkumar Patel
@@ -66,16 +66,33 @@
   info: Master's Student and Graduate Researcher 
   email: patel.shivangm@northeastern.edu
   number_educ: 1
-  education1: MSCS, Khoury College of Computer Science, Northeastern University.
+  education1: MSCS, Khoury College of Computer Science, Northeastern University
   education2: 
   education3:
+
+# - name: Orijeet Mukherjee
+#   photo: Orijeet.jpeg
+#   info: Graduate Researcher at Institute of Experiential AI
+#   email: mukherjee.o@northeastern.edu
+#   number_educ: 1
+#   education1: Master's student, Khoury College of Computer Science, Northeastern University
+#   education2: 
+#   education3:
+
+- name: Diane Grant
+  photo: Diane.JPG
+  info: Master's Student and Student Researcher
+  email: grant.d@northeastern.edu
+  number_educ: 2
+  education1: MS Engineering and Public Policy
+  education2: BS in Computer Science and Political Science
 
 - name: Teiana Cataldo
   photo: Teiana.jpeg
   info: Graduate Student Researcher at SDS Lab
   email: cataldo.te@northeastern.edu
   number_educ: 2
-  education1: MSc in Data Analytics Engineering at Northeastern University.
+  education1: MSc in Data Analytics Engineering at Northeastern University
   education2: BSc in Biological Sciences at California Polytechnic State University
   education3:
 
@@ -84,8 +101,6 @@
   info: Graduate Student Researcher at SDS Lab
   email: piwowarski.em@northeastern.edu
   number_educ: 2
-  education1: MS Civil Engineering at Northeastern University.
+  education1: MS Civil Engineering at Northeastern University
   education2: BS in Chemistry and BS in Marine Chemistry from North Carolina State University
   education3:
-
-

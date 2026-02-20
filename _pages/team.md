@@ -68,7 +68,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-### Management & Co-ordination
+### Management & Coordination
 {% assign number_printed = 0 %}
 {% for member in site.data.Management %}
 

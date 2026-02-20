@@ -34,10 +34,10 @@
 
 - name: Jack Watson
   photo: Jack.png
-  info: Interdisciplinary PhD Student, started Fall 2020.
+  info: Interdisciplinary PhD Student, started Fall 2020
   email: watson.jac@northeastern.edu
   number_educ: 1
-  education1: BS in Environmental Geology and Chemistry from <a href="https://www.northeastern.edu/">Northeastern University</a>.
+  education1: BS in Environmental Geology and Chemistry from <a href="https://www.northeastern.edu/">Northeastern University</a>
   education2: 
   education3:
 
@@ -51,7 +51,7 @@
   
 - name: Aayushi Mishra
   photo: Aayushi.jpeg
-  info: PhD Candidate, started Fall 2023.
+  info: PhD Candidate, started Fall 2023
   email: mishra.aay@northeastern.edu
   number_educ: 2
   education1: BA in Biology and Environmental Studies from Mount Holyoke College
@@ -62,8 +62,8 @@
   info: PhD student, starting Fall 2023
   email: ghosh.arc@northeastern.edu
   number_educ: 2
-  education1: Btech in Electrical Engineering from Future Institute of Engg. and Management.
-  education2: MS by Research from School of Medical Science and Technology, IIT Kharagpur.  
+  education1: Btech in Electrical Engineering from Future Institute of Engg. and Management
+  education2: MS by Research from School of Medical Science and Technology, IIT Kharagpur  
     
 # - name: Stone Chen
 #   photo: Stone.jpeg
@@ -75,7 +75,7 @@
 
 - name: Dian Indrawati
   photo: Dian.jpeg
-  info: Interdisciplinary PhD Candidate, started Fall 2021.
+  info: Interdisciplinary PhD Candidate, started Fall 2021
   email: indrawati.d@northeastern.edu
   number_educ: 1
   education1: BA in Civil Engineering from Bandung Institute of Technology.
@@ -83,15 +83,15 @@
   
 - name: Danish Mansoor
   photo: Danish.jpeg
-  info: Ph.D. Candidate, starting Fall 2023.
+  info: Ph.D. Candidate, starting Fall 2023
   email: mansoor.d@northeastern.edu
   number_educ: 2
-  education1: B.Tech. in Civil Engineering from IIT, Gandhinagar.
-  education2: M.Tech. in Civil Engineering from IIT, Gandhinagar.
+  education1: B.Tech. in Civil Engineering from IIT, Gandhinagar
+  education2: M.Tech. in Civil Engineering from IIT, Gandhinagar
   
 - name: Shuochen Wang
   photo: shuochen.jpg
-  info: PhD Candidate, started Fall 2023.
+  info: PhD Candidate, started Fall 2023
   email: wang.shuoc@northeastern.edu
   number_educ: 2
   education1: BS in Atmospheric Sciences from Lanzhou University
@@ -99,16 +99,16 @@
 
 - name: Diyali Goswami 
   photo: Diyali.JPG
-  info: Interdisciplinary PhD Student, started Fall 2024.
+  info: Interdisciplinary PhD Student, started Fall 2024
   email: goswami.di@northeastern.edu
   number_educ: 2
   education1: BTech in Electrical and Computer Engineering from Vellore Institute of Technology
-  education2: MSECE with a concentration in Computer Vision, Machine Learning, and Algorithms from Northeastern University.
+  education2: MSECE with a concentration in Computer Vision, Machine Learning, and Algorithms from Northeastern University
 
 - name: Valeria Zingaretti
   photo: Valeria.jpg
-  info: PhD Student, started 2021.
+  info: PhD Student, started 2021
   email: zingaretti.v@northeastern.edu
   number_educ: 2
-  education1: MSc in Forestry and the Environment from Austral University of Chile. 
-  education2: Bachelor in Geography from National University of Cuyo, Argentina.
+  education1: MSc in Forestry and the Environment from Austral University of Chile 
+  education2: Bachelor in Geography from National University of Cuyo, Argentina

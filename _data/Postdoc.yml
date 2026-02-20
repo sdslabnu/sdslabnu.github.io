@@ -1,105 +1,105 @@
 - name: Somnath Mondal
   photo: Raviraj.jpeg
-  info: Postdoc, Started from Fall, 2024.
+  info: Postdoc, Started Fall, 2024
   email: s.mondal@northeastern.edu
   number_educ: 3
-  education1: Ph.D. Clemson University.
-  education2: M.Tech. Indian Institute of Technology, Guwahati.
-  education3: B.E. Civil Engineering, Jadavpur University.
+  education1: Ph.D. Clemson University
+  education2: M.Tech. Indian Institute of Technology, Guwahati
+  education3: B.E. Civil Engineering, Jadavpur University
   education4: 
 
 - name: Raviraj Dave
   photo: Somnath.jpeg
-  info: Postdoc, Started from Spring, 2025.
+  info: Postdoc, Started Spring, 2025
   email: r.dave@northeastern.edu
   number_educ: 3
-  education1: Ph.D. in Civil Engineering, Indian Institute of Technology Gandhinagar.
-  education2: M.Tech. in Geomatics, CEPT University.
-  education3: B.Tech. in Civil Engineering, Pandit Deendayal Petroleum University.
+  education1: Ph.D. in Civil Engineering, Indian Institute of Technology Gandhinagar
+  education2: M.Tech. in Geomatics, CEPT University
+  education3: B.Tech. in Civil Engineering, Pandit Deendayal Petroleum University
   education4:
 
 - name: Elizabeth Eldhose
   photo: Elizabeth.jpg
-  info: Postdoc, Started from Spring, 2025.
+  info: Postdoc, Started Spring, 2025
   email: e.eldhose@northeastern.edu
   number_educ: 2
-  education1: M. Tech + Ph.D., Water Resources Engineering, Indian Institute of Technology, Bombay.
-  education2: B. Tech in Civil Engineering, Mar Athanasius College of Engineering, Kerala.
+  education1: M. Tech + Ph.D., Water Resources Engineering, Indian Institute of Technology, Bombay
+  education2: B. Tech in Civil Engineering, Mar Athanasius College of Engineering, Kerala
   education3: 
   education4:
 
 - name: Puja Das
   photo: Puja.jpeg
-  info: Postdoc, Interdisciplinary Engineering, started Fall 2020.
+  info: Postdoc, Interdisciplinary Engineering, started Fall 2020
   email: das.puj@northeastern.edu
   number_educ: 2
-  education1: BSc. in Water Resources Engineering from <a href="https://www.buet.ac.bd/web/">BUET</a>. 
-  education2: MSc. in Civil and Environmental Engineering(Data and Systems) from Northeastern University. 
+  education1: BSc. in Water Resources Engineering from <a href="https://www.buet.ac.bd/web/">BUET</a>
+  education2: MSc. in Civil and Environmental Engineering(Data and Systems) from Northeastern University
 
-- name: Felipe Ivan
+- name: Ivan Felipe Benedivas
   photo: Felipe.jpg
-  info: Postdoc, started from Spring 2024.
+  info: Postdoc, started Spring 2024
   email: i.benavides@northeastern.edu
   number_educ: 3
-  education1: PhD in Ecology, Austral University.
-  education2: Profesor and Researcher, National University of Colombia.
-  education3: BSc in Biology, University of Narino.
+  education1: PhD in Ecology, Austral University
+  education2: Profesor and Researcher, National University of Colombia
+  education3: BSc in Biology, University of Narino
   education4: 
 
 - name: Dongqin Zhou
   photo: Dongqin.jpg
-  info: Postdoc, starting from Fall 2024.
+  info: Postdoc, started Fall 2024
   email: d.zhou@northeastern.edu
   number_educ: 2
-  education1: Ph.D. in Civil Engineering from The Pennsylvania State University.
-  education2: B.Eng. in Traffic Engineering from Southeast University, Nanjing, Jiangsu, China.
+  education1: Ph.D. in Civil Engineering from The Pennsylvania State University
+  education2: B.Eng. in Traffic Engineering from Southeast University, Nanjing, Jiangsu, China
   education3: 
   education4:
 
 #- name: Arnob Roy
 #  photo: Arnob.jpeg
-#  info: Postdoc, started from April 18, 2023.
+#  info: Postdoc, started April 18, 2023
 #  email: ar.ray@northeastern.edu
 #  number_educ: 2
-#  education1: PhD in Applied Mathematics, Indian Statistical Institute, and University of Calcutta, India.
+#  education1: PhD in Applied Mathematics, Indian Statistical Institute, and University of Calcutta, India
 #  education2: B.Sc. and M.Sc. in Mathematics, West Bengal State University, India
 #  education3:
 #  education4:
   
 # - name: Rishi Dipak Sahastrabuddhe
 #   photo: Rishi.jpeg
-#   info: Postdoc, started from Fall 2022.
+#   info: Postdoc, started Fall 2022
 #   email: r.sahastrabuddhe@northeastern.edu
 #   number_educ: 2
-#   education1: M.Tech & Ph.D. in Civil Engineering from Indian Institute of Technology Bombay, India.
-#   education2: B.Tech in Civil Engineering from National Institute of Technology Surat, India.
+#   education1: M.Tech & Ph.D. in Civil Engineering from Indian Institute of Technology Bombay, India
+#   education2: B.Tech in Civil Engineering from National Institute of Technology Surat, India
 #   education3: 
 #   education4:
 
 - name: Rachindra Mawalagedara
   photo: rachindra.jpeg
-  info: Postdoc, started from April 2023. 
+  info: Postdoc, started April 2023
   email: s.mawalagedara@northeastern.edu
   number_educ: 2
-  education1: Ph.D. in Earth and Atmospheric Sciences, University of Nebraska-Lincoln. 
-  education2: B.Sc. (Hons) in Physics, University of Peradeniya, Sri Lanka. 
+  education1: Ph.D. in Earth and Atmospheric Sciences, University of Nebraska-Lincoln 
+  education2: B.Sc. (Hons) in Physics, University of Peradeniya, Sri Lanka
   education3:
   education4:
 
 # - name: Sebastian Ruf
 #   photo: Seb.jpeg
-#   info: Postdoc, started from July 2021.
+#   info: Postdoc, started July 2021
 #   email: s.ruf@northeastern.edu
 #   number_educ: 3
-#   education1: PhD in Electrical and Computer Engineering from Georgia Institute of Technology.
-#   education2: MS in Mechanical Engineering from University of California, Berkeley.
-#   education3: BS in Mechanical Engineering from University of California, Berkeley.
+#   education1: PhD in Electrical and Computer Engineering from Georgia Institute of Technology
+#   education2: MS in Mechanical Engineering from University of California, Berkeley
+#   education3: BS in Mechanical Engineering from University of California, Berkeley
 #   education4:
 
 
 # - name: Antonia Sohns
 #   photo: Antonia.JPG
-#   info: Postdoc, started from July 2021.
+#   info: Postdoc, started July 2021
 #   email: a.sohns@northeastern.edu
 #   number_educ: 3
 #   education1: PhD in Geography, McGill University.
