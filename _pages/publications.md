@@ -6,10 +6,13 @@ sitemap: false
 permalink: /publications/
 ---
 
-Jump to [US Patents](#us-patents) to see our Patents.
+<!-- Jump to [US Patents](#us-patents) to see our Patents. -->
 
 # Publications
 
+<div class="dialogue-intro">
+While a comprehensive view of our publications, presentations, and patents, including the latest updates, can be obtained from the <a href='https://scholar.google.com/citations?user=eNrAUJMAAAAJ&hl=en'>Google Scholar page</a> of the <a href='https://coe.northeastern.edu/people/ganguly-auroop/'>PI Ganguly</a> (as well as from his <a href='https://coe.northeastern.edu/wp-content/uploads/pdfs/coe/cv/cv-ganguly.pdf'>CV</a>) a few samples are provided below. 
+</div>
 
 <!--(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012)) !-->
 
@@ -29,7 +32,7 @@ Jump to [US Patents](#us-patents) to see our Patents.
   <a href="{{ publi.link.url }}">
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   </a>
-  <p>{{ publi.description }}</p>
+  <p class="dialogue-intro">{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>

@@ -1,10 +1,142 @@
+- title: "Risk-Resilience Feedback to Assure Critical Societal Functions"
+  image: risk-resilience.png
+  description: Increase in compound natural and man-made extreme events, and growing interconnectedness of critical societal functions emphasize further understanding of interactions between elements of risk and resilience. While conceptual frameworks have mapped quantified risks to the failure of critical societal functions, feedback from failure and recovery pathways to management of risk has not been systematically considered yet. In this brief perspective, we revisit the risk-resilience feedback paradigm in the context of connected critical societal functions and discuss its role in advancing science-informed disaster policy development. Specifically, we focus on connecting robustness and recovery elements of resilience to the management of risk elements, including threat, vulnerability, and consequence. Furthermore, we briefly describe a notional networked supply chain system example to illustrate how robustness and recovery measures can inform elements of risk. Understanding interactions between elements of risk and resilience is not a fully solved problem. Extending these concepts in the context of connected natural-built-human systems subject to compound and cascading risks is an open challenge. This discussion represents steps toward addressing these challenges.
+  authors: Samrat Chatterjee, Auroop Ganguly, Dennis Thomas, Lauren Wind
+  link:
+    url: https://doi.org/10.1111/risa.70197
+    display:  Risk Analysis, 2026 
+  highlight: 1
+  news2:
+
+- title: "Physical climate risk creates challenges and opportunities in US municipal finance"
+  image: Proposed-infrastructure-finance-authority.png
+  description: "The US $4.2 trillion US municipal debt market finances over 70% of essential infrastructure, but escalating physical climate risks, such as flooding and wildfires, are exposing the market’s emerging vulnerabilities. Rising disaster costs and insurance retreat threaten property values, and hence municipal tax bases that secure debt repayment. Despite these signals, municipal bond prices have been slow to reflect climate risk adequately. Well-resourced municipalities may use bonds for adaptation, but those facing constrained credit access may struggle to access capital. This US-focused Review identifies three challenges: (1) climate risk is underpriced in municipal bonds; (2) abrupt repricing could affect high-risk and under-resourced cities most by increasing borrowing costs and limiting capital access; (3) misalignment between adaptation planning and municipal finance weakens long-term resilience and affects creditworthiness. Together, these challenges contribute to a climate-debt doom loop that can be triggered by climate shocks. This synthesis offers actionable strategies for cities’ adaptation plans and governance frameworks to disrupt this loop and strengthen municipalities’ financial resilience."
+  authors: Aayushi Mishra, Advait Arun, Evan Kodra, Erika Smull, Owen Woolcock, Tom Doe, Justin Marlowe, Auroop R. Ganguly 
+  link:
+    url: https://rdcu.be/e5cqz
+    display:  Nature Cities, 2026  
+  highlight: 1
+  news2:  
+
+- title: "Hierarchical analysis of spreading dynamics in complex systems"
+  image: Hierarchical-representation-of-multiscale-modeling-framework.jpg
+  description: "Modeling spreading dynamics on spatial networks is crucial to addressing challenges related to traffic congestion, epidemic outbreaks, efficient information dissemination, and technology adoption. Existing approaches include domain-specific agent-based simulations, which offer detailed dynamics but often involve extensive parameterization, and simplified differential equation models, which provide analytical tractability but may abstract away spatial heterogeneity in propagation patterns. As a step toward addressing this trade-off, this work presents a hierarchical multiscale framework that approximates spreading dynamics across different spatial scales under certain simplifying assumptions. Applied to the Susceptible-Infected-Recovered (SIR) model, the approach ensures consistency in dynamics across scales through multiscale regularization, linking parameters at finer scales to those obtained at coarser scales. This approach constrains the parameter search space, and enables faster convergence of the model fitting process compared to the non-regularized model. Using hierarchical modeling, the spatial dependencies critical for understanding system-level behavior are captured while mitigating the computational challenges posed by parameter proliferation at finer scales. Considering traffic congestion and COVID-19 spread as case studies, the calibrated fine-scale model is employed to analyze the effects of perturbations and to identify critical regions and connections that disproportionately influence system dynamics. This facilitates targeted intervention strategies and provides a tool for studying and managing spreading processes in spatially distributed sociotechnical systems."
+  authors: Aparimit Kasliwal, Abdullah Alhadlaq, Ariel Salgado, Auroop R. Ganguly, Marta C. González
+  link:
+    url: https://onlinelibrary.wiley.com/doi/10.1111/mice.70165
+    display:  Computer-Aided Civil and Infrastructure Engineering, 2025 
+  highlight: 1
+  news2:
+
+- title: "Network science disentangles internal climate variability in global spatial dependence structures"
+  image: properties-of-climate-networks-generated-from-the-future-projections.png
+  description: "A comprehensive characterization of internal climate variability (ICV) in initial-condition (IC) large ensembles of Earth system models (ESMs) remains a significant challenge in climate science. In this study, we leverage the spatial connectivity structures of temperature networks to characterize ICV, observing substantial differences across ensemble members, particularly in the prevalence of long-range connections. Based on this feature, we introduce the ‘Connectivity Ratio’ (CR), a new quantifier that captures long-range spatial connectivity within climate networks. CR is applied to two ESMs, EC-Earth3 and MPI-ESM1-2-LR, to evaluate structural variability across IC ensemble members, models, and climate time horizons. CR reveals systematic differences in long-range connectivity between forced and unforced simulations, as well as across future climate periods. As such, CR provides an interpretable measure for capturing ICV across ensemble members and models. It has the potential to support the quantification of irreducible uncertainty and contributes to a robust evaluation of climate models."
+  authors: Arnob Ray, Abhirup Banerjee, Rachindra Mawalagedara & Auroop R. GangulyArnob Ray, Abhirup Banerjee, Rachindra Mawalagedara, Auroop R. Ganguly
+  link:
+    url: https://rdcu.be/e5cur
+    display:  npj Complexity, 2025  
+  highlight: 1
+  news2:  
+
+- title: "Warming demands extensive tropical but minimal temperate management in plant-pollinator networks"
+  image: Comparison-management-strategy-species-evenness.png
+  description: "Mitigating the deleterious effects of warming is critical to ensure the persistence of plant-pollinator systems. Previous research relying on single-species frameworks has highlighted the conservation implications of universal increases in extinction risk due to warming, yet effective management approaches that incorporate the role of complex species interaction networks remain poorly understood. Here, we integrate monthly temperature projections with region-specific thermal-performance parameters to simulate population dynamics in 11 plant-pollinator networks across tropical, temperate, and Mediterranean ecosystems. Our results show that tropical networks that are near their thermal limits face pronounced pollinator declines (~50%) but that multi-species management targeting keystone plants offsets these effects by boosting both pollinator abundance and evenness. In contrast, temperate networks remain below critical temperature thresholds, with minimal pollinator declines (~5%) and marginal gains from management. These findings highlight the importance of considering the environmental and ecological contexts when attempting to manage ecosystems under climate change."
+  authors: Adrija Datta, Sarth Dubey, Tarik C. Gouhier, Auroop R. Ganguly, Udit Bhatia
+  link:
+    url: https://doi.org/10.1038/s43247-025-02924-8
+    display:  Communications Earth and Environment, 2025
+  highlight: 1
+  news2:    
+
+- title: "Non-linear dynamical approaches for characterizing multi-sector climate impacts under irreducible uncertainty"
+  image: Climate-insights--flexible-adaptation-measures.png
+  description: "Internal climate variability (ICV) remains a major source of uncertainty in climate projections, complicating impact assessments across critical sectors, especially at stakeholder-relevant scales. Given that ICV emerges from the nonlinear interactions of the climate system, we argue that nonlinear dynamical (NLD) approaches can improve its characterization, providing physically interpretable insights that strengthen adaptation strategies and support multisector decision-making. However, despite their suitability for such problems, NLD approaches remain largely underutilized in the analysis of initial condition large ensembles (LEs). We argue that a diverse suite of NLD approaches offers a promising pathway for systematically extracting robust insights from LEs. If effectively applied and systematically integrated, these methods could fully harness the potential of LEs, uncovering underlying patterns and variability across ensemble members to refine fundamental insights from climate projections. This will help bridge the gap between complex climate dynamics and practical resilience strategies, ensuring that decision-makers, resource managers, and infrastructure planners have a more reliable foundation for navigating irreducible uncertainty."
+  authors: Rachindra Mawalagedara, Arnob Ray, Puja Das, Jack Watson, Ashis Kumar Pal, Kate Duffy, Udit Bhatia, Daniel P. Aldrich, Auroop R. Ganguly
+  link:
+    url: https://doi.org/10.1038/s41612-025-01208-4
+    display:  npj Climate and Atmospheric Science, 2025
+  highlight: 1
+  news2:
+
+- title: "Robust causality and false attribution in data-driven earth science discoveries"
+  image: CAST-applied-BCT-ONI-X-Climate-system.png
+  description: "Causal and attribution studies are essential for earth scientific discoveries and critical for informing climate, ecology, and water policies. However, the current generation of methods needs to keep pace with the complexity of scientific, data availability, and stakeholder challenges, combined with the adequacy of data-driven methods. Unless carefully informed by physics, they run the risk of conflating correlation with causation or getting overwhelmed by estimation inaccuracies. In particular, information-theoretic approaches such as transfer entropy (TE), despite their recent popularity and widespread use, can yield spurious causal links, even when statistical significance testing is applied. To address this, we introduce CAST (Causal Analysis Spuriousness Test), a subsample-based ensemble framework that quantifies the robustness of inferred links via the CAST index. Through extensive simulations across systems with varying dynamics as well as applications to real-world climate datasets, we demonstrate that CAST effectively filters unreliable connections while preserving true causal relationships. Our findings underscore the need for consistency-based evaluation in causal discovery and provide a generalizable strategy to enhance the reliability of TE-based and other data-driven causal methods in Earth sciences."
+  authors: Elizabeth Eldhose, Auroop R. Ganguly, Snigdhansu Chatterjee, Tejasvi Chauhan, Vikram Chandel6, Subimal Ghosh
+  link:
+    url: https://doi.org/10.1103/q7f4-fcf8
+    display:  Physical Review E, 2025
+  highlight: 1
+  news2:
+
+- title: "Finer resolutions and targeted process representations in earth system models improve hydrologic projections and hydroclimate impacts"
+  image: end-century-water-risk.png
+  description: "Earth system models inform water policy and interventions, but knowledge gaps in hydrologic representations limit the credibility of projections and impacts assessments. The literature does not provide conclusive evidence that incorporating higher resolutions, comprehensive process models, and latest parameterization schemes, will result in improvements. We compare hydroclimate representations and runoff projections across two generations of Coupled Modeling Intercomparison Project (CMIP) models, specifically, CMIP5 and CMIP6, with gridded runoff from Global Runoff Reconstruction (GRUN) and ECMWF Reanalysis V5 (ERA5) as benchmarks. Our results show that systematic embedding of the best available process models and parameterizations, together with finer resolutions, improve runoff projections with uncertainty characterizations in 30 of the largest rivers worldwide in a mechanistically explainable manner. The more skillful CMIP6 models suggest that, following the mid-range SSP370 emissions scenario, 40% of the rivers will exhibit decreased runoff by 2100, impacting 850 million people."
+  authors: Puja Das, Auroop R. Ganguly
+  link:
+    url: https://doi.org/10.1038/s41612-025-01134-5
+    display:  npj Climate and Atmospheric Science, 2024
+  highlight: 1
+  news2:
+
+- title: "A tri-level optimization model for interdependent infrastructure network resilience against compound hazard events"
+  image: 
+  description: "Resilient operation of interdependent infrastructures against compound hazard events is essential for maintaining societal well-being. To address consequence assessment challenges in this problem space, we propose a novel tri-level optimization model applied to a proof-of-concept case study with fuel distribution and transportation networks – encompassing one realistic network; one fictitious, yet realistic network; as well as networks drawn from three synthetic distributions. Mathematically, our approach takes the form of a defender-attacker-defender (DAD) model—a multi-agent tri-level optimization, comprised of a defender, attacker, and an operator acting in sequence. Here, our notional operator may choose proxy actions to operate an interdependent system comprised of fuel terminals and gas stations (functioning as supplies) and a transportation network with traffic flow (functioning as demand) to minimize unmet demand at gas stations. A notional attacker aims to hypothetically disrupt normal operations by reducing supply at the supply terminals, and the notional defender aims to identify best proxy defense policy options which include hardening supply terminals or allowing alternative distribution methods such as trucking reserve supplies. We solve our DAD formulation at a metropolitan scale and present practical defense policy insights against hypothetical compound hazards. We demonstrate the generalizability of our framework by presenting results for a realistic network; a fictitious, yet realistic network; as well as for three networks drawn from synthetic distributions. We also analyze the sensitivity of outputs on budget constraints through a detailed case study. Additionally, we demonstrate the scalability of the framework by investigating runtime performance as a function of the network size. Steps for future research are also discussed."
+  authors: Matthew R. Oster, Ilya Amburg, Samrat Chatterjee, Daniel A. Eisenberg, Dennis G. Thomas, Feng Pan, Auroop R. Ganguly
+  link:
+    url: https://doi.org/10.1016/j.ijcip.2024.100723
+    display:  International Journal of Critical Infrastructure Protection, 2024
+  highlight: 1
+  news2:
+
+- title: "Hybrid physics-AI outperforms numerical weather prediction for extreme precipitation nowcasting"
+  image: MultiSource-Precip-Analytics.png
+  description: "Precipitation nowcasting, which is critical for flood emergency and river management, has remained challenging for decades, although recent developments in deep generative modeling (DGM) suggest the possibility of improvements. River management centers, such as the Tennessee Valley Authority, have been using Numerical Weather Prediction (NWP) models for nowcasting, but they have been struggling with missed detections even from best-in-class NWP models. While decades of prior research achieved limited improvements beyond advection and localized evolution, recent attempts have shown progress from so-called physics-free machine learning (ML) methods, and even greater improvements from physics-embedded ML approaches. Developers of DGM for nowcasting have compared their approaches with optical flow (a variant of advection) and meteorologists’ judgment, but not with NWP models. Further, they have not conducted independent co-evaluations with water resources and river managers. Here we show that the state-of-the-art physics-embedded deep generative model, specifically NowcastNet, outperforms the High Resolution Rapid Refresh (HRRR) model, which is the latest generation of NWP, along with advection and persistence, especially for heavy precipitation events. Thus, for grid-cell extremes over 16 mm/h, NowcastNet demonstrated a median critical success index (CSI) of 0.30, compared with median CSI of 0.04 for HRRR. However, despite hydrologically-relevant improvements in point-by-point forecasts from NowcastNet, caveats include overestimation of spatially aggregate precipitation over longer lead times. Our co-evaluation with ML developers, hydrologists and river managers suggest the possibility of improved flood emergency response and hydropower management."
+  authors: Puja Das, August Posch, Nathan Barber, Michael Hicks, Kate Duffy, Thomas Vandal, Debjani Singh, Katie van Werkhoven, Auroop R. Ganguly
+  link:
+    url: https://doi.org/10.1038/s41612-024-00834-8
+    display:  npj Climate and Atmospheric Science, 2024
+  highlight: 1
+  news2:
+
+- title: "State-of-the-art bias correction of climate models misrepresent climate science and misinform adaptation"
+  image: BCSD-GCM-RandomField-Comparison.png
+  description: "Quantile mapping based bias correction and spatial disaggregation (BCSD) have emerged as the de facto standard for rectifying bias and scale-mismatch in global climate models (GCMs) leading to novel climate science insights and new information for impacts and adaptation. Focusing on critical variables crucial for understanding climate dynamics in India and the United States, our evaluation challenges the premise of BCSD approach. We find that BCSD overcorrects GCM simulations to observed patterns while minimizing or even nullifying science-informed projections generated by GCMs. Furthermore, we show that BCSD incorrectly captures extremes and complex climate signals. Our evaluation in the context of the Walker circulation suggests that this inability to adequately capture multivariate and spatial-temporal dependence patterns may at least partially explain the challenges with BCSD."
+  authors: Vikram Singh Chandel, Udit Bhatia, Auroop R Ganguly, Subimal Ghosh
+  link:
+    url: https://iopscience.iop.org/article/10.1088/1748-9326/ad6d82/meta
+    display:  Environmental Research Letters, 2024
+  highlight: 1
+  news2:
+
+- title: "Dimension reduction approach for understanding resource-flow resilience to climate change"
+  image: sf-area-fuel-transportation-network-under-different-sea-level-rise.png
+  description: "Networked dynamics are essential for assessing the resilience of lifeline infrastructures. The dimension-reduction approach was designed as an efficient way to map the high-dimensional dynamics to a low-dimensional representation capturing system-level behavior while taking into consideration network structure. However, its application to socio-technical systems has not been considered yet. Here, we extend the dimension-reduction approach to resource-flow dynamics in multiplex networks. We apply it to the San Francisco fuel transportation network, considering the flow between refineries, terminals and gas stations. We capture the aggregated dynamics between the facilities of each type and identify macroscopic conditions for the system to supply a given demand of fuel. By considering multiple sea level rise scenarios between 2020 and 2100, we address the impact of coastal flooding due to climate change on the maximum suppliable demand. Finally, we analyze the system’s transient response to production failures, investigating the temporary interruption in production and the duration it takes for complete demand satisfaction to become unachievable after the interruption."
+  authors: Ariel Salgado, Yiyi He, John Radke, Auroop Ratan Ganguly, Marta C. Gonzalez
+  link:
+    url: https://doi.org/10.1038/s42005-024-01664-z
+    display:  Communications Physics, 2024
+  highlight: 1
+  news2:
+
+- title: "Equitable infrastructure: Achieving resilient systems and restorative justice through policy and research innovation"
+  image: SEED-certification-scheme.jpg
+  description: "Recent major investments in infrastructure in the United States and globally present a crucial opportunity to embed equity within the heart of resilient infrastructure decision-making. Yet there is a notable absence of frameworks within the engineering and scientific fields for integrating equity into planning, design, and maintenance of infrastructure. Additionally, whole-of-government approaches to infrastructure, including the Justice40 Initiative, mimic elements of process management that support exploitative rather than exploratory innovation. These and other policies risk creating innovation traps that limit analytical and engineering advances necessary to prioritize equity in decision-making, identification and disruption of mechanisms that cause or contribute to inequities, and remediation of historic harms. Here, we propose a three-tiered framework toward equitable and resilient infrastructure through restorative justice, incremental policy innovation, and exploratory research innovation. This framework aims to ensure equitable access and benefits of infrastructure, minimize risk disparities, and embrace restorative justice to repair historical and systemic inequities. We outline incremental policy innovation and exploratory research action items to address and mitigate risk disparities, emphasizing the need for community-engaged research and the development of equity metrics. Among other action items, we recommend a certification system—referred to as Social, Environmental, and Economic Development (SEED)—to train infrastructure engineers and planners and ensure attentiveness to gaps that exist within and dynamically interact across each tier of the proposed framework. Through the framework and proposed actions, we advocate for a transformative vision for equitable infrastructure that emphasizes the interconnectedness of social, environmental, and technical dimensions in infrastructure planning, design, and maintenance."
+  authors: Jason P Giovannettone , Gregg P Macey , Amir AghaKouchak , Michele Barbato , William J Capehart , Auroop R Ganguly , Mital Hall , Jennifer F Helgeson , Si Han Li , Teng Wu , Guirong Yan , Farshid Vahedifard
+  link:
+    url: https://academic.oup.com/pnasnexus/article/3/5/pgae157/7645781
+    display:  PNAS Nexus, 2024
+  highlight: 1
+  news2: 
+
+# Older articles
 - title: "Using deep transfer learning and satellite imagery to estimate urban air quality in data-poor regions"
   image: using deep transfer leaning and satellite.jpg
   description: Urban air pollution is a critical public health challenge in low-and-middle-income countries (LMICs). At the same time, LMICs tend to be data-poor, lacking adequate infrastructure to monitor air quality (AQ). As LMICs undergo rapid urbanization, the socio-economic burden of poor AQ will be immense. Here we present a globally scalable two-step deep learning (DL) based approach for AQ estimation in LMIC cities that mitigates the need for extensive AQ infrastructure on the ground. We train a DL model that can map satellite imagery to AQ in high-income countries (HICs) with sufficient ground data, and then adapt the model to learn meaningful AQ estimates in LMIC cities using transfer learning. The trained model can explain up to 54% of the variation in the AQ distribution of the target LMIC city without the need for target labels. The approach is demonstrated for Accra in Ghana, Africa, with AQ patterns learned and adapted from two HIC cities, specifically Los Angeles and New York.
   authors: Nishant Yadav, Meytar Sorek-Hamer, Michael Von Pohle, Ata Akbari Asanjan, Adwait Sahasrabhojanee, Esra Suel, Raphael E Arku, Violet Lingenfelter, Michael Brauer, Majid Ezzati, Nikunj Oza, Auroop R. Ganguly 
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S0269749123019164?via%3Dihub
-    display:  2024 Feb 1
+    # url: https://www.sciencedirect.com/science/article/pii/S0269749123019164?via%3Dihub
+    url: https://doi.org/10.1016/j.envpol.2023.122914
+    display:  ScienceDirect, 2023
   highlight: 1
   news2:
 
@@ -14,8 +146,8 @@
   authors: Yumin Liu, Kate Duffy, Jennifer G. Dy & Auroop R. Ganguly 
   link:
     url: https://www.nature.com/articles/s41467-023-35968-5
-    display:  El Niño
-  highlight: 1
+    display:  
+  highlight: Nature, 2015
   news2:
 
 - title: "Network-based restoration strategies maximize ecosystem recovery"
@@ -24,7 +156,7 @@
   authors: Udit Bhatia, Sarth Dubey, Tarik C. Gouhier & Auroop R. Ganguly 
   link:
     url: https://www.nature.com/articles/s42003-023-05622-3
-    display:  Network
+    display:  Nature, 2023
   highlight: 1
   news2:
 
@@ -34,7 +166,7 @@
   authors: Daiwei Wang, Tarik C. Gouhier, Bruce A. Menge & Auroop R. Ganguly
   link:
     url: https://doi.org/10.1038/nature14235
-    display:  Nature
+    display:  Nature, 2015
   highlight: 1
   news2:
   
@@ -44,7 +176,7 @@
   authors: Thomas Vandal, Evan Kodra, Sangram Ganguly, Andrew Michaelis, Ramakrishna Nemani, Auroop R Ganguly
   link:
     url: https://doi.org/10.1145/3097983.3098004
-    display:  ACM KDD 2017 Runner-up Best Paper Award Winner
+    display:  ACM, 2017
   highlight: 1
   news2:
 
@@ -55,7 +187,7 @@
   authors: Subimal Ghosh, Debasish Das, Shih-Chieh Kao , Auroop R. Ganguly
   link:
     url: https://doi.org/10.1038/nclimate1327
-    display:  Nature Climate Change
+    display:  Nature Climate Change, 2011
   highlight: 1
 
 - title: "Resilience of Urban Transport Network-of-Networks under Intense Flood Hazards Exacerbated by Targeted Attacks"
@@ -64,7 +196,7 @@
   authors: Nishant Yadav, Samrat Chatterjee , Auroop R. Ganguly
   link:
     url: https://doi.org/10.1038/s41598-020-66049-y
-    display: Scientific Reports
+    display: Nature Climate Change, 2011
   highlight: 1
   news2: 
 
@@ -74,12 +206,5 @@
   authors: Venkata Shashank Konduri,Jitendra Kumar, William W. Hargrove, Forrest M. Hoffman, Auroop R.Ganguly
   link:
     url: https://doi.org/10.1016/j.rse.2020.112048
-    display:  Remote Sensing of Environment
+    display:  ScienceDirect, 2019
   highlight: 1
-  news2:
-
-
-
-
-
-
