@@ -7,7 +7,7 @@ permalink: /research/
 ---
 
 ## Research
-The SDS Lab research themes are described in the [Home Page]({{ site.url }}{{ site.baseurl }}/) while selected publications are highlighted in the [Publications]({{ site.url }}{{ site.baseurl }}/publications) page. Here we provide a list of our selected funding, including organizations funding our experiential PhD students, as well as a few presentations and posters which may provide a summary of our research. Furthermore, we provide links to shared codes and data repositories developed by current and former SDS Lab members.
+The SDS Lab research themes are described in the [Home Page]({{ site.url }}{{ site.baseurl }}/) while selected publications are highlighted in the [Publications]({{ site.url }}{{ site.baseurl }}/publications) page. Here we list selected funding, including organizations supporting our experiential graduate students, along with presentations and posters that summarize our research. Furthermore, we provide links to shared codes and data repositories developed by current and former SDS Lab members. The <a href='https://scholar.google.com/citations?hl=en&user=eNrAUJMAAAAJ&view_op=list_works'>PI's Google Scholar</a> profile, as well as his <a href=''>NU COE</a>, <a href='https://www.linkedin.com/in/auroop-ganguly-ab7ba34/'>LinkedIn</a>, and <a href='https://en.wikipedia.org/wiki/Auroop_Ratan_Ganguly'>Wikipedia</a> pages, provide other details.
 
 
 ## Funding
