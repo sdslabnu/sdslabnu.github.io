@@ -8,6 +8,10 @@ permalink: /teaching/
 
 # Courses
 
+<div class="dialogue-intro">
+The PI Ganguly has taught several on-campus and study-abroad courses at Northeastern University, most of which he designed from scratch. CIVE 3464 was an existing undergraduate (UG) course. He designed all the other courses himself. The on-campus courses, CIVE 7100 and CIVE 7110, are designed for graduate (Grad) students, although UG students have occasionally enrolled via petition. The on-campus CIVE 5363 course is open to both UG and Grad students. His Dialogue of Civilization (DOC or Dialogue) study-abroad program on Climate Science and Policy Abroad includes CIVE 4777 and CIVE 4778, which have also been taught as Honors courses. Each of these courses is offered for 4 credits. 
+</div>
+
 ### CIVE 3464 (UG): Probability and Engineering Economy for Civil Engineering
 
 <div class="dialogue-intro">
