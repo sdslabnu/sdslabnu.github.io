@@ -1,6 +1,16 @@
+- name: Puja Das
+  photo: Puja.jpeg
+  info: Postdoc, Interdisciplinary Engineering, started Fall 2020
+  duration: Ph.D. Candidate, Northeastern University
+  email: das.puj@northeastern.edu
+  number_educ: 2
+  education1: MSc. in Civil and Environmental Engineering(Data and Systems) from Northeastern University 
+  education2: BSc. in Water Resources Engineering from <a href="https://www.buet.ac.bd/web/">BUET</a>
+
 - name: Orijeet Mukherjee
   photo: Orijeet.jpeg
-  duration: Graduate Researcher at Institute of Experiential AI - 2025
+  info: <a href="https://www.linkedin.com/in/orijeet-mukherjee/">Linkedin</a>
+  duration: Graduate Researcher at Institute of Experiential AI 2024 - 2025
   email: mukherjee.o@northeastern.edu
   number_educ: 1
   education1: Master's student, Khoury College of Computer Science, Northeastern University

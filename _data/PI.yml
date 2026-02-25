@@ -1,10 +1,42 @@
 - name: <a href="https://coe.northeastern.edu/people/ganguly-auroop/">Auroop R. Ganguly, PhD</a>
   photo: ganguly.jpeg
-  info: College of Engineering Distinguished Professor,  Civil and Environmental Engineering
-  email: a.ganguly@northeastern.edu
+  info: College of Engineering Distinguished Professor, Civil and Environmental Engineering
+  email: <a href="mailto:a.ganguly@northeastern.edu">a.ganguly@northeastern.edu</a>
+
+  affiliations:
+    - name: Northeastern University, Boston, MA
+      positions:
+        - title: "Distinguished Professor, <a href='https://coe.northeastern.edu/people/ganguly-auroop/'>Civil and Environmental Engineering</a>"
+        - title: "Director, <a href='https://sdslab.io/team/'>Sustainability & Data Sciences Laboratory (SDS Lab)</a>"
+        - title: "Director, <a href='https://ai.northeastern.edu/ai-climate'>AI for Climate and Sustainability (AI4CaS)</a> at the <a href='https://ai.northeastern.edu/our-people/auroop-ganguly'>Institute for Experiential AI</a>"
+        - title: "Former Director, NU <a href='https://coe.northeastern.edu/news/ganguly-will-serve-as-co-director-of-global-resilience-institute/'>Global Resilience Institute</a>"
+        - title: "Professor (by courtesy), <a href='https://www.khoury.northeastern.edu/people/auroop-r-ganguly/'>Khoury College of Computer Sciences</a>"
+        - title: "Professor (by courtesy), <a href='https://cssh.northeastern.edu/faculty/auroop-r-ganguly/'>Public Policy and Urban Affairs</a>"
+
+    - name: "US DOE's Pacific Northwest National Laboratory, Richland, WA"
+      positions:
+        - title: "Chief Scientist and Joint Appointee, <a href='https://www.pnnl.gov/people/auroop-ganguly'>Advanced Computing, Mathematics, and Data Division</a>"
+
+    - name: "Private Sector Startups"
+      positions:
+        - title: "Co-Founder & Chief Scientific Adviser, <strong>risQ</strong> (now ICE Climate)"
+          bullets:
+            - "Acquired: Please see <a href='https://news.northeastern.edu/2022/01/21/startup-guage-climate-change-risk/'>here</a>, <a href='https://www.wsj.com/finance/investing/high-tech-weathermen-forecast-climate-risks-for-bond-markets-11657461236'>there</a>, and <a href='https://www.ice.com/fixed-income-data-services/ice-climate'>yonder!</a>"
+            - "Led by former PhD student Dr. Evan Kodra"
+        - title: "Adviser, <a href='https://myzeus.ai/'>Zeus AI</a>"
+          bullets:
+            - "Led by former PhD students Dr. Thomas J. Vandal and Dr. Kate Duffy"
+        - title: "Co-Founder and Adviser, <a href='https://airesqclimsols.com/'>AIResQ</a>"
+          bullets:
+            - "Led by former PhD student Dr. Udit Bhatia"
+        - title: "Co-Founder and Chief Scientific Adviser, <a href='https://enodia.ai/'>Enodia</a>"
+          bullets:
+            - "Led by former PhD student Dr. Jack Watson."
+
+  # Legacy fields kept for backward compatibility if used elsewhere
   number_educ: 5
   education1: Director, <a href="https://sdslabnu.github.io/">Sustainability & Data Sciences Laboratory (SDS Lab)</a> Northeastern University
   education2: Professor (by courtesy), <a href="https://www.khoury.northeastern.edu/#_ga=2.104006592.1349209156.1623219007-379965365.1622754525">Khoury College of Computer Sciences</a>
   education3: Professor (by courtesy), <a href="https://cssh.northeastern.edu/polisci/#_ga=2.67309521.1349209156.1623219007-379965365.1622754525">Public Policy and Urban Affairs</a>
-  education4: Chief Scientist and Joint Appointee, <a href="https://www.pnnl.gov/"> US Department of Energy Pacific Northwest National Laboratory, Richland, WA</a>
-  education5: Co-Founder & Chief Scientific Adviser, <a href="https://www.risq.io/"> risQ Inc.</a>
+  education4: Chief Scientist and Joint Appointee, <a href="https://www.pnnl.gov/">US Department of Energy Pacific Northwest National Laboratory, Richland, WA</a>
+  education5: Co-Founder & Chief Scientific Adviser, <a href="https://www.risq.io/">risQ Inc.</a>
