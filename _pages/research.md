@@ -34,44 +34,183 @@ For a detailed list of funding grants, see the PI's CV [here](https://coe.northe
 
 ## Presentations:
 
-<span style="color:blue">**Keynotes: The National Academy**</span>
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/318854857" width="350" height="198" frameborder="0" allowfullscreen></iframe>
+<div markdown="0">
+<style>
+  .pres-card {
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    padding: 15px;
+    margin-bottom: 20px;
+    background: #fafafa;
+    min-height: 340px;
+    display: flex;
+    flex-direction: column;
+  }
+  .pres-card .pres-title {
+    font-size: 15px;
+    font-weight: bold;
+    color: #333;
+    min-height: 50px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  .pres-card .pres-title a { color: #333; }
+  .pres-card .pres-embed {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .pres-card .pres-embed iframe,
+  .pres-card .pres-embed img {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+  .pres-card .pres-desc {
+    font-size: 13px;
+    color: #555;
+    margin-top: 10px;
+    flex-grow: 1;
+  }
+</style>
 
-<span style="color:blue">**Convergent Research to Industry Startups by SDS Lab PI Auroop Ganguly and risQ CEO (and SDS Lab PhD alumnus) Evan Kodra**</span>
-<iframe width="350" height="198" src="https://www.youtube.com/embed/Eq4JDHhVno4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="row">
+    <div class="col-sm-6">
+    <div class="pres-card">
+      <div class="pres-title">Climate, weather and water to infrastructures, ecology and finance</div>
+      <div class="pres-embed">
+        <iframe src="https://www.youtube.com/embed/-i1Wdh_SClw?si=FHYKRHI9QKwXP1LG" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+      <div class="pres-desc">Invited Talk. Rafael L. Bras Symposium. <a href="https://annual.ametsoc.org/2026/program-events/conferences-and-symposia/rafael-l-bras-symposium/">2026 Annual Meeting of the American Meteorological Society</a></div>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="pres-card">
+      <div class="pres-title">Hybrid Physics-AI and Entrepreneurship in Climate and Sustainability</div>
+      <div class="pres-embed">
+        <iframe src="https://www.youtube.com/embed/6jLI29ISYdA?si=spUMVpfX6a-1YEVs" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+      <div class="pres-desc">KHU-NU Joint AI Workshop. Kyung Hee University Brain Pool Project, South Korea &amp; Institute for Experiential AI, Northeastern University &ndash; January 2026</div>
+    </div>
+  </div>
+</div>
 
-<span style="color:blue">**SDS Lab Research Overview: Invited Talk at IIT Gandhinagar by Auroop Ganguly:**</span>
-<iframe width="350" height="198" src="https://www.youtube.com/embed/Xzd8mzL8vKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="row">
+  <div class="col-sm-6">
+    <div class="pres-card">
+      <div class="pres-title">Towards AI4CEE at NU CEE: Research at the Interfaces and Lessons Learned</div>
+      <div class="pres-embed">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/zmPRa2_URmU?si=fLToMzf9ankTI-0y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+      <div class="pres-desc">Civil and Environmental Engineering Ideas Lab, Northeastern University- December 8</div>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="pres-card">
+      <div class="pres-title"><a href="https://zelen25.my.canva.site/" target="_blank">Forecasting the Future &ndash; How Accurate Are Our Climate Change Models?</a></div>
+      <div class="pres-embed">
+        <img src="/images/respic/Marvin_zelen_symposyum.png" alt="Marvin Zelen Memorial Symposium 2025" />
+      </div>
+      <div class="pres-desc">Marvin Zelen Memorial Symposium 2025. Click the title to access the video. Prof. Ganguly's talk begins at the 43:28 mark.</div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-6">
+    <div class="pres-card">
+      <div class="pres-title">Threat Deterrence in Soft Urban Transport Targets with Network Science and Machine Learning</div>
+      <div class="pres-embed">
+        <iframe src="https://www.youtube.com/embed/8ha87dDjb8E?si=Y3Ot5NWXu2K1-YO4" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="pres-card">
+      <div class="pres-title">DOD NICE SERDP Workshop</div>
+      <div class="pres-embed">
+        <iframe src="https://www.youtube.com/embed/irgUd8bMm6w?si=QJQcFUuYXMeEOmis" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-6">
+    <div class="pres-card">
+      <div class="pres-title">SERDP 2020 Symposium: Project NICE by Auroop Ganguly</div>
+      <div class="pres-embed">
+        <iframe src="https://www.youtube.com/embed/BRsifIgUdHA" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="pres-card">
+      <div class="pres-title">SDS Lab Resilience Research Introduction</div>
+      <div class="pres-embed">
+        <iframe src="https://www.youtube.com/embed/DdHSYUOZgto" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-6">
+    <div class="pres-card">
+      <div class="pres-title">Convergent Research to Industry Startups by SDS Lab PI Auroop Ganguly and risQ CEO Evan Kodra</div>
+      <div class="pres-embed">
+        <iframe src="https://www.youtube.com/embed/Eq4JDHhVno4" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="pres-card">
+      <div class="pres-title">SDS Lab Research Overview: Invited Talk at IIT Gandhinagar by Auroop Ganguly</div>
+      <div class="pres-embed">
+        <iframe src="https://www.youtube.com/embed/Xzd8mzL8vKA" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-6">
+    <div class="pres-card">
+      <div class="pres-title">Keynotes: The National Academy</div>
+      <div class="pres-embed">
+        <iframe src="https://player.vimeo.com/video/318854857" title="Vimeo player" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="pres-card">
+      <div class="pres-title">NSF ScienceLives Interview</div>
+      <div class="pres-embed">
+        <iframe src="https://www.youtube.com/embed/qd_Nmv1v1OE" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-6">
+    <div class="pres-card">
+      <div class="pres-title">SDS Lab Climate Research Introduction</div>
+      <div class="pres-embed">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/_QwVCpKyy2k?si=e8ydvBt70-S5ifNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
 
 
-<span style="color:blue">**SERDP 2020-Symposium: Project NICE by Auroop Ganguly**</span>
-<iframe width="350" height="198" src="https://www.youtube.com/embed/BRsifIgUdHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<span style="color:blue">**NSF ScienceLives interview:**</span>
-<iframe width="350" height="198" src="https://www.youtube.com/embed/qd_Nmv1v1OE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<span style="color:blue">**SDS Lab Climate Research Introduction:**</span>
-<iframe width="350" height="198" src="https://www.youtube.com/embed/_QwVCpKyy2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<span style="color:blue">**SDS Lab Resilience Research Introduction:**</span>
-<iframe width="350" height="198" src="https://www.youtube.com/embed/DdHSYUOZgto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<span style="color:blue">**DOD NICE SERDP WORKSHOP**</span>
-<iframe width="350" height="198" src="https://www.youtube.com/embed/irgUd8bMm6w?si=QJQcFUuYXMeEOmis" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<span style="color:blue">**Threat Deterrence in Soft Urban Transport Targets with Network Science and Machine Learning:**</span>
-<iframe width="350" height="198" src="https://www.youtube.com/embed/8ha87dDjb8E?si=Y3Ot5NWXu2K1-YO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<b>
-  <a href="https://zelen25.my.canva.site/" target="_blank">
-    Marvin Zelen Memorial Symposium 2025: Forecasting the Future – How Accurate Are Our Climate Change Models?
-  </a>
-</b>
-<br>
-<img src="/images/respic/Marvin_zelen_symposyum.png" class="img-responsive" style="max-width: 350px;" alt="Marvin Zelen Memorial Symposium 2025" />
-<p style="font-size: 14px; margin-top: 5px;">
-  Click the title above to access the video. Prof. Auroop Ganguly’s talk begins at the 43:28 mark in the recorded session. Scroll to the “Schedule” section on the site to find the video on the left-hand side.
-</p>
 
 ## Repositories:
 
@@ -89,9 +228,3 @@ Code or Data Repositories by current or former SDS Lab team and close collaborat
 * [Extreme Value Theory in Nature Climate Change](https://www.nature.com/articles/nclimate1327?proof=t)
 * [Climate and Coastal Upwelling in Nature](https://www.nature.com/articles/nature14235#journal-info)
 * [Water Stress under Population and Climate in Computers & Geosciences](https://www.sciencedirect.com/science/article/pii/S0098300412000210)
-
- 
-  
-  
-
-
