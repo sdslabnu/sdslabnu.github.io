@@ -70,6 +70,15 @@
   education2: 
   education3:
 
+- name: Svenja Rodenbusch
+  photo: Svenja-Rodenbusch.jpg
+  info: Master's Student at SDS Lab
+  email: rodenbusch.s@northeastern.edu
+  number_educ: 2
+  education1: MS in Climate Science and Engineering from Northeastern University
+  education2: BS in Biology from Fairfield University
+  education3:
+
 # - name: Orijeet Mukherjee
 #   photo: Orijeet.jpeg
 #   info: Graduate Researcher at Institute of Experiential AI

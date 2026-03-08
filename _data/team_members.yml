@@ -34,7 +34,7 @@
 
 - name: Jack Watson
   photo: Jack.png
-  info: Interdisciplinary PhD Student, started Fall 2020
+  info: Interdisciplinary PhD Candidate, started Fall 2020
   email: watson.jac@northeastern.edu
   number_educ: 1
   education1: BS in Environmental Geology and Chemistry from <a href="https://www.northeastern.edu/">Northeastern University</a>
@@ -59,7 +59,7 @@
 
 - name: Archita Ghosh
   photo: Archita.jpeg
-  info: PhD student, starting Fall 2023
+  info: PhD Candidate, starting Fall 2023
   email: ghosh.arc@northeastern.edu
   number_educ: 2
   education1: Btech in Electrical Engineering from Future Institute of Engg. and Management
@@ -99,7 +99,7 @@
 
 - name: Diyali Goswami 
   photo: Diyali.JPG
-  info: Interdisciplinary PhD Student, started Fall 2024
+  info: Interdisciplinary PhD Candidate, started Fall 2024
   email: goswami.di@northeastern.edu
   number_educ: 2
   education1: BTech in Electrical and Computer Engineering from Vellore Institute of Technology
@@ -107,7 +107,7 @@
 
 - name: Valeria Zingaretti
   photo: Valeria.jpg
-  info: PhD Student, started 2021
+  info: PhD Candidate, started 2021
   email: zingaretti.v@northeastern.edu
   number_educ: 2
   education1: MSc in Forestry and the Environment from Austral University of Chile 
