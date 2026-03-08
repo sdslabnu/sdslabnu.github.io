@@ -19,7 +19,9 @@ The SDS Lab PI Auroop Ganguly has been directly involved in funding grants for r
 </div>
 
 * <p><strong><span style='font-size:18px;font-family:"Cammron",sans-serif;color:#000000;'>Selected Funding:</span></strong></p>
+  * Weather Ensemble Analytics and Visualization Environment (WEAVE). DOD Air Force Weather. (<a href='https://coe.northeastern.edu/news/advancing-weather-prediction-for-defense-applications/'>NU COE news</a>)
   * Networked Infrastructure under Compound Extremes (NICE). US DOD SERDP. ([DOD Announcement](https://www.serdp-estcp.org/Program-Areas/Resource-Conservation-and-Resiliency/Infrastructure-Resiliency/Vulnerability-and-Impact-Assessment/RC20-1183), [NU News](https://coe.northeastern.edu/news/ganguly-to-lead-3m-serdp-grant-for-networked-infrastructures-under-compound-extremes/) and [SERDP Poster Presentation](https://www.youtube.com/watch?v=BRsifIgUdHA))
+  * Remote-sensing data driven Artificial Intelligence for precipitation Nowcasting (RAIN). NASA. (<a href='https://www.youtube.com/shorts/vVyI3DkUQeA'>video</a>, <a href='https://www.nature.com/articles/s41612-024-00834-8'>paper</a>)
   * Interdependent Network-based Quantification of Infrastructure Resilience (INQUIRE). NSF CRISP Type 2. ([NSF Award Page](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1735505) and [NU News](https://coe.northeastern.edu/news/interdisciplinary-team-to-lead-2-5m-nsf-crisp-grant/))
   * High-Dimensional Statistical Machine Learning for Spatio-Temporal Climate Data. NSF Big Data F DKA. [(NSF Award Page)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1447587)
   * SEA-MASCOT: Spatio-temporal Extremes and Associations : Marine Adaptation and Survivorship under Changes in extreme Ocean Temperatures. NSF Cyber SEES Type 2 ([NSF Award Page](https://nsf.gov/awardsearch/showAward?AWD_ID=1442728&HistoricalAwards=false) and [NU News](https://coe.northeastern.edu/news/interdisciplinary-nsf-grant/))
@@ -129,7 +131,7 @@ For a detailed list of funding grants, see the PI's CV [here](https://coe.northe
 <div class="row">
   <div class="col-sm-6">
     <div class="pres-card">
-      <div class="pres-title">Threat Deterrence in Soft Urban Transport Targets with Network Science and Machine Learning</div>
+      <div class="pres-title">Threat Deterrence in Soft Urban Transport Targets with Network Science and Machine Learning (Cited in a Testimony to the US Senate)</div>
       <div class="pres-embed">
         <iframe src="https://www.youtube.com/embed/8ha87dDjb8E?si=Y3Ot5NWXu2K1-YO4" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
