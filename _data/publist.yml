@@ -134,11 +134,9 @@
   description: Urban air pollution is a critical public health challenge in low-and-middle-income countries (LMICs). At the same time, LMICs tend to be data-poor, lacking adequate infrastructure to monitor air quality (AQ). As LMICs undergo rapid urbanization, the socio-economic burden of poor AQ will be immense. Here we present a globally scalable two-step deep learning (DL) based approach for AQ estimation in LMIC cities that mitigates the need for extensive AQ infrastructure on the ground. We train a DL model that can map satellite imagery to AQ in high-income countries (HICs) with sufficient ground data, and then adapt the model to learn meaningful AQ estimates in LMIC cities using transfer learning. The trained model can explain up to 54% of the variation in the AQ distribution of the target LMIC city without the need for target labels. The approach is demonstrated for Accra in Ghana, Africa, with AQ patterns learned and adapted from two HIC cities, specifically Los Angeles and New York.
   authors: Nishant Yadav, Meytar Sorek-Hamer, Michael Von Pohle, Ata Akbari Asanjan, Adwait Sahasrabhojanee, Esra Suel, Raphael E Arku, Violet Lingenfelter, Michael Brauer, Majid Ezzati, Nikunj Oza, Auroop R. Ganguly 
   link:
-    # url: https://www.sciencedirect.com/science/article/pii/S0269749123019164?via%3Dihub
     url: https://doi.org/10.1016/j.envpol.2023.122914
-    display:  ScienceDirect, 2023
+    display:  Environmental Pollution, 2024
   highlight: 1
-  news2:
 
 - title: "Explainable deep learning for insights in El Niño and river flows"
   image: explainable deep leaning for insights.png
@@ -147,8 +145,7 @@
   link:
     url: https://www.nature.com/articles/s41467-023-35968-5
     display:  
-  highlight: Nature, 2015
-  news2:
+  highlight: Nature Communications, 2023
 
 - title: "Network-based restoration strategies maximize ecosystem recovery"
   image: Network based restoration.png
@@ -156,9 +153,26 @@
   authors: Udit Bhatia, Sarth Dubey, Tarik C. Gouhier & Auroop R. Ganguly 
   link:
     url: https://www.nature.com/articles/s42003-023-05622-3
-    display:  Nature, 2023
+    display:  Communications Biology, 2023
   highlight: 1
-  news2:
+
+- title: "Mapping crops within the growing season across the United States"
+  image: Konduri20.PNG
+  description: Timely and accurate knowledge about the geospatial distribution of crops at regional to continental scales is crucial for forecasting crop production and estimating crop water use. The United States (US) is one of the leading food-producing countries, but lacks a nationwide high resolution crop-specific land cover map available publicly during the current growing season. The goal of this study was to map crops across the Continental US (CONUS) before the harvest, and to estimate the earliest date of classification by which crops can be mapped with sufficient accuracy (90% of full-season accuracy). The study employed a scalable cluster-then-label model that was trained on multiple years of MODIS NDVI using ground truth data in the form of US Department of Agriculture (USDA) Cropland Data Layer (CDL) products. The first step in the crop classification was to perform Multivariate Spatio-Temporal Clustering (MSTC) of annual MODIS-derived NDVI trajectories to create phenologically similar regions, or phenoregions. The second step was to assign crop labels to phenoregions based on spatial concordance between phenoregions and crop classes from CDL using Mapcurves. Assigning crop labels to phenoregions was performed within ecoregions to reduce classification errors due to spatial variability in phenology caused by variations in climate, agricultural practices, and growing conditions. The crop classifier was trained and validated on the years 2008–2014, then tested independently on 2015–2018. Ecoregion-level crop classification performed better than state-level and CONUS-level classification. Pixel-wise accuracy of classification for eight major crops by area was around 70% across the major corn-, soybeans- and winter wheatproducing areas, whereas regions characterized by high crop diversity had slightly lower accuracy. Classification accuracy for dominant crops like corn, soybeans, winter wheat, fallow/idle cropland and other hay/non alfalfa improved with time as they grew, reaching 90% of year-end accuracy by the end of August over each of the four unseen years in the test period. For corn and soybeans, the earliest dates of classification were found to be much earlier in the central regions of the Corn Belt (parts of Iowa, Illinois and Indiana) than in peripheral areas. The ability to map growing crops may permit near real-time monitoring of the health status and vigor of agricultural crops nationally.
+  authors: Venkata Shashank Konduri,Jitendra Kumar, William W. Hargrove, Forrest M. Hoffman, Auroop R.Ganguly
+  link:
+    url: https://doi.org/10.1016/j.rse.2020.112048
+    display:  Remote Sensing of Environment, 2020
+  highlight: 1
+
+- title: "DeepSD: Generating High Resolution Climate Change Projections through Single Image Super-Resolution"
+  image: Vandal17.PNG
+  description: The impacts of climate change are felt by most critical systems, such as infrastructure, ecological systems, and power-plants. However,contemporary Earth System Models (ESM) are run at spatial resolutions too coarse for assessing effects this localized. Local scale projections can be obtained using statistical downscaling, a technique which uses historical climate observations to learn a low-resolution to high-resolution mapping. Depending on statistical modeling choices, downscaled projections have been shown to vary significantly terms of accuracy and reliability. The spatio-temporal nature of the climate system motivates the adaptation of super-resolution image processing techniques to statistical downscaling. In our work, we present DeepSD, a generalized stacked super resolution convolutional neural network (SRCNN) framework for statistical downscaling of climate variables. DeepSD augments SRCNN with multi-scale input channels to maximize predictability in statistical downscaling. We provide a comparison with Bias Correction Spatial Disaggregation as well as three Automated-Statistical Downscaling approaches in downscaling daily precipitation from 1 degree ( 100km) to 1/8 degrees ( 12.5km) over the Continental United States.Furthermore, a framework using the NASA Earth Exchange (NEX) platform is discussed for downscaling more than 20 ESM models with multiple emission scenarios.
+  authors: Thomas Vandal, Evan Kodra, Sangram Ganguly, Andrew Michaelis, Ramakrishna Nemani, Auroop R Ganguly
+  link:
+    url: https://doi.org/10.1145/3097983.3098004
+    display:  ACM SIGKDD, 2017
+  highlight: 1
 
 - title: "Intensification and spatial homogenization of coastal upwelling under climate change"
   image: Nature_David_wang.webp
@@ -167,16 +181,6 @@
   link:
     url: https://doi.org/10.1038/nature14235
     display:  Nature, 2015
-  highlight: 1
-  news2:
-  
-- title: "DeepSD: Generating High Resolution Climate Change Projections through Single Image Super-Resolution"
-  image: Vandal17.PNG
-  description: The impacts of climate change are felt by most critical systems, such as infrastructure, ecological systems, and power-plants. However,contemporary Earth System Models (ESM) are run at spatial resolutions too coarse for assessing effects this localized. Local scale projections can be obtained using statistical downscaling, a technique which uses historical climate observations to learn a low-resolution to high-resolution mapping. Depending on statistical modeling choices, downscaled projections have been shown to vary significantly terms of accuracy and reliability. The spatio-temporal nature of the climate system motivates the adaptation of super-resolution image processing techniques to statistical downscaling. In our work, we present DeepSD, a generalized stacked super resolution convolutional neural network (SRCNN) framework for statistical downscaling of climate variables. DeepSD augments SRCNN with multi-scale input channels to maximize predictability in statistical downscaling. We provide a comparison with Bias Correction Spatial Disaggregation as well as three Automated-Statistical Downscaling approaches in downscaling daily precipitation from 1 degree ( 100km) to 1/8 degrees ( 12.5km) over the Continental United States.Furthermore, a framework using the NASA Earth Exchange (NEX) platform is discussed for downscaling more than 20 ESM models with multiple emission scenarios.
-  authors: Thomas Vandal, Evan Kodra, Sangram Ganguly, Andrew Michaelis, Ramakrishna Nemani, Auroop R Ganguly
-  link:
-    url: https://doi.org/10.1145/3097983.3098004
-    display:  ACM, 2017
   highlight: 1
   news2:
 
@@ -197,14 +201,4 @@
   link:
     url: https://doi.org/10.1038/s41598-020-66049-y
     display: Nature Climate Change, 2011
-  highlight: 1
-  news2: 
-
-- title: "Mapping crops within the growing season across the United States"
-  image: Konduri20.PNG
-  description: Timely and accurate knowledge about the geospatial distribution of crops at regional to continental scales is crucial for forecasting crop production and estimating crop water use. The United States (US) is one of the leading food-producing countries, but lacks a nationwide high resolution crop-specific land cover map available publicly during the current growing season. The goal of this study was to map crops across the Continental US (CONUS) before the harvest, and to estimate the earliest date of classification by which crops can be mapped with sufficient accuracy (90% of full-season accuracy). The study employed a scalable cluster-then-label model that was trained on multiple years of MODIS NDVI using ground truth data in the form of US Department of Agriculture (USDA) Cropland Data Layer (CDL) products. The first step in the crop classification was to perform Multivariate Spatio-Temporal Clustering (MSTC) of annual MODIS-derived NDVI trajectories to create phenologically similar regions, or phenoregions. The second step was to assign crop labels to phenoregions based on spatial concordance between phenoregions and crop classes from CDL using Mapcurves. Assigning crop labels to phenoregions was performed within ecoregions to reduce classification errors due to spatial variability in phenology caused by variations in climate, agricultural practices, and growing conditions. The crop classifier was trained and validated on the years 2008–2014, then tested independently on 2015–2018. Ecoregion-level crop classification performed better than state-level and CONUS-level classification. Pixel-wise accuracy of classification for eight major crops by area was around 70% across the major corn-, soybeans- and winter wheatproducing areas, whereas regions characterized by high crop diversity had slightly lower accuracy. Classification accuracy for dominant crops like corn, soybeans, winter wheat, fallow/idle cropland and other hay/non alfalfa improved with time as they grew, reaching 90% of year-end accuracy by the end of August over each of the four unseen years in the test period. For corn and soybeans, the earliest dates of classification were found to be much earlier in the central regions of the Corn Belt (parts of Iowa, Illinois and Indiana) than in peripheral areas. The ability to map growing crops may permit near real-time monitoring of the health status and vigor of agricultural crops nationally.
-  authors: Venkata Shashank Konduri,Jitendra Kumar, William W. Hargrove, Forrest M. Hoffman, Auroop R.Ganguly
-  link:
-    url: https://doi.org/10.1016/j.rse.2020.112048
-    display:  ScienceDirect, 2019
   highlight: 1
