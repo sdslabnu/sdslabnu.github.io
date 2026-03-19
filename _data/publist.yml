@@ -202,6 +202,24 @@
     display:  Nature Climate Change, 2012
   highlight: 1
 
+- title: "Multivariate and multiscale dependence in the global climate system revealed through complex networks"
+  image: climate-dynamics-2011.jpeg
+  description: A systematic characterization of multivariate dependence at multiple spatio-temporal scales is critical to understanding climate system dynamics and improving predictive ability from models and data. However, dependence structures in climate are complex due to nonlinear dynamical generating processes, long-range spatial and long-memory temporal relationships, as well as low-frequency variability. Here we utilize complex networks to explore dependence in climate data. Specifically, networks constructed from reanalysis-based atmospheric variables over oceans and partitioned with community detection methods demonstrate the potential to capture regional and global dependence structures within and among climate variables. Proximity-based dependence as well as long-range spatial relationships are examined along with their evolution over time, yielding new insights on ocean meteorology. The tools are implicitly validated by confirming conceptual understanding about aggregate correlations and teleconnections. Our results also suggest a close similarity of observed dependence patterns in relative humidity and horizontal wind speed over oceans. In addition, updraft velocity, which relates to convective activity over the oceans, exhibits short spatiotemporal decorrelation scales but long-range dependence over time. The multivariate and multi-scale dependence patterns broadly persist over multiple time windows. Our findings motivate further investigations of dependence structures among observations, reanalysis and model-simulated data to enhance process understanding, assess model reliability and improve regional climate predictions.
+  authors: Karsten Steinhaeuser, Auroop R. Ganguly, Nitesh V. Chawla 
+  link:
+    url: https://doi.org/10.1007/s00382-011-1135-9
+    display:  Climate Dynamics, 2011
+  highlight: 1
+
+- title: "Complex networks as a unified framework for descriptive analysis and predictive modeling in climate science"
+  image: Statistical-Analysis-and-Data-Mining.jpg
+  description: The analysis of climate data has relied heavily on hypothesis-driven statistical methods, while projections of future climate are based primarily on physics-based computational models. However, in recent years a wealth of new datasets has become available. Therefore, we take a more data-centric approach and propose a unified framework for studying climate, with an aim toward characterizing observed phenomena as well as discovering new knowledge in climate science. Specifically, we posit that complex networks are well suited for both descriptive analysis and predictive modeling tasks. We show that the structural properties of ‘climate networks’ have useful interpretation within the domain. Further, we extract clusters from these networks and demonstrate their predictive power as climate indices. Our experimental results establish that the network clusters are statistically significantly better predictors than clusters derived using a more traditional clustering approach. Using complex networks as data representation thus enables the unique opportunity for descriptive and predictive modeling to inform each other. 
+  authors: Karsten Steinhaeuser, Nitesh V. Chawla, Auroop R. Ganguly 
+  link:
+    url: https://doi.org/10.1002/sam.10100
+    display: Statistical Analysis and Data Mining, 2010
+  highlight: 1
+
 - title: "Higher trends but larger uncertainty and geographic variability in 21st century temperature and heat waves"
   image: pnas-2009.jpeg
   description: Generating credible climate change and extremes projections remains a high-priority challenge, especially since recent observed emissions are above the worst-case scenario. Bias and uncertainty analyses of ensemble simulations from a global earth systems model show increased warming and more intense heat waves combined with greater uncertainty and large regional variability in the 21st century. Global warming trends are statistically validated across ensembles and investigated at regional scales. Observed heat wave intensities in the current decade are larger than worst-case projections. Model projections are relatively insensitive to initial conditions, while uncertainty bounds obtained by comparison with recent observations are wider than ensemble ranges. Increased trends in temperature and heat waves, concurrent with larger uncertainty and variability, suggest greater urgency and complexity of adaptation or mitigation decisions.
