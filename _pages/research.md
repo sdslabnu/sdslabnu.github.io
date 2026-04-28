@@ -39,7 +39,7 @@ For a detailed list of funding grants, see the PI's CV [here](https://coe.northe
 
 <hr>
 
-## Presentations:
+## Presentations
 
 <div markdown="0">
 <style>
@@ -89,13 +89,24 @@ For a detailed list of funding grants, see the PI's CV [here](https://coe.northe
 <div class="row">
     <div class="col-sm-6">
     <div class="pres-card">
+      <div class="pres-title">Analyzing Extremes: Python Tools for ESM (CMIP6) Data Analysis</div>
+      <div class="pres-embed">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/WYLfygm-VnQ?si=TokFWqcmYAQ04sXS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+      <div class="pres-desc">Github Repository Link: <a href="https://github.com/pujaNU11/ESM_Data_Download_-Visualization/tree/main">Climate Extremes Analysis Toolkit</a></div>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="pres-card">
       <div class="pres-title">Climate, weather and water to infrastructures, ecology and finance</div>
       <div class="pres-embed">
         <iframe src="https://www.youtube.com/embed/-i1Wdh_SClw?si=FHYKRHI9QKwXP1LG" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </div>
       <div class="pres-desc">Invited Talk. Rafael L. Bras Symposium. <a href="https://annual.ametsoc.org/2026/program-events/conferences-and-symposia/rafael-l-bras-symposium/">2026 Annual Meeting of the American Meteorological Society</a></div>
-    </div>
   </div>
+</div>
+
+<div class="row">
   <div class="col-sm-6">
     <div class="pres-card">
       <div class="pres-title">Hybrid Physics-AI and Entrepreneurship in Climate and Sustainability</div>
@@ -105,9 +116,6 @@ For a detailed list of funding grants, see the PI's CV [here](https://coe.northe
       <div class="pres-desc">KHU-NU Joint AI Workshop. Kyung Hee University Brain Pool Project, South Korea &amp; Institute for Experiential AI, Northeastern University &ndash; January 2026</div>
     </div>
   </div>
-</div>
-
-<div class="row">
   <div class="col-sm-6">
     <div class="pres-card">
       <div class="pres-title">Towards AI4CEE at NU CEE: Research at the Interfaces and Lessons Learned</div>
@@ -115,6 +123,17 @@ For a detailed list of funding grants, see the PI's CV [here](https://coe.northe
         <iframe width="560" height="315" src="https://www.youtube.com/embed/zmPRa2_URmU?si=fLToMzf9ankTI-0y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </div>
       <div class="pres-desc">Civil and Environmental Engineering Ideas Lab, Northeastern University- December 8</div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-6">
+    <div class="pres-card">
+      <div class="pres-title">DOD NICE SERDP Workshop</div>
+      <div class="pres-embed">
+        <iframe src="https://www.youtube.com/embed/irgUd8bMm6w?si=QJQcFUuYXMeEOmis" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
     </div>
   </div>
   <div class="col-sm-6">
@@ -139,9 +158,9 @@ For a detailed list of funding grants, see the PI's CV [here](https://coe.northe
   </div>
   <div class="col-sm-6">
     <div class="pres-card">
-      <div class="pres-title">DOD NICE SERDP Workshop</div>
+      <div class="pres-title">Convergent Research to Industry Startups by SDS Lab PI Auroop Ganguly and risQ CEO Evan Kodra</div>
       <div class="pres-embed">
-        <iframe src="https://www.youtube.com/embed/irgUd8bMm6w?si=QJQcFUuYXMeEOmis" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/Eq4JDHhVno4" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
     </div>
   </div>
@@ -169,9 +188,9 @@ For a detailed list of funding grants, see the PI's CV [here](https://coe.northe
 <div class="row">
   <div class="col-sm-6">
     <div class="pres-card">
-      <div class="pres-title">Convergent Research to Industry Startups by SDS Lab PI Auroop Ganguly and risQ CEO Evan Kodra</div>
+      <div class="pres-title">SDS Lab Climate Research Introduction</div>
       <div class="pres-embed">
-        <iframe src="https://www.youtube.com/embed/Eq4JDHhVno4" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/_QwVCpKyy2k?si=e8ydvBt70-S5ifNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </div>
     </div>
   </div>
@@ -203,24 +222,14 @@ For a detailed list of funding grants, see the PI's CV [here](https://coe.northe
     </div>
   </div>
 </div>
-
-<div class="row">
-  <div class="col-sm-6">
-    <div class="pres-card">
-      <div class="pres-title">SDS Lab Climate Research Introduction</div>
-      <div class="pres-embed">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/_QwVCpKyy2k?si=e8ydvBt70-S5ifNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      </div>
-    </div>
-  </div>
 </div>
 
+<!-- Close the Presentations block opened with <div markdown="0"> -->
 </div>
 
+## Repositories
 
-
-## Repositories:
-
+<div class="dialogue-intro" markdown="1">
 Code or Data Repositories by current or former SDS Lab team and close collaborators:
 
 <span style="color:blue">**GitHub Pages:**</span> 
@@ -235,3 +244,4 @@ Code or Data Repositories by current or former SDS Lab team and close collaborat
 * [Extreme Value Theory in Nature Climate Change](https://www.nature.com/articles/nclimate1327?proof=t)
 * [Climate and Coastal Upwelling in Nature](https://www.nature.com/articles/nature14235#journal-info)
 * [Water Stress under Population and Climate in Computers & Geosciences](https://www.sciencedirect.com/science/article/pii/S0098300412000210)
+</div>
