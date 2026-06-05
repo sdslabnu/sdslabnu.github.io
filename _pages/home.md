@@ -175,8 +175,12 @@ The PI of SDS lab is **Dr. Auroop Ganguly** (Distinguished College of Engineerin
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 5px"> -->
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GOVT_INDIA.jpeg" style="width: 100px">
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 5px"> -->
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/the_nature_cons.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/the_nature_conservancy.svg" style="width: 200px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/gulf_of_maine.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/gulf_of_maine.png" style="width: 200px">
+  <img src="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/blank.PNG" style="width: 10px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/google-logo.png" style="width: 200px">
+  <img src="">
   <p style="color:blue; font-weight: bold; font-size: 16px;"> and Private Donors </p>
 </figure>
